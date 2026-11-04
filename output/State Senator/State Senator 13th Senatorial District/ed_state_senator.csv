@@ -1,0 +1,485 @@
+ED_num,reported,candidate,party,votes,AD_num,scrape_time
+ED    3,99.00%,Jessica Gonzalez-Rojas,(Democratic),91,AD 30,2026-11-04_12:16:31.586453
+ED    3,99.00%,John Patrick Healy,(Republican),29,AD 30,2026-11-04_12:16:31.586453
+ED    3,99.00%,Jessica Gonzalez-Rojas,(Working Families),26,AD 30,2026-11-04_12:16:31.586453
+ED    3,99.00%,WRITE-IN,&nbsp,1,AD 30,2026-11-04_12:16:31.586453
+ED    4,99.00%,Jessica Gonzalez-Rojas,(Democratic),280,AD 30,2026-11-04_12:16:31.586453
+ED    4,99.00%,John Patrick Healy,(Republican),73,AD 30,2026-11-04_12:16:31.586453
+ED    4,99.00%,Jessica Gonzalez-Rojas,(Working Families),40,AD 30,2026-11-04_12:16:31.586453
+ED    4,99.00%,WRITE-IN,&nbsp,1,AD 30,2026-11-04_12:16:31.586453
+ED   14,88.89%,Jessica Gonzalez-Rojas,(Democratic),53,AD 30,2026-11-04_12:16:31.586453
+ED   14,88.89%,John Patrick Healy,(Republican),26,AD 30,2026-11-04_12:16:31.586453
+ED   14,88.89%,Jessica Gonzalez-Rojas,(Working Families),8,AD 30,2026-11-04_12:16:31.586453
+ED   14,88.89%,WRITE-IN,&nbsp,0,AD 30,2026-11-04_12:16:31.586453
+ED   15,99.00%,Jessica Gonzalez-Rojas,(Democratic),235,AD 30,2026-11-04_12:16:31.586453
+ED   15,99.00%,John Patrick Healy,(Republican),73,AD 30,2026-11-04_12:16:31.586453
+ED   15,99.00%,Jessica Gonzalez-Rojas,(Working Families),24,AD 30,2026-11-04_12:16:31.586453
+ED   15,99.00%,WRITE-IN,&nbsp,1,AD 30,2026-11-04_12:16:31.586453
+ED   40,99.00%,Jessica Gonzalez-Rojas,(Democratic),257,AD 30,2026-11-04_12:16:31.586453
+ED   40,99.00%,John Patrick Healy,(Republican),65,AD 30,2026-11-04_12:16:31.586453
+ED   40,99.00%,Jessica Gonzalez-Rojas,(Working Families),33,AD 30,2026-11-04_12:16:31.586453
+ED   40,99.00%,WRITE-IN,&nbsp,1,AD 30,2026-11-04_12:16:31.586453
+ED   41,99.00%,Jessica Gonzalez-Rojas,(Democratic),322,AD 30,2026-11-04_12:16:31.586453
+ED   41,99.00%,John Patrick Healy,(Republican),115,AD 30,2026-11-04_12:16:31.586453
+ED   41,99.00%,Jessica Gonzalez-Rojas,(Working Families),59,AD 30,2026-11-04_12:16:31.586453
+ED   41,99.00%,WRITE-IN,&nbsp,2,AD 30,2026-11-04_12:16:31.586453
+ED   46,99.00%,Jessica Gonzalez-Rojas,(Democratic),441,AD 30,2026-11-04_12:16:31.586453
+ED   46,99.00%,John Patrick Healy,(Republican),114,AD 30,2026-11-04_12:16:31.586453
+ED   46,99.00%,Jessica Gonzalez-Rojas,(Working Families),58,AD 30,2026-11-04_12:16:31.586453
+ED   46,99.00%,WRITE-IN,&nbsp,3,AD 30,2026-11-04_12:16:31.586453
+ED   47,99.00%,Jessica Gonzalez-Rojas,(Democratic),256,AD 30,2026-11-04_12:16:31.586453
+ED   47,99.00%,John Patrick Healy,(Republican),86,AD 30,2026-11-04_12:16:31.586453
+ED   47,99.00%,Jessica Gonzalez-Rojas,(Working Families),59,AD 30,2026-11-04_12:16:31.586453
+ED   47,99.00%,WRITE-IN,&nbsp,2,AD 30,2026-11-04_12:16:31.586453
+Total,,Jessica Gonzalez-Rojas,(Democratic),1935,AD 30,2026-11-04_12:16:31.586453
+Total,,John Patrick Healy,(Republican),581,AD 30,2026-11-04_12:16:31.586453
+Total,,Jessica Gonzalez-Rojas,(Working Families),307,AD 30,2026-11-04_12:16:31.586453
+Total,,WRITE-IN,&nbsp,11,AD 30,2026-11-04_12:16:31.586453
+ED    2,99.00%,Jessica Gonzalez-Rojas,(Democratic),95,AD 34,2026-11-04_12:16:31.586453
+ED    2,99.00%,John Patrick Healy,(Republican),32,AD 34,2026-11-04_12:16:31.586453
+ED    2,99.00%,Jessica Gonzalez-Rojas,(Working Families),7,AD 34,2026-11-04_12:16:31.586453
+ED    2,99.00%,WRITE-IN,&nbsp,0,AD 34,2026-11-04_12:16:31.586453
+ED   10,99.00%,Jessica Gonzalez-Rojas,(Democratic),292,AD 34,2026-11-04_12:16:31.586453
+ED   10,99.00%,John Patrick Healy,(Republican),80,AD 34,2026-11-04_12:16:31.586453
+ED   10,99.00%,Jessica Gonzalez-Rojas,(Working Families),35,AD 34,2026-11-04_12:16:31.586453
+ED   10,99.00%,WRITE-IN,&nbsp,1,AD 34,2026-11-04_12:16:31.586453
+ED   11,99.00%,Jessica Gonzalez-Rojas,(Democratic),219,AD 34,2026-11-04_12:16:31.586453
+ED   11,99.00%,John Patrick Healy,(Republican),50,AD 34,2026-11-04_12:16:31.586453
+ED   11,99.00%,Jessica Gonzalez-Rojas,(Working Families),25,AD 34,2026-11-04_12:16:31.586453
+ED   11,99.00%,WRITE-IN,&nbsp,0,AD 34,2026-11-04_12:16:31.586453
+ED   28,99.00%,Jessica Gonzalez-Rojas,(Democratic),180,AD 34,2026-11-04_12:16:31.586453
+ED   28,99.00%,John Patrick Healy,(Republican),53,AD 34,2026-11-04_12:16:31.586453
+ED   28,99.00%,Jessica Gonzalez-Rojas,(Working Families),25,AD 34,2026-11-04_12:16:31.586453
+ED   28,99.00%,WRITE-IN,&nbsp,0,AD 34,2026-11-04_12:16:31.586453
+ED   29,99.00%,Jessica Gonzalez-Rojas,(Democratic),224,AD 34,2026-11-04_12:16:31.586453
+ED   29,99.00%,John Patrick Healy,(Republican),107,AD 34,2026-11-04_12:16:31.586453
+ED   29,99.00%,Jessica Gonzalez-Rojas,(Working Families),20,AD 34,2026-11-04_12:16:31.586453
+ED   29,99.00%,WRITE-IN,&nbsp,2,AD 34,2026-11-04_12:16:31.586453
+ED   30,99.00%,Jessica Gonzalez-Rojas,(Democratic),260,AD 34,2026-11-04_12:16:31.586453
+ED   30,99.00%,John Patrick Healy,(Republican),118,AD 34,2026-11-04_12:16:31.586453
+ED   30,99.00%,Jessica Gonzalez-Rojas,(Working Families),32,AD 34,2026-11-04_12:16:31.586453
+ED   30,99.00%,WRITE-IN,&nbsp,2,AD 34,2026-11-04_12:16:31.586453
+ED   31,99.00%,Jessica Gonzalez-Rojas,(Democratic),334,AD 34,2026-11-04_12:16:31.586453
+ED   31,99.00%,John Patrick Healy,(Republican),140,AD 34,2026-11-04_12:16:31.586453
+ED   31,99.00%,Jessica Gonzalez-Rojas,(Working Families),58,AD 34,2026-11-04_12:16:31.586453
+ED   31,99.00%,WRITE-IN,&nbsp,2,AD 34,2026-11-04_12:16:31.586453
+ED   32,99.00%,Jessica Gonzalez-Rojas,(Democratic),222,AD 34,2026-11-04_12:16:31.586453
+ED   32,99.00%,John Patrick Healy,(Republican),87,AD 34,2026-11-04_12:16:31.586453
+ED   32,99.00%,Jessica Gonzalez-Rojas,(Working Families),22,AD 34,2026-11-04_12:16:31.586453
+ED   32,99.00%,WRITE-IN,&nbsp,0,AD 34,2026-11-04_12:16:31.586453
+ED   33,99.00%,Jessica Gonzalez-Rojas,(Democratic),148,AD 34,2026-11-04_12:16:31.586453
+ED   33,99.00%,John Patrick Healy,(Republican),51,AD 34,2026-11-04_12:16:31.586453
+ED   33,99.00%,Jessica Gonzalez-Rojas,(Working Families),22,AD 34,2026-11-04_12:16:31.586453
+ED   33,99.00%,WRITE-IN,&nbsp,0,AD 34,2026-11-04_12:16:31.586453
+ED   34,99.00%,Jessica Gonzalez-Rojas,(Democratic),298,AD 34,2026-11-04_12:16:31.586453
+ED   34,99.00%,John Patrick Healy,(Republican),89,AD 34,2026-11-04_12:16:31.586453
+ED   34,99.00%,Jessica Gonzalez-Rojas,(Working Families),43,AD 34,2026-11-04_12:16:31.586453
+ED   34,99.00%,WRITE-IN,&nbsp,3,AD 34,2026-11-04_12:16:31.586453
+ED   35,99.00%,Jessica Gonzalez-Rojas,(Democratic),233,AD 34,2026-11-04_12:16:31.586453
+ED   35,99.00%,John Patrick Healy,(Republican),57,AD 34,2026-11-04_12:16:31.586453
+ED   35,99.00%,Jessica Gonzalez-Rojas,(Working Families),14,AD 34,2026-11-04_12:16:31.586453
+ED   35,99.00%,WRITE-IN,&nbsp,1,AD 34,2026-11-04_12:16:31.586453
+ED   36,90.91%,Jessica Gonzalez-Rojas,(Democratic),377,AD 34,2026-11-04_12:16:31.586453
+ED   36,90.91%,John Patrick Healy,(Republican),117,AD 34,2026-11-04_12:16:31.586453
+ED   36,90.91%,Jessica Gonzalez-Rojas,(Working Families),50,AD 34,2026-11-04_12:16:31.586453
+ED   36,90.91%,WRITE-IN,&nbsp,4,AD 34,2026-11-04_12:16:31.586453
+ED   37,90.91%,Jessica Gonzalez-Rojas,(Democratic),150,AD 34,2026-11-04_12:16:31.586453
+ED   37,90.91%,John Patrick Healy,(Republican),63,AD 34,2026-11-04_12:16:31.586453
+ED   37,90.91%,Jessica Gonzalez-Rojas,(Working Families),21,AD 34,2026-11-04_12:16:31.586453
+ED   37,90.91%,WRITE-IN,&nbsp,1,AD 34,2026-11-04_12:16:31.586453
+ED   38,99.00%,Jessica Gonzalez-Rojas,(Democratic),149,AD 34,2026-11-04_12:16:31.586453
+ED   38,99.00%,John Patrick Healy,(Republican),52,AD 34,2026-11-04_12:16:31.586453
+ED   38,99.00%,Jessica Gonzalez-Rojas,(Working Families),32,AD 34,2026-11-04_12:16:31.586453
+ED   38,99.00%,WRITE-IN,&nbsp,0,AD 34,2026-11-04_12:16:31.586453
+ED   39,90.91%,Jessica Gonzalez-Rojas,(Democratic),395,AD 34,2026-11-04_12:16:31.586453
+ED   39,90.91%,John Patrick Healy,(Republican),88,AD 34,2026-11-04_12:16:31.586453
+ED   39,90.91%,Jessica Gonzalez-Rojas,(Working Families),90,AD 34,2026-11-04_12:16:31.586453
+ED   39,90.91%,WRITE-IN,&nbsp,5,AD 34,2026-11-04_12:16:31.586453
+ED   40,99.00%,Jessica Gonzalez-Rojas,(Democratic),225,AD 34,2026-11-04_12:16:31.586453
+ED   40,99.00%,John Patrick Healy,(Republican),77,AD 34,2026-11-04_12:16:31.586453
+ED   40,99.00%,Jessica Gonzalez-Rojas,(Working Families),35,AD 34,2026-11-04_12:16:31.586453
+ED   40,99.00%,WRITE-IN,&nbsp,0,AD 34,2026-11-04_12:16:31.586453
+ED   41,99.00%,Jessica Gonzalez-Rojas,(Democratic),374,AD 34,2026-11-04_12:16:31.586453
+ED   41,99.00%,John Patrick Healy,(Republican),156,AD 34,2026-11-04_12:16:31.586453
+ED   41,99.00%,Jessica Gonzalez-Rojas,(Working Families),126,AD 34,2026-11-04_12:16:31.586453
+ED   41,99.00%,WRITE-IN,&nbsp,5,AD 34,2026-11-04_12:16:31.586453
+ED   42,99.00%,Jessica Gonzalez-Rojas,(Democratic),266,AD 34,2026-11-04_12:16:31.586453
+ED   42,99.00%,John Patrick Healy,(Republican),105,AD 34,2026-11-04_12:16:31.586453
+ED   42,99.00%,Jessica Gonzalez-Rojas,(Working Families),61,AD 34,2026-11-04_12:16:31.586453
+ED   42,99.00%,WRITE-IN,&nbsp,2,AD 34,2026-11-04_12:16:31.586453
+ED   43,99.00%,Jessica Gonzalez-Rojas,(Democratic),314,AD 34,2026-11-04_12:16:31.586453
+ED   43,99.00%,John Patrick Healy,(Republican),92,AD 34,2026-11-04_12:16:31.586453
+ED   43,99.00%,Jessica Gonzalez-Rojas,(Working Families),58,AD 34,2026-11-04_12:16:31.586453
+ED   43,99.00%,WRITE-IN,&nbsp,2,AD 34,2026-11-04_12:16:31.586453
+ED   44,99.00%,Jessica Gonzalez-Rojas,(Democratic),354,AD 34,2026-11-04_12:16:31.586453
+ED   44,99.00%,John Patrick Healy,(Republican),114,AD 34,2026-11-04_12:16:31.586453
+ED   44,99.00%,Jessica Gonzalez-Rojas,(Working Families),50,AD 34,2026-11-04_12:16:31.586453
+ED   44,99.00%,WRITE-IN,&nbsp,1,AD 34,2026-11-04_12:16:31.586453
+ED   45,99.00%,Jessica Gonzalez-Rojas,(Democratic),163,AD 34,2026-11-04_12:16:31.586453
+ED   45,99.00%,John Patrick Healy,(Republican),55,AD 34,2026-11-04_12:16:31.586453
+ED   45,99.00%,Jessica Gonzalez-Rojas,(Working Families),31,AD 34,2026-11-04_12:16:31.586453
+ED   45,99.00%,WRITE-IN,&nbsp,0,AD 34,2026-11-04_12:16:31.586453
+ED   46,99.00%,Jessica Gonzalez-Rojas,(Democratic),471,AD 34,2026-11-04_12:16:31.586453
+ED   46,99.00%,John Patrick Healy,(Republican),169,AD 34,2026-11-04_12:16:31.586453
+ED   46,99.00%,Jessica Gonzalez-Rojas,(Working Families),76,AD 34,2026-11-04_12:16:31.586453
+ED   46,99.00%,WRITE-IN,&nbsp,3,AD 34,2026-11-04_12:16:31.586453
+ED   47,99.00%,Jessica Gonzalez-Rojas,(Democratic),373,AD 34,2026-11-04_12:16:31.586453
+ED   47,99.00%,John Patrick Healy,(Republican),153,AD 34,2026-11-04_12:16:31.586453
+ED   47,99.00%,Jessica Gonzalez-Rojas,(Working Families),55,AD 34,2026-11-04_12:16:31.586453
+ED   47,99.00%,WRITE-IN,&nbsp,2,AD 34,2026-11-04_12:16:31.586453
+ED   48,99.00%,Jessica Gonzalez-Rojas,(Democratic),249,AD 34,2026-11-04_12:16:31.586453
+ED   48,99.00%,John Patrick Healy,(Republican),84,AD 34,2026-11-04_12:16:31.586453
+ED   48,99.00%,Jessica Gonzalez-Rojas,(Working Families),64,AD 34,2026-11-04_12:16:31.586453
+ED   48,99.00%,WRITE-IN,&nbsp,3,AD 34,2026-11-04_12:16:31.586453
+ED   49,99.00%,Jessica Gonzalez-Rojas,(Democratic),390,AD 34,2026-11-04_12:16:31.586453
+ED   49,99.00%,John Patrick Healy,(Republican),131,AD 34,2026-11-04_12:16:31.586453
+ED   49,99.00%,Jessica Gonzalez-Rojas,(Working Families),106,AD 34,2026-11-04_12:16:31.586453
+ED   49,99.00%,WRITE-IN,&nbsp,9,AD 34,2026-11-04_12:16:31.586453
+ED   50,99.00%,Jessica Gonzalez-Rojas,(Democratic),314,AD 34,2026-11-04_12:16:31.586453
+ED   50,99.00%,John Patrick Healy,(Republican),107,AD 34,2026-11-04_12:16:31.586453
+ED   50,99.00%,Jessica Gonzalez-Rojas,(Working Families),52,AD 34,2026-11-04_12:16:31.586453
+ED   50,99.00%,WRITE-IN,&nbsp,2,AD 34,2026-11-04_12:16:31.586453
+ED   51,99.00%,Jessica Gonzalez-Rojas,(Democratic),352,AD 34,2026-11-04_12:16:31.586453
+ED   51,99.00%,John Patrick Healy,(Republican),121,AD 34,2026-11-04_12:16:31.586453
+ED   51,99.00%,Jessica Gonzalez-Rojas,(Working Families),41,AD 34,2026-11-04_12:16:31.586453
+ED   51,99.00%,WRITE-IN,&nbsp,2,AD 34,2026-11-04_12:16:31.586453
+ED   52,99.00%,Jessica Gonzalez-Rojas,(Democratic),205,AD 34,2026-11-04_12:16:31.586453
+ED   52,99.00%,John Patrick Healy,(Republican),43,AD 34,2026-11-04_12:16:31.586453
+ED   52,99.00%,Jessica Gonzalez-Rojas,(Working Families),31,AD 34,2026-11-04_12:16:31.586453
+ED   52,99.00%,WRITE-IN,&nbsp,0,AD 34,2026-11-04_12:16:31.586453
+ED   53,99.00%,Jessica Gonzalez-Rojas,(Democratic),14,AD 34,2026-11-04_12:16:31.586453
+ED   53,99.00%,John Patrick Healy,(Republican),2,AD 34,2026-11-04_12:16:31.586453
+ED   53,99.00%,Jessica Gonzalez-Rojas,(Working Families),2,AD 34,2026-11-04_12:16:31.586453
+ED   53,99.00%,WRITE-IN,&nbsp,0,AD 34,2026-11-04_12:16:31.586453
+ED   54,99.00%,Jessica Gonzalez-Rojas,(Democratic),268,AD 34,2026-11-04_12:16:31.586453
+ED   54,99.00%,John Patrick Healy,(Republican),118,AD 34,2026-11-04_12:16:31.586453
+ED   54,99.00%,Jessica Gonzalez-Rojas,(Working Families),32,AD 34,2026-11-04_12:16:31.586453
+ED   54,99.00%,WRITE-IN,&nbsp,1,AD 34,2026-11-04_12:16:31.586453
+ED   55,99.00%,Jessica Gonzalez-Rojas,(Democratic),239,AD 34,2026-11-04_12:16:31.586453
+ED   55,99.00%,John Patrick Healy,(Republican),82,AD 34,2026-11-04_12:16:31.586453
+ED   55,99.00%,Jessica Gonzalez-Rojas,(Working Families),51,AD 34,2026-11-04_12:16:31.586453
+ED   55,99.00%,WRITE-IN,&nbsp,3,AD 34,2026-11-04_12:16:31.586453
+ED   56,99.00%,Jessica Gonzalez-Rojas,(Democratic),236,AD 34,2026-11-04_12:16:31.586453
+ED   56,99.00%,John Patrick Healy,(Republican),72,AD 34,2026-11-04_12:16:31.586453
+ED   56,99.00%,Jessica Gonzalez-Rojas,(Working Families),23,AD 34,2026-11-04_12:16:31.586453
+ED   56,99.00%,WRITE-IN,&nbsp,2,AD 34,2026-11-04_12:16:31.586453
+Total,,Jessica Gonzalez-Rojas,(Democratic),8383,AD 34,2026-11-04_12:16:31.586453
+Total,,John Patrick Healy,(Republican),2865,AD 34,2026-11-04_12:16:31.586453
+Total,,Jessica Gonzalez-Rojas,(Working Families),1390,AD 34,2026-11-04_12:16:31.586453
+Total,,WRITE-IN,&nbsp,58,AD 34,2026-11-04_12:16:31.586453
+ED    2,99.00%,Jessica Gonzalez-Rojas,(Democratic),187,AD 35,2026-11-04_12:16:31.586453
+ED    2,99.00%,John Patrick Healy,(Republican),97,AD 35,2026-11-04_12:16:31.586453
+ED    2,99.00%,Jessica Gonzalez-Rojas,(Working Families),24,AD 35,2026-11-04_12:16:31.586453
+ED    2,99.00%,WRITE-IN,&nbsp,0,AD 35,2026-11-04_12:16:31.586453
+ED    3,99.00%,Jessica Gonzalez-Rojas,(Democratic),201,AD 35,2026-11-04_12:16:31.586453
+ED    3,99.00%,John Patrick Healy,(Republican),55,AD 35,2026-11-04_12:16:31.586453
+ED    3,99.00%,Jessica Gonzalez-Rojas,(Working Families),27,AD 35,2026-11-04_12:16:31.586453
+ED    3,99.00%,WRITE-IN,&nbsp,1,AD 35,2026-11-04_12:16:31.586453
+ED    4,99.00%,Jessica Gonzalez-Rojas,(Democratic),222,AD 35,2026-11-04_12:16:31.586453
+ED    4,99.00%,John Patrick Healy,(Republican),54,AD 35,2026-11-04_12:16:31.586453
+ED    4,99.00%,Jessica Gonzalez-Rojas,(Working Families),23,AD 35,2026-11-04_12:16:31.586453
+ED    4,99.00%,WRITE-IN,&nbsp,1,AD 35,2026-11-04_12:16:31.586453
+ED    5,99.00%,Jessica Gonzalez-Rojas,(Democratic),281,AD 35,2026-11-04_12:16:31.586453
+ED    5,99.00%,John Patrick Healy,(Republican),67,AD 35,2026-11-04_12:16:31.586453
+ED    5,99.00%,Jessica Gonzalez-Rojas,(Working Families),20,AD 35,2026-11-04_12:16:31.586453
+ED    5,99.00%,WRITE-IN,&nbsp,1,AD 35,2026-11-04_12:16:31.586453
+ED    6,99.00%,Jessica Gonzalez-Rojas,(Democratic),324,AD 35,2026-11-04_12:16:31.586453
+ED    6,99.00%,John Patrick Healy,(Republican),62,AD 35,2026-11-04_12:16:31.586453
+ED    6,99.00%,Jessica Gonzalez-Rojas,(Working Families),33,AD 35,2026-11-04_12:16:31.586453
+ED    6,99.00%,WRITE-IN,&nbsp,1,AD 35,2026-11-04_12:16:31.586453
+ED    7,99.00%,Jessica Gonzalez-Rojas,(Democratic),468,AD 35,2026-11-04_12:16:31.586453
+ED    7,99.00%,John Patrick Healy,(Republican),86,AD 35,2026-11-04_12:16:31.586453
+ED    7,99.00%,Jessica Gonzalez-Rojas,(Working Families),39,AD 35,2026-11-04_12:16:31.586453
+ED    7,99.00%,WRITE-IN,&nbsp,1,AD 35,2026-11-04_12:16:31.586453
+ED    8,99.00%,Jessica Gonzalez-Rojas,(Democratic),444,AD 35,2026-11-04_12:16:31.586453
+ED    8,99.00%,John Patrick Healy,(Republican),74,AD 35,2026-11-04_12:16:31.586453
+ED    8,99.00%,Jessica Gonzalez-Rojas,(Working Families),36,AD 35,2026-11-04_12:16:31.586453
+ED    8,99.00%,WRITE-IN,&nbsp,3,AD 35,2026-11-04_12:16:31.586453
+ED   10,99.00%,Jessica Gonzalez-Rojas,(Democratic),181,AD 35,2026-11-04_12:16:31.586453
+ED   10,99.00%,John Patrick Healy,(Republican),49,AD 35,2026-11-04_12:16:31.586453
+ED   10,99.00%,Jessica Gonzalez-Rojas,(Working Families),15,AD 35,2026-11-04_12:16:31.586453
+ED   10,99.00%,WRITE-IN,&nbsp,0,AD 35,2026-11-04_12:16:31.586453
+ED   11,99.00%,Jessica Gonzalez-Rojas,(Democratic),259,AD 35,2026-11-04_12:16:31.586453
+ED   11,99.00%,John Patrick Healy,(Republican),34,AD 35,2026-11-04_12:16:31.586453
+ED   11,99.00%,Jessica Gonzalez-Rojas,(Working Families),22,AD 35,2026-11-04_12:16:31.586453
+ED   11,99.00%,WRITE-IN,&nbsp,1,AD 35,2026-11-04_12:16:31.586453
+ED   12,99.00%,Jessica Gonzalez-Rojas,(Democratic),370,AD 35,2026-11-04_12:16:31.586453
+ED   12,99.00%,John Patrick Healy,(Republican),60,AD 35,2026-11-04_12:16:31.586453
+ED   12,99.00%,Jessica Gonzalez-Rojas,(Working Families),39,AD 35,2026-11-04_12:16:31.586453
+ED   12,99.00%,WRITE-IN,&nbsp,1,AD 35,2026-11-04_12:16:31.586453
+ED   13,99.00%,Jessica Gonzalez-Rojas,(Democratic),363,AD 35,2026-11-04_12:16:31.586453
+ED   13,99.00%,John Patrick Healy,(Republican),72,AD 35,2026-11-04_12:16:31.586453
+ED   13,99.00%,Jessica Gonzalez-Rojas,(Working Families),27,AD 35,2026-11-04_12:16:31.586453
+ED   13,99.00%,WRITE-IN,&nbsp,2,AD 35,2026-11-04_12:16:31.586453
+ED   14,99.00%,Jessica Gonzalez-Rojas,(Democratic),372,AD 35,2026-11-04_12:16:31.586453
+ED   14,99.00%,John Patrick Healy,(Republican),68,AD 35,2026-11-04_12:16:31.586453
+ED   14,99.00%,Jessica Gonzalez-Rojas,(Working Families),41,AD 35,2026-11-04_12:16:31.586453
+ED   14,99.00%,WRITE-IN,&nbsp,1,AD 35,2026-11-04_12:16:31.586453
+ED   15,99.00%,Jessica Gonzalez-Rojas,(Democratic),307,AD 35,2026-11-04_12:16:31.586453
+ED   15,99.00%,John Patrick Healy,(Republican),64,AD 35,2026-11-04_12:16:31.586453
+ED   15,99.00%,Jessica Gonzalez-Rojas,(Working Families),24,AD 35,2026-11-04_12:16:31.586453
+ED   15,99.00%,WRITE-IN,&nbsp,2,AD 35,2026-11-04_12:16:31.586453
+ED   16,99.00%,Jessica Gonzalez-Rojas,(Democratic),420,AD 35,2026-11-04_12:16:31.586453
+ED   16,99.00%,John Patrick Healy,(Republican),75,AD 35,2026-11-04_12:16:31.586453
+ED   16,99.00%,Jessica Gonzalez-Rojas,(Working Families),27,AD 35,2026-11-04_12:16:31.586453
+ED   16,99.00%,WRITE-IN,&nbsp,0,AD 35,2026-11-04_12:16:31.586453
+ED   17,99.00%,Jessica Gonzalez-Rojas,(Democratic),277,AD 35,2026-11-04_12:16:31.586453
+ED   17,99.00%,John Patrick Healy,(Republican),91,AD 35,2026-11-04_12:16:31.586453
+ED   17,99.00%,Jessica Gonzalez-Rojas,(Working Families),38,AD 35,2026-11-04_12:16:31.586453
+ED   17,99.00%,WRITE-IN,&nbsp,3,AD 35,2026-11-04_12:16:31.586453
+ED   18,99.00%,Jessica Gonzalez-Rojas,(Democratic),173,AD 35,2026-11-04_12:16:31.586453
+ED   18,99.00%,John Patrick Healy,(Republican),50,AD 35,2026-11-04_12:16:31.586453
+ED   18,99.00%,Jessica Gonzalez-Rojas,(Working Families),13,AD 35,2026-11-04_12:16:31.586453
+ED   18,99.00%,WRITE-IN,&nbsp,0,AD 35,2026-11-04_12:16:31.586453
+ED   19,99.00%,Jessica Gonzalez-Rojas,(Democratic),204,AD 35,2026-11-04_12:16:31.586453
+ED   19,99.00%,John Patrick Healy,(Republican),38,AD 35,2026-11-04_12:16:31.586453
+ED   19,99.00%,Jessica Gonzalez-Rojas,(Working Families),22,AD 35,2026-11-04_12:16:31.586453
+ED   19,99.00%,WRITE-IN,&nbsp,1,AD 35,2026-11-04_12:16:31.586453
+ED   20,99.00%,Jessica Gonzalez-Rojas,(Democratic),122,AD 35,2026-11-04_12:16:31.586453
+ED   20,99.00%,John Patrick Healy,(Republican),41,AD 35,2026-11-04_12:16:31.586453
+ED   20,99.00%,Jessica Gonzalez-Rojas,(Working Families),11,AD 35,2026-11-04_12:16:31.586453
+ED   20,99.00%,WRITE-IN,&nbsp,0,AD 35,2026-11-04_12:16:31.586453
+ED   21,99.00%,Jessica Gonzalez-Rojas,(Democratic),104,AD 35,2026-11-04_12:16:31.586453
+ED   21,99.00%,John Patrick Healy,(Republican),38,AD 35,2026-11-04_12:16:31.586453
+ED   21,99.00%,Jessica Gonzalez-Rojas,(Working Families),5,AD 35,2026-11-04_12:16:31.586453
+ED   21,99.00%,WRITE-IN,&nbsp,0,AD 35,2026-11-04_12:16:31.586453
+ED   22,99.00%,Jessica Gonzalez-Rojas,(Democratic),252,AD 35,2026-11-04_12:16:31.586453
+ED   22,99.00%,John Patrick Healy,(Republican),80,AD 35,2026-11-04_12:16:31.586453
+ED   22,99.00%,Jessica Gonzalez-Rojas,(Working Families),30,AD 35,2026-11-04_12:16:31.586453
+ED   22,99.00%,WRITE-IN,&nbsp,1,AD 35,2026-11-04_12:16:31.586453
+ED   23,99.00%,Jessica Gonzalez-Rojas,(Democratic),206,AD 35,2026-11-04_12:16:31.586453
+ED   23,99.00%,John Patrick Healy,(Republican),81,AD 35,2026-11-04_12:16:31.586453
+ED   23,99.00%,Jessica Gonzalez-Rojas,(Working Families),17,AD 35,2026-11-04_12:16:31.586453
+ED   23,99.00%,WRITE-IN,&nbsp,2,AD 35,2026-11-04_12:16:31.586453
+ED   24,99.00%,Jessica Gonzalez-Rojas,(Democratic),244,AD 35,2026-11-04_12:16:31.586453
+ED   24,99.00%,John Patrick Healy,(Republican),67,AD 35,2026-11-04_12:16:31.586453
+ED   24,99.00%,Jessica Gonzalez-Rojas,(Working Families),20,AD 35,2026-11-04_12:16:31.586453
+ED   24,99.00%,WRITE-IN,&nbsp,1,AD 35,2026-11-04_12:16:31.586453
+ED   25,99.00%,Jessica Gonzalez-Rojas,(Democratic),322,AD 35,2026-11-04_12:16:31.586453
+ED   25,99.00%,John Patrick Healy,(Republican),92,AD 35,2026-11-04_12:16:31.586453
+ED   25,99.00%,Jessica Gonzalez-Rojas,(Working Families),31,AD 35,2026-11-04_12:16:31.586453
+ED   25,99.00%,WRITE-IN,&nbsp,0,AD 35,2026-11-04_12:16:31.586453
+ED   26,99.00%,Jessica Gonzalez-Rojas,(Democratic),350,AD 35,2026-11-04_12:16:31.586453
+ED   26,99.00%,John Patrick Healy,(Republican),90,AD 35,2026-11-04_12:16:31.586453
+ED   26,99.00%,Jessica Gonzalez-Rojas,(Working Families),36,AD 35,2026-11-04_12:16:31.586453
+ED   26,99.00%,WRITE-IN,&nbsp,0,AD 35,2026-11-04_12:16:31.586453
+ED   27,88.89%,Jessica Gonzalez-Rojas,(Democratic),90,AD 35,2026-11-04_12:16:31.586453
+ED   27,88.89%,John Patrick Healy,(Republican),34,AD 35,2026-11-04_12:16:31.586453
+ED   27,88.89%,Jessica Gonzalez-Rojas,(Working Families),10,AD 35,2026-11-04_12:16:31.586453
+ED   27,88.89%,WRITE-IN,&nbsp,0,AD 35,2026-11-04_12:16:31.586453
+ED   29,88.89%,Jessica Gonzalez-Rojas,(Democratic),177,AD 35,2026-11-04_12:16:31.586453
+ED   29,88.89%,John Patrick Healy,(Republican),51,AD 35,2026-11-04_12:16:31.586453
+ED   29,88.89%,Jessica Gonzalez-Rojas,(Working Families),28,AD 35,2026-11-04_12:16:31.586453
+ED   29,88.89%,WRITE-IN,&nbsp,0,AD 35,2026-11-04_12:16:31.586453
+ED   30,88.89%,Jessica Gonzalez-Rojas,(Democratic),355,AD 35,2026-11-04_12:16:31.586453
+ED   30,88.89%,John Patrick Healy,(Republican),106,AD 35,2026-11-04_12:16:31.586453
+ED   30,88.89%,Jessica Gonzalez-Rojas,(Working Families),48,AD 35,2026-11-04_12:16:31.586453
+ED   30,88.89%,WRITE-IN,&nbsp,1,AD 35,2026-11-04_12:16:31.586453
+ED   32,99.00%,Jessica Gonzalez-Rojas,(Democratic),363,AD 35,2026-11-04_12:16:31.586453
+ED   32,99.00%,John Patrick Healy,(Republican),52,AD 35,2026-11-04_12:16:31.586453
+ED   32,99.00%,Jessica Gonzalez-Rojas,(Working Families),16,AD 35,2026-11-04_12:16:31.586453
+ED   32,99.00%,WRITE-IN,&nbsp,2,AD 35,2026-11-04_12:16:31.586453
+ED   33,99.00%,Jessica Gonzalez-Rojas,(Democratic),385,AD 35,2026-11-04_12:16:31.586453
+ED   33,99.00%,John Patrick Healy,(Republican),57,AD 35,2026-11-04_12:16:31.586453
+ED   33,99.00%,Jessica Gonzalez-Rojas,(Working Families),26,AD 35,2026-11-04_12:16:31.586453
+ED   33,99.00%,WRITE-IN,&nbsp,1,AD 35,2026-11-04_12:16:31.586453
+ED   34,99.00%,Jessica Gonzalez-Rojas,(Democratic),372,AD 35,2026-11-04_12:16:31.586453
+ED   34,99.00%,John Patrick Healy,(Republican),53,AD 35,2026-11-04_12:16:31.586453
+ED   34,99.00%,Jessica Gonzalez-Rojas,(Working Families),18,AD 35,2026-11-04_12:16:31.586453
+ED   34,99.00%,WRITE-IN,&nbsp,0,AD 35,2026-11-04_12:16:31.586453
+ED   35,99.00%,Jessica Gonzalez-Rojas,(Democratic),332,AD 35,2026-11-04_12:16:31.586453
+ED   35,99.00%,John Patrick Healy,(Republican),70,AD 35,2026-11-04_12:16:31.586453
+ED   35,99.00%,Jessica Gonzalez-Rojas,(Working Families),14,AD 35,2026-11-04_12:16:31.586453
+ED   35,99.00%,WRITE-IN,&nbsp,0,AD 35,2026-11-04_12:16:31.586453
+ED   36,99.00%,Jessica Gonzalez-Rojas,(Democratic),365,AD 35,2026-11-04_12:16:31.586453
+ED   36,99.00%,John Patrick Healy,(Republican),74,AD 35,2026-11-04_12:16:31.586453
+ED   36,99.00%,Jessica Gonzalez-Rojas,(Working Families),22,AD 35,2026-11-04_12:16:31.586453
+ED   36,99.00%,WRITE-IN,&nbsp,0,AD 35,2026-11-04_12:16:31.586453
+ED   37,99.00%,Jessica Gonzalez-Rojas,(Democratic),174,AD 35,2026-11-04_12:16:31.586453
+ED   37,99.00%,John Patrick Healy,(Republican),90,AD 35,2026-11-04_12:16:31.586453
+ED   37,99.00%,Jessica Gonzalez-Rojas,(Working Families),22,AD 35,2026-11-04_12:16:31.586453
+ED   37,99.00%,WRITE-IN,&nbsp,0,AD 35,2026-11-04_12:16:31.586453
+ED   39,99.00%,Jessica Gonzalez-Rojas,(Democratic),291,AD 35,2026-11-04_12:16:31.586453
+ED   39,99.00%,John Patrick Healy,(Republican),234,AD 35,2026-11-04_12:16:31.586453
+ED   39,99.00%,Jessica Gonzalez-Rojas,(Working Families),29,AD 35,2026-11-04_12:16:31.586453
+ED   39,99.00%,WRITE-IN,&nbsp,2,AD 35,2026-11-04_12:16:31.586453
+ED   43,85.71%,Jessica Gonzalez-Rojas,(Democratic),110,AD 35,2026-11-04_12:16:31.586453
+ED   43,85.71%,John Patrick Healy,(Republican),117,AD 35,2026-11-04_12:16:31.586453
+ED   43,85.71%,Jessica Gonzalez-Rojas,(Working Families),7,AD 35,2026-11-04_12:16:31.586453
+ED   43,85.71%,WRITE-IN,&nbsp,0,AD 35,2026-11-04_12:16:31.586453
+ED   44,85.71%,Jessica Gonzalez-Rojas,(Democratic),209,AD 35,2026-11-04_12:16:31.586453
+ED   44,85.71%,John Patrick Healy,(Republican),45,AD 35,2026-11-04_12:16:31.586453
+ED   44,85.71%,Jessica Gonzalez-Rojas,(Working Families),19,AD 35,2026-11-04_12:16:31.586453
+ED   44,85.71%,WRITE-IN,&nbsp,0,AD 35,2026-11-04_12:16:31.586453
+ED   46,99.00%,Jessica Gonzalez-Rojas,(Democratic),186,AD 35,2026-11-04_12:16:31.586453
+ED   46,99.00%,John Patrick Healy,(Republican),93,AD 35,2026-11-04_12:16:31.586453
+ED   46,99.00%,Jessica Gonzalez-Rojas,(Working Families),17,AD 35,2026-11-04_12:16:31.586453
+ED   46,99.00%,WRITE-IN,&nbsp,0,AD 35,2026-11-04_12:16:31.586453
+ED   48,88.89%,Jessica Gonzalez-Rojas,(Democratic),74,AD 35,2026-11-04_12:16:31.586453
+ED   48,88.89%,John Patrick Healy,(Republican),13,AD 35,2026-11-04_12:16:31.586453
+ED   48,88.89%,Jessica Gonzalez-Rojas,(Working Families),7,AD 35,2026-11-04_12:16:31.586453
+ED   48,88.89%,WRITE-IN,&nbsp,0,AD 35,2026-11-04_12:16:31.586453
+ED   50,99.00%,Jessica Gonzalez-Rojas,(Democratic),0,AD 35,2026-11-04_12:16:31.586453
+ED   50,99.00%,John Patrick Healy,(Republican),0,AD 35,2026-11-04_12:16:31.586453
+ED   50,99.00%,Jessica Gonzalez-Rojas,(Working Families),0,AD 35,2026-11-04_12:16:31.586453
+ED   50,99.00%,WRITE-IN,&nbsp,0,AD 35,2026-11-04_12:16:31.586453
+ED   54,99.00%,Jessica Gonzalez-Rojas,(Democratic),0,AD 35,2026-11-04_12:16:31.586453
+ED   54,99.00%,John Patrick Healy,(Republican),0,AD 35,2026-11-04_12:16:31.586453
+ED   54,99.00%,Jessica Gonzalez-Rojas,(Working Families),0,AD 35,2026-11-04_12:16:31.586453
+ED   54,99.00%,WRITE-IN,&nbsp,0,AD 35,2026-11-04_12:16:31.586453
+ED   60,99.00%,Jessica Gonzalez-Rojas,(Democratic),0,AD 35,2026-11-04_12:16:31.586453
+ED   60,99.00%,John Patrick Healy,(Republican),0,AD 35,2026-11-04_12:16:31.586453
+ED   60,99.00%,Jessica Gonzalez-Rojas,(Working Families),0,AD 35,2026-11-04_12:16:31.586453
+ED   60,99.00%,WRITE-IN,&nbsp,0,AD 35,2026-11-04_12:16:31.586453
+Total,,Jessica Gonzalez-Rojas,(Democratic),10136,AD 35,2026-11-04_12:16:31.586453
+Total,,John Patrick Healy,(Republican),2674,AD 35,2026-11-04_12:16:31.586453
+Total,,Jessica Gonzalez-Rojas,(Working Families),903,AD 35,2026-11-04_12:16:31.586453
+Total,,WRITE-IN,&nbsp,29,AD 35,2026-11-04_12:16:31.586453
+ED    1,99.00%,Jessica Gonzalez-Rojas,(Democratic),493,AD 39,2026-11-04_12:16:31.586453
+ED    1,99.00%,John Patrick Healy,(Republican),149,AD 39,2026-11-04_12:16:31.586453
+ED    1,99.00%,Jessica Gonzalez-Rojas,(Working Families),162,AD 39,2026-11-04_12:16:31.586453
+ED    1,99.00%,WRITE-IN,&nbsp,13,AD 39,2026-11-04_12:16:31.586453
+ED    2,90.91%,Jessica Gonzalez-Rojas,(Democratic),469,AD 39,2026-11-04_12:16:31.586453
+ED    2,90.91%,John Patrick Healy,(Republican),125,AD 39,2026-11-04_12:16:31.586453
+ED    2,90.91%,Jessica Gonzalez-Rojas,(Working Families),233,AD 39,2026-11-04_12:16:31.586453
+ED    2,90.91%,WRITE-IN,&nbsp,17,AD 39,2026-11-04_12:16:31.586453
+ED    3,99.00%,Jessica Gonzalez-Rojas,(Democratic),444,AD 39,2026-11-04_12:16:31.586453
+ED    3,99.00%,John Patrick Healy,(Republican),142,AD 39,2026-11-04_12:16:31.586453
+ED    3,99.00%,Jessica Gonzalez-Rojas,(Working Families),137,AD 39,2026-11-04_12:16:31.586453
+ED    3,99.00%,WRITE-IN,&nbsp,9,AD 39,2026-11-04_12:16:31.586453
+ED    4,99.00%,Jessica Gonzalez-Rojas,(Democratic),489,AD 39,2026-11-04_12:16:31.586453
+ED    4,99.00%,John Patrick Healy,(Republican),106,AD 39,2026-11-04_12:16:31.586453
+ED    4,99.00%,Jessica Gonzalez-Rojas,(Working Families),129,AD 39,2026-11-04_12:16:31.586453
+ED    4,99.00%,WRITE-IN,&nbsp,8,AD 39,2026-11-04_12:16:31.586453
+ED    5,99.00%,Jessica Gonzalez-Rojas,(Democratic),391,AD 39,2026-11-04_12:16:31.586453
+ED    5,99.00%,John Patrick Healy,(Republican),117,AD 39,2026-11-04_12:16:31.586453
+ED    5,99.00%,Jessica Gonzalez-Rojas,(Working Families),120,AD 39,2026-11-04_12:16:31.586453
+ED    5,99.00%,WRITE-IN,&nbsp,3,AD 39,2026-11-04_12:16:31.586453
+ED    6,99.00%,Jessica Gonzalez-Rojas,(Democratic),534,AD 39,2026-11-04_12:16:31.586453
+ED    6,99.00%,John Patrick Healy,(Republican),130,AD 39,2026-11-04_12:16:31.586453
+ED    6,99.00%,Jessica Gonzalez-Rojas,(Working Families),268,AD 39,2026-11-04_12:16:31.586453
+ED    6,99.00%,WRITE-IN,&nbsp,16,AD 39,2026-11-04_12:16:31.586453
+ED    7,99.00%,Jessica Gonzalez-Rojas,(Democratic),473,AD 39,2026-11-04_12:16:31.586453
+ED    7,99.00%,John Patrick Healy,(Republican),121,AD 39,2026-11-04_12:16:31.586453
+ED    7,99.00%,Jessica Gonzalez-Rojas,(Working Families),159,AD 39,2026-11-04_12:16:31.586453
+ED    7,99.00%,WRITE-IN,&nbsp,10,AD 39,2026-11-04_12:16:31.586453
+ED    8,99.00%,Jessica Gonzalez-Rojas,(Democratic),395,AD 39,2026-11-04_12:16:31.586453
+ED    8,99.00%,John Patrick Healy,(Republican),120,AD 39,2026-11-04_12:16:31.586453
+ED    8,99.00%,Jessica Gonzalez-Rojas,(Working Families),129,AD 39,2026-11-04_12:16:31.586453
+ED    8,99.00%,WRITE-IN,&nbsp,12,AD 39,2026-11-04_12:16:31.586453
+ED    9,99.00%,Jessica Gonzalez-Rojas,(Democratic),394,AD 39,2026-11-04_12:16:31.586453
+ED    9,99.00%,John Patrick Healy,(Republican),90,AD 39,2026-11-04_12:16:31.586453
+ED    9,99.00%,Jessica Gonzalez-Rojas,(Working Families),130,AD 39,2026-11-04_12:16:31.586453
+ED    9,99.00%,WRITE-IN,&nbsp,7,AD 39,2026-11-04_12:16:31.586453
+ED   10,99.00%,Jessica Gonzalez-Rojas,(Democratic),157,AD 39,2026-11-04_12:16:31.586453
+ED   10,99.00%,John Patrick Healy,(Republican),42,AD 39,2026-11-04_12:16:31.586453
+ED   10,99.00%,Jessica Gonzalez-Rojas,(Working Families),41,AD 39,2026-11-04_12:16:31.586453
+ED   10,99.00%,WRITE-IN,&nbsp,0,AD 39,2026-11-04_12:16:31.586453
+ED   13,99.00%,Jessica Gonzalez-Rojas,(Democratic),231,AD 39,2026-11-04_12:16:31.586453
+ED   13,99.00%,John Patrick Healy,(Republican),73,AD 39,2026-11-04_12:16:31.586453
+ED   13,99.00%,Jessica Gonzalez-Rojas,(Working Families),38,AD 39,2026-11-04_12:16:31.586453
+ED   13,99.00%,WRITE-IN,&nbsp,2,AD 39,2026-11-04_12:16:31.586453
+ED   14,99.00%,Jessica Gonzalez-Rojas,(Democratic),322,AD 39,2026-11-04_12:16:31.586453
+ED   14,99.00%,John Patrick Healy,(Republican),101,AD 39,2026-11-04_12:16:31.586453
+ED   14,99.00%,Jessica Gonzalez-Rojas,(Working Families),40,AD 39,2026-11-04_12:16:31.586453
+ED   14,99.00%,WRITE-IN,&nbsp,1,AD 39,2026-11-04_12:16:31.586453
+ED   15,99.00%,Jessica Gonzalez-Rojas,(Democratic),341,AD 39,2026-11-04_12:16:31.586453
+ED   15,99.00%,John Patrick Healy,(Republican),120,AD 39,2026-11-04_12:16:31.586453
+ED   15,99.00%,Jessica Gonzalez-Rojas,(Working Families),59,AD 39,2026-11-04_12:16:31.586453
+ED   15,99.00%,WRITE-IN,&nbsp,0,AD 39,2026-11-04_12:16:31.586453
+ED   16,99.00%,Jessica Gonzalez-Rojas,(Democratic),40,AD 39,2026-11-04_12:16:31.586453
+ED   16,99.00%,John Patrick Healy,(Republican),8,AD 39,2026-11-04_12:16:31.586453
+ED   16,99.00%,Jessica Gonzalez-Rojas,(Working Families),5,AD 39,2026-11-04_12:16:31.586453
+ED   16,99.00%,WRITE-IN,&nbsp,0,AD 39,2026-11-04_12:16:31.586453
+ED   17,99.00%,Jessica Gonzalez-Rojas,(Democratic),71,AD 39,2026-11-04_12:16:31.586453
+ED   17,99.00%,John Patrick Healy,(Republican),27,AD 39,2026-11-04_12:16:31.586453
+ED   17,99.00%,Jessica Gonzalez-Rojas,(Working Families),9,AD 39,2026-11-04_12:16:31.586453
+ED   17,99.00%,WRITE-IN,&nbsp,0,AD 39,2026-11-04_12:16:31.586453
+ED   18,99.00%,Jessica Gonzalez-Rojas,(Democratic),343,AD 39,2026-11-04_12:16:31.586453
+ED   18,99.00%,John Patrick Healy,(Republican),108,AD 39,2026-11-04_12:16:31.586453
+ED   18,99.00%,Jessica Gonzalez-Rojas,(Working Families),31,AD 39,2026-11-04_12:16:31.586453
+ED   18,99.00%,WRITE-IN,&nbsp,0,AD 39,2026-11-04_12:16:31.586453
+ED   19,99.00%,Jessica Gonzalez-Rojas,(Democratic),321,AD 39,2026-11-04_12:16:31.586453
+ED   19,99.00%,John Patrick Healy,(Republican),122,AD 39,2026-11-04_12:16:31.586453
+ED   19,99.00%,Jessica Gonzalez-Rojas,(Working Families),47,AD 39,2026-11-04_12:16:31.586453
+ED   19,99.00%,WRITE-IN,&nbsp,0,AD 39,2026-11-04_12:16:31.586453
+ED   20,75.00%,Jessica Gonzalez-Rojas,(Democratic),221,AD 39,2026-11-04_12:16:31.586453
+ED   20,75.00%,John Patrick Healy,(Republican),65,AD 39,2026-11-04_12:16:31.586453
+ED   20,75.00%,Jessica Gonzalez-Rojas,(Working Families),32,AD 39,2026-11-04_12:16:31.586453
+ED   20,75.00%,WRITE-IN,&nbsp,0,AD 39,2026-11-04_12:16:31.586453
+ED   21,99.00%,Jessica Gonzalez-Rojas,(Democratic),316,AD 39,2026-11-04_12:16:31.586453
+ED   21,99.00%,John Patrick Healy,(Republican),139,AD 39,2026-11-04_12:16:31.586453
+ED   21,99.00%,Jessica Gonzalez-Rojas,(Working Families),45,AD 39,2026-11-04_12:16:31.586453
+ED   21,99.00%,WRITE-IN,&nbsp,2,AD 39,2026-11-04_12:16:31.586453
+ED   23,99.00%,Jessica Gonzalez-Rojas,(Democratic),313,AD 39,2026-11-04_12:16:31.586453
+ED   23,99.00%,John Patrick Healy,(Republican),92,AD 39,2026-11-04_12:16:31.586453
+ED   23,99.00%,Jessica Gonzalez-Rojas,(Working Families),46,AD 39,2026-11-04_12:16:31.586453
+ED   23,99.00%,WRITE-IN,&nbsp,1,AD 39,2026-11-04_12:16:31.586453
+ED   24,99.00%,Jessica Gonzalez-Rojas,(Democratic),211,AD 39,2026-11-04_12:16:31.586453
+ED   24,99.00%,John Patrick Healy,(Republican),76,AD 39,2026-11-04_12:16:31.586453
+ED   24,99.00%,Jessica Gonzalez-Rojas,(Working Families),19,AD 39,2026-11-04_12:16:31.586453
+ED   24,99.00%,WRITE-IN,&nbsp,2,AD 39,2026-11-04_12:16:31.586453
+ED   25,75.00%,Jessica Gonzalez-Rojas,(Democratic),265,AD 39,2026-11-04_12:16:31.586453
+ED   25,75.00%,John Patrick Healy,(Republican),78,AD 39,2026-11-04_12:16:31.586453
+ED   25,75.00%,Jessica Gonzalez-Rojas,(Working Families),28,AD 39,2026-11-04_12:16:31.586453
+ED   25,75.00%,WRITE-IN,&nbsp,0,AD 39,2026-11-04_12:16:31.586453
+ED   26,75.00%,Jessica Gonzalez-Rojas,(Democratic),283,AD 39,2026-11-04_12:16:31.586453
+ED   26,75.00%,John Patrick Healy,(Republican),94,AD 39,2026-11-04_12:16:31.586453
+ED   26,75.00%,Jessica Gonzalez-Rojas,(Working Families),26,AD 39,2026-11-04_12:16:31.586453
+ED   26,75.00%,WRITE-IN,&nbsp,1,AD 39,2026-11-04_12:16:31.586453
+ED   27,75.00%,Jessica Gonzalez-Rojas,(Democratic),87,AD 39,2026-11-04_12:16:31.586453
+ED   27,75.00%,John Patrick Healy,(Republican),22,AD 39,2026-11-04_12:16:31.586453
+ED   27,75.00%,Jessica Gonzalez-Rojas,(Working Families),11,AD 39,2026-11-04_12:16:31.586453
+ED   27,75.00%,WRITE-IN,&nbsp,0,AD 39,2026-11-04_12:16:31.586453
+ED   29,99.00%,Jessica Gonzalez-Rojas,(Democratic),149,AD 39,2026-11-04_12:16:31.586453
+ED   29,99.00%,John Patrick Healy,(Republican),40,AD 39,2026-11-04_12:16:31.586453
+ED   29,99.00%,Jessica Gonzalez-Rojas,(Working Families),19,AD 39,2026-11-04_12:16:31.586453
+ED   29,99.00%,WRITE-IN,&nbsp,0,AD 39,2026-11-04_12:16:31.586453
+ED   30,99.00%,Jessica Gonzalez-Rojas,(Democratic),304,AD 39,2026-11-04_12:16:31.586453
+ED   30,99.00%,John Patrick Healy,(Republican),80,AD 39,2026-11-04_12:16:31.586453
+ED   30,99.00%,Jessica Gonzalez-Rojas,(Working Families),36,AD 39,2026-11-04_12:16:31.586453
+ED   30,99.00%,WRITE-IN,&nbsp,5,AD 39,2026-11-04_12:16:31.586453
+ED   31,99.00%,Jessica Gonzalez-Rojas,(Democratic),247,AD 39,2026-11-04_12:16:31.586453
+ED   31,99.00%,John Patrick Healy,(Republican),67,AD 39,2026-11-04_12:16:31.586453
+ED   31,99.00%,Jessica Gonzalez-Rojas,(Working Families),21,AD 39,2026-11-04_12:16:31.586453
+ED   31,99.00%,WRITE-IN,&nbsp,2,AD 39,2026-11-04_12:16:31.586453
+ED   32,99.00%,Jessica Gonzalez-Rojas,(Democratic),298,AD 39,2026-11-04_12:16:31.586453
+ED   32,99.00%,John Patrick Healy,(Republican),114,AD 39,2026-11-04_12:16:31.586453
+ED   32,99.00%,Jessica Gonzalez-Rojas,(Working Families),33,AD 39,2026-11-04_12:16:31.586453
+ED   32,99.00%,WRITE-IN,&nbsp,5,AD 39,2026-11-04_12:16:31.586453
+ED   33,99.00%,Jessica Gonzalez-Rojas,(Democratic),254,AD 39,2026-11-04_12:16:31.586453
+ED   33,99.00%,John Patrick Healy,(Republican),84,AD 39,2026-11-04_12:16:31.586453
+ED   33,99.00%,Jessica Gonzalez-Rojas,(Working Families),29,AD 39,2026-11-04_12:16:31.586453
+ED   33,99.00%,WRITE-IN,&nbsp,0,AD 39,2026-11-04_12:16:31.586453
+ED   34,99.00%,Jessica Gonzalez-Rojas,(Democratic),269,AD 39,2026-11-04_12:16:31.586453
+ED   34,99.00%,John Patrick Healy,(Republican),83,AD 39,2026-11-04_12:16:31.586453
+ED   34,99.00%,Jessica Gonzalez-Rojas,(Working Families),30,AD 39,2026-11-04_12:16:31.586453
+ED   34,99.00%,WRITE-IN,&nbsp,2,AD 39,2026-11-04_12:16:31.586453
+ED   35,99.00%,Jessica Gonzalez-Rojas,(Democratic),293,AD 39,2026-11-04_12:16:31.586453
+ED   35,99.00%,John Patrick Healy,(Republican),117,AD 39,2026-11-04_12:16:31.586453
+ED   35,99.00%,Jessica Gonzalez-Rojas,(Working Families),40,AD 39,2026-11-04_12:16:31.586453
+ED   35,99.00%,WRITE-IN,&nbsp,0,AD 39,2026-11-04_12:16:31.586453
+ED   36,99.00%,Jessica Gonzalez-Rojas,(Democratic),205,AD 39,2026-11-04_12:16:31.586453
+ED   36,99.00%,John Patrick Healy,(Republican),39,AD 39,2026-11-04_12:16:31.586453
+ED   36,99.00%,Jessica Gonzalez-Rojas,(Working Families),27,AD 39,2026-11-04_12:16:31.586453
+ED   36,99.00%,WRITE-IN,&nbsp,1,AD 39,2026-11-04_12:16:31.586453
+ED   37,88.89%,Jessica Gonzalez-Rojas,(Democratic),141,AD 39,2026-11-04_12:16:31.586453
+ED   37,88.89%,John Patrick Healy,(Republican),63,AD 39,2026-11-04_12:16:31.586453
+ED   37,88.89%,Jessica Gonzalez-Rojas,(Working Families),21,AD 39,2026-11-04_12:16:31.586453
+ED   37,88.89%,WRITE-IN,&nbsp,0,AD 39,2026-11-04_12:16:31.586453
+ED   38,71.43%,Jessica Gonzalez-Rojas,(Democratic),118,AD 39,2026-11-04_12:16:31.586453
+ED   38,71.43%,John Patrick Healy,(Republican),63,AD 39,2026-11-04_12:16:31.586453
+ED   38,71.43%,Jessica Gonzalez-Rojas,(Working Families),18,AD 39,2026-11-04_12:16:31.586453
+ED   38,71.43%,WRITE-IN,&nbsp,2,AD 39,2026-11-04_12:16:31.586453
+ED   39,88.89%,Jessica Gonzalez-Rojas,(Democratic),230,AD 39,2026-11-04_12:16:31.586453
+ED   39,88.89%,John Patrick Healy,(Republican),94,AD 39,2026-11-04_12:16:31.586453
+ED   39,88.89%,Jessica Gonzalez-Rojas,(Working Families),25,AD 39,2026-11-04_12:16:31.586453
+ED   39,88.89%,WRITE-IN,&nbsp,0,AD 39,2026-11-04_12:16:31.586453
+ED   48,99.00%,Jessica Gonzalez-Rojas,(Democratic),116,AD 39,2026-11-04_12:16:31.586453
+ED   48,99.00%,John Patrick Healy,(Republican),46,AD 39,2026-11-04_12:16:31.586453
+ED   48,99.00%,Jessica Gonzalez-Rojas,(Working Families),57,AD 39,2026-11-04_12:16:31.586453
+ED   48,99.00%,WRITE-IN,&nbsp,3,AD 39,2026-11-04_12:16:31.586453
+Total,,Jessica Gonzalez-Rojas,(Democratic),10228,AD 39,2026-11-04_12:16:31.586453
+Total,,John Patrick Healy,(Republican),3157,AD 39,2026-11-04_12:16:31.586453
+Total,,Jessica Gonzalez-Rojas,(Working Families),2300,AD 39,2026-11-04_12:16:31.586453
+Total,,WRITE-IN,&nbsp,124,AD 39,2026-11-04_12:16:31.586453

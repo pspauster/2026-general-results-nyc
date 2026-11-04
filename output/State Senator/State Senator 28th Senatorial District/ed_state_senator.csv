@@ -1,0 +1,681 @@
+ED_num,reported,candidate,party,votes,AD_num,scrape_time
+ED    4,85.71%,Liz Krueger,(Democratic),643,AD 66,2026-11-04_12:16:53.08099
+ED    4,85.71%,Alina Bonsell,(Republican),121,AD 66,2026-11-04_12:16:53.08099
+ED    4,85.71%,Alina Bonsell,(Block Mamdani),6,AD 66,2026-11-04_12:16:53.08099
+ED    4,85.71%,WRITE-IN,&nbsp,0,AD 66,2026-11-04_12:16:53.08099
+ED    5,87.50%,Liz Krueger,(Democratic),403,AD 66,2026-11-04_12:16:53.08099
+ED    5,87.50%,Alina Bonsell,(Republican),88,AD 66,2026-11-04_12:16:53.08099
+ED    5,87.50%,Alina Bonsell,(Block Mamdani),9,AD 66,2026-11-04_12:16:53.08099
+ED    5,87.50%,WRITE-IN,&nbsp,0,AD 66,2026-11-04_12:16:53.08099
+ED    6,87.50%,Liz Krueger,(Democratic),524,AD 66,2026-11-04_12:16:53.08099
+ED    6,87.50%,Alina Bonsell,(Republican),142,AD 66,2026-11-04_12:16:53.08099
+ED    6,87.50%,Alina Bonsell,(Block Mamdani),9,AD 66,2026-11-04_12:16:53.08099
+ED    6,87.50%,WRITE-IN,&nbsp,0,AD 66,2026-11-04_12:16:53.08099
+ED    7,87.50%,Liz Krueger,(Democratic),452,AD 66,2026-11-04_12:16:53.08099
+ED    7,87.50%,Alina Bonsell,(Republican),111,AD 66,2026-11-04_12:16:53.08099
+ED    7,87.50%,Alina Bonsell,(Block Mamdani),7,AD 66,2026-11-04_12:16:53.08099
+ED    7,87.50%,WRITE-IN,&nbsp,1,AD 66,2026-11-04_12:16:53.08099
+ED   73,87.50%,Liz Krueger,(Democratic),0,AD 66,2026-11-04_12:16:53.08099
+ED   73,87.50%,Alina Bonsell,(Republican),0,AD 66,2026-11-04_12:16:53.08099
+ED   73,87.50%,Alina Bonsell,(Block Mamdani),0,AD 66,2026-11-04_12:16:53.08099
+ED   73,87.50%,WRITE-IN,&nbsp,0,AD 66,2026-11-04_12:16:53.08099
+Total,,Liz Krueger,(Democratic),2022,AD 66,2026-11-04_12:16:53.08099
+Total,,Alina Bonsell,(Republican),462,AD 66,2026-11-04_12:16:53.08099
+Total,,Alina Bonsell,(Block Mamdani),31,AD 66,2026-11-04_12:16:53.08099
+Total,,WRITE-IN,&nbsp,1,AD 66,2026-11-04_12:16:53.08099
+ED   69,99.00%,Liz Krueger,(Democratic),0,AD 67,2026-11-04_12:16:53.08099
+ED   69,99.00%,Alina Bonsell,(Republican),0,AD 67,2026-11-04_12:16:53.08099
+ED   69,99.00%,Alina Bonsell,(Block Mamdani),0,AD 67,2026-11-04_12:16:53.08099
+ED   69,99.00%,WRITE-IN,&nbsp,0,AD 67,2026-11-04_12:16:53.08099
+Total,,Liz Krueger,(Democratic),-,AD 67,2026-11-04_12:16:53.08099
+Total,,Alina Bonsell,(Republican),-,AD 67,2026-11-04_12:16:53.08099
+Total,,Alina Bonsell,(Block Mamdani),-,AD 67,2026-11-04_12:16:53.08099
+Total,,WRITE-IN,&nbsp,-,AD 67,2026-11-04_12:16:53.08099
+ED   54,99.00%,Liz Krueger,(Democratic),375,AD 68,2026-11-04_12:16:53.08099
+ED   54,99.00%,Alina Bonsell,(Republican),196,AD 68,2026-11-04_12:16:53.08099
+ED   54,99.00%,Alina Bonsell,(Block Mamdani),10,AD 68,2026-11-04_12:16:53.08099
+ED   54,99.00%,WRITE-IN,&nbsp,0,AD 68,2026-11-04_12:16:53.08099
+ED   55,99.00%,Liz Krueger,(Democratic),655,AD 68,2026-11-04_12:16:53.08099
+ED   55,99.00%,Alina Bonsell,(Republican),211,AD 68,2026-11-04_12:16:53.08099
+ED   55,99.00%,Alina Bonsell,(Block Mamdani),17,AD 68,2026-11-04_12:16:53.08099
+ED   55,99.00%,WRITE-IN,&nbsp,1,AD 68,2026-11-04_12:16:53.08099
+ED   64,99.00%,Liz Krueger,(Democratic),307,AD 68,2026-11-04_12:16:53.08099
+ED   64,99.00%,Alina Bonsell,(Republican),76,AD 68,2026-11-04_12:16:53.08099
+ED   64,99.00%,Alina Bonsell,(Block Mamdani),4,AD 68,2026-11-04_12:16:53.08099
+ED   64,99.00%,WRITE-IN,&nbsp,1,AD 68,2026-11-04_12:16:53.08099
+ED   65,99.00%,Liz Krueger,(Democratic),623,AD 68,2026-11-04_12:16:53.08099
+ED   65,99.00%,Alina Bonsell,(Republican),144,AD 68,2026-11-04_12:16:53.08099
+ED   65,99.00%,Alina Bonsell,(Block Mamdani),3,AD 68,2026-11-04_12:16:53.08099
+ED   65,99.00%,WRITE-IN,&nbsp,4,AD 68,2026-11-04_12:16:53.08099
+ED   75,99.00%,Liz Krueger,(Democratic),161,AD 68,2026-11-04_12:16:53.08099
+ED   75,99.00%,Alina Bonsell,(Republican),62,AD 68,2026-11-04_12:16:53.08099
+ED   75,99.00%,Alina Bonsell,(Block Mamdani),8,AD 68,2026-11-04_12:16:53.08099
+ED   75,99.00%,WRITE-IN,&nbsp,0,AD 68,2026-11-04_12:16:53.08099
+ED   76,99.00%,Liz Krueger,(Democratic),11,AD 68,2026-11-04_12:16:53.08099
+ED   76,99.00%,Alina Bonsell,(Republican),5,AD 68,2026-11-04_12:16:53.08099
+ED   76,99.00%,Alina Bonsell,(Block Mamdani),0,AD 68,2026-11-04_12:16:53.08099
+ED   76,99.00%,WRITE-IN,&nbsp,0,AD 68,2026-11-04_12:16:53.08099
+Total,,Liz Krueger,(Democratic),2132,AD 68,2026-11-04_12:16:53.08099
+Total,,Alina Bonsell,(Republican),694,AD 68,2026-11-04_12:16:53.08099
+Total,,Alina Bonsell,(Block Mamdani),42,AD 68,2026-11-04_12:16:53.08099
+Total,,WRITE-IN,&nbsp,6,AD 68,2026-11-04_12:16:53.08099
+ED    1,99.00%,Liz Krueger,(Democratic),644,AD 73,2026-11-04_12:16:53.08099
+ED    1,99.00%,Alina Bonsell,(Republican),211,AD 73,2026-11-04_12:16:53.08099
+ED    1,99.00%,Alina Bonsell,(Block Mamdani),13,AD 73,2026-11-04_12:16:53.08099
+ED    1,99.00%,WRITE-IN,&nbsp,0,AD 73,2026-11-04_12:16:53.08099
+ED    5,99.00%,Liz Krueger,(Democratic),347,AD 73,2026-11-04_12:16:53.08099
+ED    5,99.00%,Alina Bonsell,(Republican),77,AD 73,2026-11-04_12:16:53.08099
+ED    5,99.00%,Alina Bonsell,(Block Mamdani),6,AD 73,2026-11-04_12:16:53.08099
+ED    5,99.00%,WRITE-IN,&nbsp,1,AD 73,2026-11-04_12:16:53.08099
+ED    6,99.00%,Liz Krueger,(Democratic),532,AD 73,2026-11-04_12:16:53.08099
+ED    6,99.00%,Alina Bonsell,(Republican),189,AD 73,2026-11-04_12:16:53.08099
+ED    6,99.00%,Alina Bonsell,(Block Mamdani),7,AD 73,2026-11-04_12:16:53.08099
+ED    6,99.00%,WRITE-IN,&nbsp,0,AD 73,2026-11-04_12:16:53.08099
+ED    7,99.00%,Liz Krueger,(Democratic),447,AD 73,2026-11-04_12:16:53.08099
+ED    7,99.00%,Alina Bonsell,(Republican),150,AD 73,2026-11-04_12:16:53.08099
+ED    7,99.00%,Alina Bonsell,(Block Mamdani),4,AD 73,2026-11-04_12:16:53.08099
+ED    7,99.00%,WRITE-IN,&nbsp,0,AD 73,2026-11-04_12:16:53.08099
+ED    8,99.00%,Liz Krueger,(Democratic),154,AD 73,2026-11-04_12:16:53.08099
+ED    8,99.00%,Alina Bonsell,(Republican),73,AD 73,2026-11-04_12:16:53.08099
+ED    8,99.00%,Alina Bonsell,(Block Mamdani),1,AD 73,2026-11-04_12:16:53.08099
+ED    8,99.00%,WRITE-IN,&nbsp,0,AD 73,2026-11-04_12:16:53.08099
+ED    9,99.00%,Liz Krueger,(Democratic),255,AD 73,2026-11-04_12:16:53.08099
+ED    9,99.00%,Alina Bonsell,(Republican),207,AD 73,2026-11-04_12:16:53.08099
+ED    9,99.00%,Alina Bonsell,(Block Mamdani),5,AD 73,2026-11-04_12:16:53.08099
+ED    9,99.00%,WRITE-IN,&nbsp,0,AD 73,2026-11-04_12:16:53.08099
+ED   10,99.00%,Liz Krueger,(Democratic),144,AD 73,2026-11-04_12:16:53.08099
+ED   10,99.00%,Alina Bonsell,(Republican),210,AD 73,2026-11-04_12:16:53.08099
+ED   10,99.00%,Alina Bonsell,(Block Mamdani),5,AD 73,2026-11-04_12:16:53.08099
+ED   10,99.00%,WRITE-IN,&nbsp,0,AD 73,2026-11-04_12:16:53.08099
+ED   11,99.00%,Liz Krueger,(Democratic),426,AD 73,2026-11-04_12:16:53.08099
+ED   11,99.00%,Alina Bonsell,(Republican),305,AD 73,2026-11-04_12:16:53.08099
+ED   11,99.00%,Alina Bonsell,(Block Mamdani),7,AD 73,2026-11-04_12:16:53.08099
+ED   11,99.00%,WRITE-IN,&nbsp,1,AD 73,2026-11-04_12:16:53.08099
+ED   13,99.00%,Liz Krueger,(Democratic),575,AD 73,2026-11-04_12:16:53.08099
+ED   13,99.00%,Alina Bonsell,(Republican),138,AD 73,2026-11-04_12:16:53.08099
+ED   13,99.00%,Alina Bonsell,(Block Mamdani),9,AD 73,2026-11-04_12:16:53.08099
+ED   13,99.00%,WRITE-IN,&nbsp,2,AD 73,2026-11-04_12:16:53.08099
+ED   14,99.00%,Liz Krueger,(Democratic),365,AD 73,2026-11-04_12:16:53.08099
+ED   14,99.00%,Alina Bonsell,(Republican),106,AD 73,2026-11-04_12:16:53.08099
+ED   14,99.00%,Alina Bonsell,(Block Mamdani),4,AD 73,2026-11-04_12:16:53.08099
+ED   14,99.00%,WRITE-IN,&nbsp,0,AD 73,2026-11-04_12:16:53.08099
+ED   16,99.00%,Liz Krueger,(Democratic),473,AD 73,2026-11-04_12:16:53.08099
+ED   16,99.00%,Alina Bonsell,(Republican),140,AD 73,2026-11-04_12:16:53.08099
+ED   16,99.00%,Alina Bonsell,(Block Mamdani),8,AD 73,2026-11-04_12:16:53.08099
+ED   16,99.00%,WRITE-IN,&nbsp,0,AD 73,2026-11-04_12:16:53.08099
+ED   17,99.00%,Liz Krueger,(Democratic),443,AD 73,2026-11-04_12:16:53.08099
+ED   17,99.00%,Alina Bonsell,(Republican),188,AD 73,2026-11-04_12:16:53.08099
+ED   17,99.00%,Alina Bonsell,(Block Mamdani),7,AD 73,2026-11-04_12:16:53.08099
+ED   17,99.00%,WRITE-IN,&nbsp,0,AD 73,2026-11-04_12:16:53.08099
+ED   19,94.44%,Liz Krueger,(Democratic),515,AD 73,2026-11-04_12:16:53.08099
+ED   19,94.44%,Alina Bonsell,(Republican),168,AD 73,2026-11-04_12:16:53.08099
+ED   19,94.44%,Alina Bonsell,(Block Mamdani),12,AD 73,2026-11-04_12:16:53.08099
+ED   19,94.44%,WRITE-IN,&nbsp,1,AD 73,2026-11-04_12:16:53.08099
+ED   20,94.44%,Liz Krueger,(Democratic),444,AD 73,2026-11-04_12:16:53.08099
+ED   20,94.44%,Alina Bonsell,(Republican),177,AD 73,2026-11-04_12:16:53.08099
+ED   20,94.44%,Alina Bonsell,(Block Mamdani),4,AD 73,2026-11-04_12:16:53.08099
+ED   20,94.44%,WRITE-IN,&nbsp,0,AD 73,2026-11-04_12:16:53.08099
+ED   21,99.00%,Liz Krueger,(Democratic),550,AD 73,2026-11-04_12:16:53.08099
+ED   21,99.00%,Alina Bonsell,(Republican),111,AD 73,2026-11-04_12:16:53.08099
+ED   21,99.00%,Alina Bonsell,(Block Mamdani),10,AD 73,2026-11-04_12:16:53.08099
+ED   21,99.00%,WRITE-IN,&nbsp,1,AD 73,2026-11-04_12:16:53.08099
+ED   22,94.44%,Liz Krueger,(Democratic),483,AD 73,2026-11-04_12:16:53.08099
+ED   22,94.44%,Alina Bonsell,(Republican),203,AD 73,2026-11-04_12:16:53.08099
+ED   22,94.44%,Alina Bonsell,(Block Mamdani),4,AD 73,2026-11-04_12:16:53.08099
+ED   22,94.44%,WRITE-IN,&nbsp,1,AD 73,2026-11-04_12:16:53.08099
+ED   23,94.44%,Liz Krueger,(Democratic),504,AD 73,2026-11-04_12:16:53.08099
+ED   23,94.44%,Alina Bonsell,(Republican),175,AD 73,2026-11-04_12:16:53.08099
+ED   23,94.44%,Alina Bonsell,(Block Mamdani),3,AD 73,2026-11-04_12:16:53.08099
+ED   23,94.44%,WRITE-IN,&nbsp,0,AD 73,2026-11-04_12:16:53.08099
+ED   24,94.44%,Liz Krueger,(Democratic),630,AD 73,2026-11-04_12:16:53.08099
+ED   24,94.44%,Alina Bonsell,(Republican),198,AD 73,2026-11-04_12:16:53.08099
+ED   24,94.44%,Alina Bonsell,(Block Mamdani),10,AD 73,2026-11-04_12:16:53.08099
+ED   24,94.44%,WRITE-IN,&nbsp,0,AD 73,2026-11-04_12:16:53.08099
+ED   25,94.44%,Liz Krueger,(Democratic),504,AD 73,2026-11-04_12:16:53.08099
+ED   25,94.44%,Alina Bonsell,(Republican),181,AD 73,2026-11-04_12:16:53.08099
+ED   25,94.44%,Alina Bonsell,(Block Mamdani),12,AD 73,2026-11-04_12:16:53.08099
+ED   25,94.44%,WRITE-IN,&nbsp,2,AD 73,2026-11-04_12:16:53.08099
+ED   26,94.44%,Liz Krueger,(Democratic),506,AD 73,2026-11-04_12:16:53.08099
+ED   26,94.44%,Alina Bonsell,(Republican),234,AD 73,2026-11-04_12:16:53.08099
+ED   26,94.44%,Alina Bonsell,(Block Mamdani),8,AD 73,2026-11-04_12:16:53.08099
+ED   26,94.44%,WRITE-IN,&nbsp,0,AD 73,2026-11-04_12:16:53.08099
+ED   27,94.44%,Liz Krueger,(Democratic),558,AD 73,2026-11-04_12:16:53.08099
+ED   27,94.44%,Alina Bonsell,(Republican),266,AD 73,2026-11-04_12:16:53.08099
+ED   27,94.44%,Alina Bonsell,(Block Mamdani),8,AD 73,2026-11-04_12:16:53.08099
+ED   27,94.44%,WRITE-IN,&nbsp,0,AD 73,2026-11-04_12:16:53.08099
+ED   28,99.00%,Liz Krueger,(Democratic),434,AD 73,2026-11-04_12:16:53.08099
+ED   28,99.00%,Alina Bonsell,(Republican),164,AD 73,2026-11-04_12:16:53.08099
+ED   28,99.00%,Alina Bonsell,(Block Mamdani),7,AD 73,2026-11-04_12:16:53.08099
+ED   28,99.00%,WRITE-IN,&nbsp,2,AD 73,2026-11-04_12:16:53.08099
+ED   29,94.44%,Liz Krueger,(Democratic),572,AD 73,2026-11-04_12:16:53.08099
+ED   29,94.44%,Alina Bonsell,(Republican),223,AD 73,2026-11-04_12:16:53.08099
+ED   29,94.44%,Alina Bonsell,(Block Mamdani),11,AD 73,2026-11-04_12:16:53.08099
+ED   29,94.44%,WRITE-IN,&nbsp,0,AD 73,2026-11-04_12:16:53.08099
+ED   30,99.00%,Liz Krueger,(Democratic),637,AD 73,2026-11-04_12:16:53.08099
+ED   30,99.00%,Alina Bonsell,(Republican),229,AD 73,2026-11-04_12:16:53.08099
+ED   30,99.00%,Alina Bonsell,(Block Mamdani),11,AD 73,2026-11-04_12:16:53.08099
+ED   30,99.00%,WRITE-IN,&nbsp,4,AD 73,2026-11-04_12:16:53.08099
+ED   31,94.44%,Liz Krueger,(Democratic),682,AD 73,2026-11-04_12:16:53.08099
+ED   31,94.44%,Alina Bonsell,(Republican),325,AD 73,2026-11-04_12:16:53.08099
+ED   31,94.44%,Alina Bonsell,(Block Mamdani),13,AD 73,2026-11-04_12:16:53.08099
+ED   31,94.44%,WRITE-IN,&nbsp,0,AD 73,2026-11-04_12:16:53.08099
+ED   32,94.44%,Liz Krueger,(Democratic),626,AD 73,2026-11-04_12:16:53.08099
+ED   32,94.44%,Alina Bonsell,(Republican),196,AD 73,2026-11-04_12:16:53.08099
+ED   32,94.44%,Alina Bonsell,(Block Mamdani),11,AD 73,2026-11-04_12:16:53.08099
+ED   32,94.44%,WRITE-IN,&nbsp,3,AD 73,2026-11-04_12:16:53.08099
+ED   33,94.44%,Liz Krueger,(Democratic),501,AD 73,2026-11-04_12:16:53.08099
+ED   33,94.44%,Alina Bonsell,(Republican),185,AD 73,2026-11-04_12:16:53.08099
+ED   33,94.44%,Alina Bonsell,(Block Mamdani),17,AD 73,2026-11-04_12:16:53.08099
+ED   33,94.44%,WRITE-IN,&nbsp,0,AD 73,2026-11-04_12:16:53.08099
+ED   34,99.00%,Liz Krueger,(Democratic),420,AD 73,2026-11-04_12:16:53.08099
+ED   34,99.00%,Alina Bonsell,(Republican),200,AD 73,2026-11-04_12:16:53.08099
+ED   34,99.00%,Alina Bonsell,(Block Mamdani),5,AD 73,2026-11-04_12:16:53.08099
+ED   34,99.00%,WRITE-IN,&nbsp,0,AD 73,2026-11-04_12:16:53.08099
+ED   35,94.44%,Liz Krueger,(Democratic),202,AD 73,2026-11-04_12:16:53.08099
+ED   35,94.44%,Alina Bonsell,(Republican),96,AD 73,2026-11-04_12:16:53.08099
+ED   35,94.44%,Alina Bonsell,(Block Mamdani),4,AD 73,2026-11-04_12:16:53.08099
+ED   35,94.44%,WRITE-IN,&nbsp,2,AD 73,2026-11-04_12:16:53.08099
+ED   36,99.00%,Liz Krueger,(Democratic),357,AD 73,2026-11-04_12:16:53.08099
+ED   36,99.00%,Alina Bonsell,(Republican),175,AD 73,2026-11-04_12:16:53.08099
+ED   36,99.00%,Alina Bonsell,(Block Mamdani),10,AD 73,2026-11-04_12:16:53.08099
+ED   36,99.00%,WRITE-IN,&nbsp,0,AD 73,2026-11-04_12:16:53.08099
+ED   37,99.00%,Liz Krueger,(Democratic),512,AD 73,2026-11-04_12:16:53.08099
+ED   37,99.00%,Alina Bonsell,(Republican),248,AD 73,2026-11-04_12:16:53.08099
+ED   37,99.00%,Alina Bonsell,(Block Mamdani),11,AD 73,2026-11-04_12:16:53.08099
+ED   37,99.00%,WRITE-IN,&nbsp,4,AD 73,2026-11-04_12:16:53.08099
+ED   38,99.00%,Liz Krueger,(Democratic),533,AD 73,2026-11-04_12:16:53.08099
+ED   38,99.00%,Alina Bonsell,(Republican),347,AD 73,2026-11-04_12:16:53.08099
+ED   38,99.00%,Alina Bonsell,(Block Mamdani),15,AD 73,2026-11-04_12:16:53.08099
+ED   38,99.00%,WRITE-IN,&nbsp,1,AD 73,2026-11-04_12:16:53.08099
+ED   39,99.00%,Liz Krueger,(Democratic),518,AD 73,2026-11-04_12:16:53.08099
+ED   39,99.00%,Alina Bonsell,(Republican),294,AD 73,2026-11-04_12:16:53.08099
+ED   39,99.00%,Alina Bonsell,(Block Mamdani),9,AD 73,2026-11-04_12:16:53.08099
+ED   39,99.00%,WRITE-IN,&nbsp,1,AD 73,2026-11-04_12:16:53.08099
+ED   40,99.00%,Liz Krueger,(Democratic),416,AD 73,2026-11-04_12:16:53.08099
+ED   40,99.00%,Alina Bonsell,(Republican),226,AD 73,2026-11-04_12:16:53.08099
+ED   40,99.00%,Alina Bonsell,(Block Mamdani),12,AD 73,2026-11-04_12:16:53.08099
+ED   40,99.00%,WRITE-IN,&nbsp,0,AD 73,2026-11-04_12:16:53.08099
+ED   41,99.00%,Liz Krueger,(Democratic),298,AD 73,2026-11-04_12:16:53.08099
+ED   41,99.00%,Alina Bonsell,(Republican),255,AD 73,2026-11-04_12:16:53.08099
+ED   41,99.00%,Alina Bonsell,(Block Mamdani),9,AD 73,2026-11-04_12:16:53.08099
+ED   41,99.00%,WRITE-IN,&nbsp,0,AD 73,2026-11-04_12:16:53.08099
+ED   42,99.00%,Liz Krueger,(Democratic),341,AD 73,2026-11-04_12:16:53.08099
+ED   42,99.00%,Alina Bonsell,(Republican),285,AD 73,2026-11-04_12:16:53.08099
+ED   42,99.00%,Alina Bonsell,(Block Mamdani),13,AD 73,2026-11-04_12:16:53.08099
+ED   42,99.00%,WRITE-IN,&nbsp,0,AD 73,2026-11-04_12:16:53.08099
+ED   43,99.00%,Liz Krueger,(Democratic),477,AD 73,2026-11-04_12:16:53.08099
+ED   43,99.00%,Alina Bonsell,(Republican),306,AD 73,2026-11-04_12:16:53.08099
+ED   43,99.00%,Alina Bonsell,(Block Mamdani),17,AD 73,2026-11-04_12:16:53.08099
+ED   43,99.00%,WRITE-IN,&nbsp,0,AD 73,2026-11-04_12:16:53.08099
+ED   44,27.78%,Liz Krueger,(Democratic),323,AD 73,2026-11-04_12:16:53.08099
+ED   44,27.78%,Alina Bonsell,(Republican),155,AD 73,2026-11-04_12:16:53.08099
+ED   44,27.78%,Alina Bonsell,(Block Mamdani),8,AD 73,2026-11-04_12:16:53.08099
+ED   44,27.78%,WRITE-IN,&nbsp,0,AD 73,2026-11-04_12:16:53.08099
+ED   45,27.78%,Liz Krueger,(Democratic),337,AD 73,2026-11-04_12:16:53.08099
+ED   45,27.78%,Alina Bonsell,(Republican),194,AD 73,2026-11-04_12:16:53.08099
+ED   45,27.78%,Alina Bonsell,(Block Mamdani),10,AD 73,2026-11-04_12:16:53.08099
+ED   45,27.78%,WRITE-IN,&nbsp,0,AD 73,2026-11-04_12:16:53.08099
+ED   46,27.78%,Liz Krueger,(Democratic),315,AD 73,2026-11-04_12:16:53.08099
+ED   46,27.78%,Alina Bonsell,(Republican),203,AD 73,2026-11-04_12:16:53.08099
+ED   46,27.78%,Alina Bonsell,(Block Mamdani),5,AD 73,2026-11-04_12:16:53.08099
+ED   46,27.78%,WRITE-IN,&nbsp,0,AD 73,2026-11-04_12:16:53.08099
+ED   47,27.78%,Liz Krueger,(Democratic),270,AD 73,2026-11-04_12:16:53.08099
+ED   47,27.78%,Alina Bonsell,(Republican),178,AD 73,2026-11-04_12:16:53.08099
+ED   47,27.78%,Alina Bonsell,(Block Mamdani),10,AD 73,2026-11-04_12:16:53.08099
+ED   47,27.78%,WRITE-IN,&nbsp,0,AD 73,2026-11-04_12:16:53.08099
+ED   48,27.78%,Liz Krueger,(Democratic),324,AD 73,2026-11-04_12:16:53.08099
+ED   48,27.78%,Alina Bonsell,(Republican),239,AD 73,2026-11-04_12:16:53.08099
+ED   48,27.78%,Alina Bonsell,(Block Mamdani),9,AD 73,2026-11-04_12:16:53.08099
+ED   48,27.78%,WRITE-IN,&nbsp,1,AD 73,2026-11-04_12:16:53.08099
+ED   49,72.73%,Liz Krueger,(Democratic),334,AD 73,2026-11-04_12:16:53.08099
+ED   49,72.73%,Alina Bonsell,(Republican),231,AD 73,2026-11-04_12:16:53.08099
+ED   49,72.73%,Alina Bonsell,(Block Mamdani),11,AD 73,2026-11-04_12:16:53.08099
+ED   49,72.73%,WRITE-IN,&nbsp,0,AD 73,2026-11-04_12:16:53.08099
+ED   50,72.73%,Liz Krueger,(Democratic),502,AD 73,2026-11-04_12:16:53.08099
+ED   50,72.73%,Alina Bonsell,(Republican),382,AD 73,2026-11-04_12:16:53.08099
+ED   50,72.73%,Alina Bonsell,(Block Mamdani),10,AD 73,2026-11-04_12:16:53.08099
+ED   50,72.73%,WRITE-IN,&nbsp,0,AD 73,2026-11-04_12:16:53.08099
+ED   51,72.73%,Liz Krueger,(Democratic),541,AD 73,2026-11-04_12:16:53.08099
+ED   51,72.73%,Alina Bonsell,(Republican),320,AD 73,2026-11-04_12:16:53.08099
+ED   51,72.73%,Alina Bonsell,(Block Mamdani),7,AD 73,2026-11-04_12:16:53.08099
+ED   51,72.73%,WRITE-IN,&nbsp,0,AD 73,2026-11-04_12:16:53.08099
+ED   52,90.91%,Liz Krueger,(Democratic),423,AD 73,2026-11-04_12:16:53.08099
+ED   52,90.91%,Alina Bonsell,(Republican),260,AD 73,2026-11-04_12:16:53.08099
+ED   52,90.91%,Alina Bonsell,(Block Mamdani),11,AD 73,2026-11-04_12:16:53.08099
+ED   52,90.91%,WRITE-IN,&nbsp,0,AD 73,2026-11-04_12:16:53.08099
+ED   53,99.00%,Liz Krueger,(Democratic),486,AD 73,2026-11-04_12:16:53.08099
+ED   53,99.00%,Alina Bonsell,(Republican),260,AD 73,2026-11-04_12:16:53.08099
+ED   53,99.00%,Alina Bonsell,(Block Mamdani),10,AD 73,2026-11-04_12:16:53.08099
+ED   53,99.00%,WRITE-IN,&nbsp,0,AD 73,2026-11-04_12:16:53.08099
+ED   54,90.91%,Liz Krueger,(Democratic),539,AD 73,2026-11-04_12:16:53.08099
+ED   54,90.91%,Alina Bonsell,(Republican),395,AD 73,2026-11-04_12:16:53.08099
+ED   54,90.91%,Alina Bonsell,(Block Mamdani),10,AD 73,2026-11-04_12:16:53.08099
+ED   54,90.91%,WRITE-IN,&nbsp,0,AD 73,2026-11-04_12:16:53.08099
+ED   55,99.00%,Liz Krueger,(Democratic),437,AD 73,2026-11-04_12:16:53.08099
+ED   55,99.00%,Alina Bonsell,(Republican),225,AD 73,2026-11-04_12:16:53.08099
+ED   55,99.00%,Alina Bonsell,(Block Mamdani),9,AD 73,2026-11-04_12:16:53.08099
+ED   55,99.00%,WRITE-IN,&nbsp,1,AD 73,2026-11-04_12:16:53.08099
+ED   56,99.00%,Liz Krueger,(Democratic),349,AD 73,2026-11-04_12:16:53.08099
+ED   56,99.00%,Alina Bonsell,(Republican),217,AD 73,2026-11-04_12:16:53.08099
+ED   56,99.00%,Alina Bonsell,(Block Mamdani),13,AD 73,2026-11-04_12:16:53.08099
+ED   56,99.00%,WRITE-IN,&nbsp,1,AD 73,2026-11-04_12:16:53.08099
+ED   57,90.91%,Liz Krueger,(Democratic),418,AD 73,2026-11-04_12:16:53.08099
+ED   57,90.91%,Alina Bonsell,(Republican),230,AD 73,2026-11-04_12:16:53.08099
+ED   57,90.91%,Alina Bonsell,(Block Mamdani),11,AD 73,2026-11-04_12:16:53.08099
+ED   57,90.91%,WRITE-IN,&nbsp,0,AD 73,2026-11-04_12:16:53.08099
+ED   58,90.91%,Liz Krueger,(Democratic),416,AD 73,2026-11-04_12:16:53.08099
+ED   58,90.91%,Alina Bonsell,(Republican),195,AD 73,2026-11-04_12:16:53.08099
+ED   58,90.91%,Alina Bonsell,(Block Mamdani),4,AD 73,2026-11-04_12:16:53.08099
+ED   58,90.91%,WRITE-IN,&nbsp,0,AD 73,2026-11-04_12:16:53.08099
+ED   61,99.00%,Liz Krueger,(Democratic),601,AD 73,2026-11-04_12:16:53.08099
+ED   61,99.00%,Alina Bonsell,(Republican),135,AD 73,2026-11-04_12:16:53.08099
+ED   61,99.00%,Alina Bonsell,(Block Mamdani),7,AD 73,2026-11-04_12:16:53.08099
+ED   61,99.00%,WRITE-IN,&nbsp,0,AD 73,2026-11-04_12:16:53.08099
+ED   62,99.00%,Liz Krueger,(Democratic),563,AD 73,2026-11-04_12:16:53.08099
+ED   62,99.00%,Alina Bonsell,(Republican),164,AD 73,2026-11-04_12:16:53.08099
+ED   62,99.00%,Alina Bonsell,(Block Mamdani),6,AD 73,2026-11-04_12:16:53.08099
+ED   62,99.00%,WRITE-IN,&nbsp,4,AD 73,2026-11-04_12:16:53.08099
+ED   63,99.00%,Liz Krueger,(Democratic),488,AD 73,2026-11-04_12:16:53.08099
+ED   63,99.00%,Alina Bonsell,(Republican),281,AD 73,2026-11-04_12:16:53.08099
+ED   63,99.00%,Alina Bonsell,(Block Mamdani),4,AD 73,2026-11-04_12:16:53.08099
+ED   63,99.00%,WRITE-IN,&nbsp,0,AD 73,2026-11-04_12:16:53.08099
+ED   64,99.00%,Liz Krueger,(Democratic),615,AD 73,2026-11-04_12:16:53.08099
+ED   64,99.00%,Alina Bonsell,(Republican),307,AD 73,2026-11-04_12:16:53.08099
+ED   64,99.00%,Alina Bonsell,(Block Mamdani),11,AD 73,2026-11-04_12:16:53.08099
+ED   64,99.00%,WRITE-IN,&nbsp,2,AD 73,2026-11-04_12:16:53.08099
+ED   65,90.91%,Liz Krueger,(Democratic),407,AD 73,2026-11-04_12:16:53.08099
+ED   65,90.91%,Alina Bonsell,(Republican),180,AD 73,2026-11-04_12:16:53.08099
+ED   65,90.91%,Alina Bonsell,(Block Mamdani),7,AD 73,2026-11-04_12:16:53.08099
+ED   65,90.91%,WRITE-IN,&nbsp,2,AD 73,2026-11-04_12:16:53.08099
+ED   66,72.73%,Liz Krueger,(Democratic),603,AD 73,2026-11-04_12:16:53.08099
+ED   66,72.73%,Alina Bonsell,(Republican),248,AD 73,2026-11-04_12:16:53.08099
+ED   66,72.73%,Alina Bonsell,(Block Mamdani),11,AD 73,2026-11-04_12:16:53.08099
+ED   66,72.73%,WRITE-IN,&nbsp,1,AD 73,2026-11-04_12:16:53.08099
+ED   67,72.73%,Liz Krueger,(Democratic),531,AD 73,2026-11-04_12:16:53.08099
+ED   67,72.73%,Alina Bonsell,(Republican),201,AD 73,2026-11-04_12:16:53.08099
+ED   67,72.73%,Alina Bonsell,(Block Mamdani),13,AD 73,2026-11-04_12:16:53.08099
+ED   67,72.73%,WRITE-IN,&nbsp,1,AD 73,2026-11-04_12:16:53.08099
+ED   68,90.91%,Liz Krueger,(Democratic),420,AD 73,2026-11-04_12:16:53.08099
+ED   68,90.91%,Alina Bonsell,(Republican),221,AD 73,2026-11-04_12:16:53.08099
+ED   68,90.91%,Alina Bonsell,(Block Mamdani),11,AD 73,2026-11-04_12:16:53.08099
+ED   68,90.91%,WRITE-IN,&nbsp,2,AD 73,2026-11-04_12:16:53.08099
+ED   72,99.00%,Liz Krueger,(Democratic),286,AD 73,2026-11-04_12:16:53.08099
+ED   72,99.00%,Alina Bonsell,(Republican),106,AD 73,2026-11-04_12:16:53.08099
+ED   72,99.00%,Alina Bonsell,(Block Mamdani),5,AD 73,2026-11-04_12:16:53.08099
+ED   72,99.00%,WRITE-IN,&nbsp,0,AD 73,2026-11-04_12:16:53.08099
+ED   74,99.00%,Liz Krueger,(Democratic),0,AD 73,2026-11-04_12:16:53.08099
+ED   74,99.00%,Alina Bonsell,(Republican),0,AD 73,2026-11-04_12:16:53.08099
+ED   74,99.00%,Alina Bonsell,(Block Mamdani),0,AD 73,2026-11-04_12:16:53.08099
+ED   74,99.00%,WRITE-IN,&nbsp,0,AD 73,2026-11-04_12:16:53.08099
+Total,,Liz Krueger,(Democratic),27553,AD 73,2026-11-04_12:16:53.08099
+Total,,Alina Bonsell,(Republican),12988,AD 73,2026-11-04_12:16:53.08099
+Total,,Alina Bonsell,(Block Mamdani),535,AD 73,2026-11-04_12:16:53.08099
+Total,,WRITE-IN,&nbsp,41,AD 73,2026-11-04_12:16:53.08099
+ED    1,99.00%,Liz Krueger,(Democratic),582,AD 74,2026-11-04_12:16:53.08099
+ED    1,99.00%,Alina Bonsell,(Republican),162,AD 74,2026-11-04_12:16:53.08099
+ED    1,99.00%,Alina Bonsell,(Block Mamdani),11,AD 74,2026-11-04_12:16:53.08099
+ED    1,99.00%,WRITE-IN,&nbsp,1,AD 74,2026-11-04_12:16:53.08099
+ED   44,99.00%,Liz Krueger,(Democratic),319,AD 74,2026-11-04_12:16:53.08099
+ED   44,99.00%,Alina Bonsell,(Republican),114,AD 74,2026-11-04_12:16:53.08099
+ED   44,99.00%,Alina Bonsell,(Block Mamdani),10,AD 74,2026-11-04_12:16:53.08099
+ED   44,99.00%,WRITE-IN,&nbsp,1,AD 74,2026-11-04_12:16:53.08099
+ED   45,99.00%,Liz Krueger,(Democratic),473,AD 74,2026-11-04_12:16:53.08099
+ED   45,99.00%,Alina Bonsell,(Republican),199,AD 74,2026-11-04_12:16:53.08099
+ED   45,99.00%,Alina Bonsell,(Block Mamdani),7,AD 74,2026-11-04_12:16:53.08099
+ED   45,99.00%,WRITE-IN,&nbsp,0,AD 74,2026-11-04_12:16:53.08099
+ED   61,87.50%,Liz Krueger,(Democratic),235,AD 74,2026-11-04_12:16:53.08099
+ED   61,87.50%,Alina Bonsell,(Republican),85,AD 74,2026-11-04_12:16:53.08099
+ED   61,87.50%,Alina Bonsell,(Block Mamdani),4,AD 74,2026-11-04_12:16:53.08099
+ED   61,87.50%,WRITE-IN,&nbsp,0,AD 74,2026-11-04_12:16:53.08099
+ED   63,87.50%,Liz Krueger,(Democratic),141,AD 74,2026-11-04_12:16:53.08099
+ED   63,87.50%,Alina Bonsell,(Republican),38,AD 74,2026-11-04_12:16:53.08099
+ED   63,87.50%,Alina Bonsell,(Block Mamdani),2,AD 74,2026-11-04_12:16:53.08099
+ED   63,87.50%,WRITE-IN,&nbsp,0,AD 74,2026-11-04_12:16:53.08099
+ED   64,99.00%,Liz Krueger,(Democratic),35,AD 74,2026-11-04_12:16:53.08099
+ED   64,99.00%,Alina Bonsell,(Republican),10,AD 74,2026-11-04_12:16:53.08099
+ED   64,99.00%,Alina Bonsell,(Block Mamdani),0,AD 74,2026-11-04_12:16:53.08099
+ED   64,99.00%,WRITE-IN,&nbsp,0,AD 74,2026-11-04_12:16:53.08099
+Total,,Liz Krueger,(Democratic),1785,AD 74,2026-11-04_12:16:53.08099
+Total,,Alina Bonsell,(Republican),608,AD 74,2026-11-04_12:16:53.08099
+Total,,Alina Bonsell,(Block Mamdani),34,AD 74,2026-11-04_12:16:53.08099
+Total,,WRITE-IN,&nbsp,2,AD 74,2026-11-04_12:16:53.08099
+ED    7,99.00%,Liz Krueger,(Democratic),462,AD 75,2026-11-04_12:16:53.08099
+ED    7,99.00%,Alina Bonsell,(Republican),102,AD 75,2026-11-04_12:16:53.08099
+ED    7,99.00%,Alina Bonsell,(Block Mamdani),9,AD 75,2026-11-04_12:16:53.08099
+ED    7,99.00%,WRITE-IN,&nbsp,0,AD 75,2026-11-04_12:16:53.08099
+ED   10,99.00%,Liz Krueger,(Democratic),694,AD 75,2026-11-04_12:16:53.08099
+ED   10,99.00%,Alina Bonsell,(Republican),200,AD 75,2026-11-04_12:16:53.08099
+ED   10,99.00%,Alina Bonsell,(Block Mamdani),9,AD 75,2026-11-04_12:16:53.08099
+ED   10,99.00%,WRITE-IN,&nbsp,1,AD 75,2026-11-04_12:16:53.08099
+ED   11,99.00%,Liz Krueger,(Democratic),328,AD 75,2026-11-04_12:16:53.08099
+ED   11,99.00%,Alina Bonsell,(Republican),149,AD 75,2026-11-04_12:16:53.08099
+ED   11,99.00%,Alina Bonsell,(Block Mamdani),5,AD 75,2026-11-04_12:16:53.08099
+ED   11,99.00%,WRITE-IN,&nbsp,0,AD 75,2026-11-04_12:16:53.08099
+ED   12,99.00%,Liz Krueger,(Democratic),480,AD 75,2026-11-04_12:16:53.08099
+ED   12,99.00%,Alina Bonsell,(Republican),123,AD 75,2026-11-04_12:16:53.08099
+ED   12,99.00%,Alina Bonsell,(Block Mamdani),5,AD 75,2026-11-04_12:16:53.08099
+ED   12,99.00%,WRITE-IN,&nbsp,1,AD 75,2026-11-04_12:16:53.08099
+ED   13,99.00%,Liz Krueger,(Democratic),588,AD 75,2026-11-04_12:16:53.08099
+ED   13,99.00%,Alina Bonsell,(Republican),228,AD 75,2026-11-04_12:16:53.08099
+ED   13,99.00%,Alina Bonsell,(Block Mamdani),7,AD 75,2026-11-04_12:16:53.08099
+ED   13,99.00%,WRITE-IN,&nbsp,1,AD 75,2026-11-04_12:16:53.08099
+ED   14,99.00%,Liz Krueger,(Democratic),205,AD 75,2026-11-04_12:16:53.08099
+ED   14,99.00%,Alina Bonsell,(Republican),68,AD 75,2026-11-04_12:16:53.08099
+ED   14,99.00%,Alina Bonsell,(Block Mamdani),6,AD 75,2026-11-04_12:16:53.08099
+ED   14,99.00%,WRITE-IN,&nbsp,0,AD 75,2026-11-04_12:16:53.08099
+ED   15,99.00%,Liz Krueger,(Democratic),354,AD 75,2026-11-04_12:16:53.08099
+ED   15,99.00%,Alina Bonsell,(Republican),81,AD 75,2026-11-04_12:16:53.08099
+ED   15,99.00%,Alina Bonsell,(Block Mamdani),7,AD 75,2026-11-04_12:16:53.08099
+ED   15,99.00%,WRITE-IN,&nbsp,0,AD 75,2026-11-04_12:16:53.08099
+ED   16,99.00%,Liz Krueger,(Democratic),155,AD 75,2026-11-04_12:16:53.08099
+ED   16,99.00%,Alina Bonsell,(Republican),46,AD 75,2026-11-04_12:16:53.08099
+ED   16,99.00%,Alina Bonsell,(Block Mamdani),1,AD 75,2026-11-04_12:16:53.08099
+ED   16,99.00%,WRITE-IN,&nbsp,1,AD 75,2026-11-04_12:16:53.08099
+ED   18,99.00%,Liz Krueger,(Democratic),181,AD 75,2026-11-04_12:16:53.08099
+ED   18,99.00%,Alina Bonsell,(Republican),71,AD 75,2026-11-04_12:16:53.08099
+ED   18,99.00%,Alina Bonsell,(Block Mamdani),2,AD 75,2026-11-04_12:16:53.08099
+ED   18,99.00%,WRITE-IN,&nbsp,1,AD 75,2026-11-04_12:16:53.08099
+ED   20,99.00%,Liz Krueger,(Democratic),310,AD 75,2026-11-04_12:16:53.08099
+ED   20,99.00%,Alina Bonsell,(Republican),104,AD 75,2026-11-04_12:16:53.08099
+ED   20,99.00%,Alina Bonsell,(Block Mamdani),7,AD 75,2026-11-04_12:16:53.08099
+ED   20,99.00%,WRITE-IN,&nbsp,0,AD 75,2026-11-04_12:16:53.08099
+ED   21,99.00%,Liz Krueger,(Democratic),200,AD 75,2026-11-04_12:16:53.08099
+ED   21,99.00%,Alina Bonsell,(Republican),57,AD 75,2026-11-04_12:16:53.08099
+ED   21,99.00%,Alina Bonsell,(Block Mamdani),0,AD 75,2026-11-04_12:16:53.08099
+ED   21,99.00%,WRITE-IN,&nbsp,0,AD 75,2026-11-04_12:16:53.08099
+ED   22,99.00%,Liz Krueger,(Democratic),438,AD 75,2026-11-04_12:16:53.08099
+ED   22,99.00%,Alina Bonsell,(Republican),155,AD 75,2026-11-04_12:16:53.08099
+ED   22,99.00%,Alina Bonsell,(Block Mamdani),9,AD 75,2026-11-04_12:16:53.08099
+ED   22,99.00%,WRITE-IN,&nbsp,2,AD 75,2026-11-04_12:16:53.08099
+ED   23,99.00%,Liz Krueger,(Democratic),399,AD 75,2026-11-04_12:16:53.08099
+ED   23,99.00%,Alina Bonsell,(Republican),90,AD 75,2026-11-04_12:16:53.08099
+ED   23,99.00%,Alina Bonsell,(Block Mamdani),7,AD 75,2026-11-04_12:16:53.08099
+ED   23,99.00%,WRITE-IN,&nbsp,1,AD 75,2026-11-04_12:16:53.08099
+ED   24,99.00%,Liz Krueger,(Democratic),492,AD 75,2026-11-04_12:16:53.08099
+ED   24,99.00%,Alina Bonsell,(Republican),130,AD 75,2026-11-04_12:16:53.08099
+ED   24,99.00%,Alina Bonsell,(Block Mamdani),8,AD 75,2026-11-04_12:16:53.08099
+ED   24,99.00%,WRITE-IN,&nbsp,0,AD 75,2026-11-04_12:16:53.08099
+ED   26,99.00%,Liz Krueger,(Democratic),594,AD 75,2026-11-04_12:16:53.08099
+ED   26,99.00%,Alina Bonsell,(Republican),152,AD 75,2026-11-04_12:16:53.08099
+ED   26,99.00%,Alina Bonsell,(Block Mamdani),10,AD 75,2026-11-04_12:16:53.08099
+ED   26,99.00%,WRITE-IN,&nbsp,2,AD 75,2026-11-04_12:16:53.08099
+ED   27,99.00%,Liz Krueger,(Democratic),430,AD 75,2026-11-04_12:16:53.08099
+ED   27,99.00%,Alina Bonsell,(Republican),128,AD 75,2026-11-04_12:16:53.08099
+ED   27,99.00%,Alina Bonsell,(Block Mamdani),10,AD 75,2026-11-04_12:16:53.08099
+ED   27,99.00%,WRITE-IN,&nbsp,0,AD 75,2026-11-04_12:16:53.08099
+ED   28,85.71%,Liz Krueger,(Democratic),587,AD 75,2026-11-04_12:16:53.08099
+ED   28,85.71%,Alina Bonsell,(Republican),125,AD 75,2026-11-04_12:16:53.08099
+ED   28,85.71%,Alina Bonsell,(Block Mamdani),9,AD 75,2026-11-04_12:16:53.08099
+ED   28,85.71%,WRITE-IN,&nbsp,2,AD 75,2026-11-04_12:16:53.08099
+ED   30,99.00%,Liz Krueger,(Democratic),391,AD 75,2026-11-04_12:16:53.08099
+ED   30,99.00%,Alina Bonsell,(Republican),100,AD 75,2026-11-04_12:16:53.08099
+ED   30,99.00%,Alina Bonsell,(Block Mamdani),8,AD 75,2026-11-04_12:16:53.08099
+ED   30,99.00%,WRITE-IN,&nbsp,0,AD 75,2026-11-04_12:16:53.08099
+ED   36,99.00%,Liz Krueger,(Democratic),138,AD 75,2026-11-04_12:16:53.08099
+ED   36,99.00%,Alina Bonsell,(Republican),34,AD 75,2026-11-04_12:16:53.08099
+ED   36,99.00%,Alina Bonsell,(Block Mamdani),2,AD 75,2026-11-04_12:16:53.08099
+ED   36,99.00%,WRITE-IN,&nbsp,0,AD 75,2026-11-04_12:16:53.08099
+ED   40,99.00%,Liz Krueger,(Democratic),497,AD 75,2026-11-04_12:16:53.08099
+ED   40,99.00%,Alina Bonsell,(Republican),61,AD 75,2026-11-04_12:16:53.08099
+ED   40,99.00%,Alina Bonsell,(Block Mamdani),5,AD 75,2026-11-04_12:16:53.08099
+ED   40,99.00%,WRITE-IN,&nbsp,0,AD 75,2026-11-04_12:16:53.08099
+ED   48,83.33%,Liz Krueger,(Democratic),305,AD 75,2026-11-04_12:16:53.08099
+ED   48,83.33%,Alina Bonsell,(Republican),53,AD 75,2026-11-04_12:16:53.08099
+ED   48,83.33%,Alina Bonsell,(Block Mamdani),4,AD 75,2026-11-04_12:16:53.08099
+ED   48,83.33%,WRITE-IN,&nbsp,0,AD 75,2026-11-04_12:16:53.08099
+ED   67,99.00%,Liz Krueger,(Democratic),6,AD 75,2026-11-04_12:16:53.08099
+ED   67,99.00%,Alina Bonsell,(Republican),0,AD 75,2026-11-04_12:16:53.08099
+ED   67,99.00%,Alina Bonsell,(Block Mamdani),0,AD 75,2026-11-04_12:16:53.08099
+ED   67,99.00%,WRITE-IN,&nbsp,0,AD 75,2026-11-04_12:16:53.08099
+ED   70,99.00%,Liz Krueger,(Democratic),0,AD 75,2026-11-04_12:16:53.08099
+ED   70,99.00%,Alina Bonsell,(Republican),0,AD 75,2026-11-04_12:16:53.08099
+ED   70,99.00%,Alina Bonsell,(Block Mamdani),0,AD 75,2026-11-04_12:16:53.08099
+ED   70,99.00%,WRITE-IN,&nbsp,0,AD 75,2026-11-04_12:16:53.08099
+ED   71,99.00%,Liz Krueger,(Democratic),0,AD 75,2026-11-04_12:16:53.08099
+ED   71,99.00%,Alina Bonsell,(Republican),0,AD 75,2026-11-04_12:16:53.08099
+ED   71,99.00%,Alina Bonsell,(Block Mamdani),0,AD 75,2026-11-04_12:16:53.08099
+ED   71,99.00%,WRITE-IN,&nbsp,0,AD 75,2026-11-04_12:16:53.08099
+Total,,Liz Krueger,(Democratic),8234,AD 75,2026-11-04_12:16:53.08099
+Total,,Alina Bonsell,(Republican),2257,AD 75,2026-11-04_12:16:53.08099
+Total,,Alina Bonsell,(Block Mamdani),130,AD 75,2026-11-04_12:16:53.08099
+Total,,WRITE-IN,&nbsp,12,AD 75,2026-11-04_12:16:53.08099
+ED    1,99.00%,Liz Krueger,(Democratic),522,AD 76,2026-11-04_12:16:53.08099
+ED    1,99.00%,Alina Bonsell,(Republican),265,AD 76,2026-11-04_12:16:53.08099
+ED    1,99.00%,Alina Bonsell,(Block Mamdani),7,AD 76,2026-11-04_12:16:53.08099
+ED    1,99.00%,WRITE-IN,&nbsp,0,AD 76,2026-11-04_12:16:53.08099
+ED    2,99.00%,Liz Krueger,(Democratic),301,AD 76,2026-11-04_12:16:53.08099
+ED    2,99.00%,Alina Bonsell,(Republican),237,AD 76,2026-11-04_12:16:53.08099
+ED    2,99.00%,Alina Bonsell,(Block Mamdani),7,AD 76,2026-11-04_12:16:53.08099
+ED    2,99.00%,WRITE-IN,&nbsp,1,AD 76,2026-11-04_12:16:53.08099
+ED    3,99.00%,Liz Krueger,(Democratic),368,AD 76,2026-11-04_12:16:53.08099
+ED    3,99.00%,Alina Bonsell,(Republican),240,AD 76,2026-11-04_12:16:53.08099
+ED    3,99.00%,Alina Bonsell,(Block Mamdani),9,AD 76,2026-11-04_12:16:53.08099
+ED    3,99.00%,WRITE-IN,&nbsp,1,AD 76,2026-11-04_12:16:53.08099
+ED    4,99.00%,Liz Krueger,(Democratic),451,AD 76,2026-11-04_12:16:53.08099
+ED    4,99.00%,Alina Bonsell,(Republican),300,AD 76,2026-11-04_12:16:53.08099
+ED    4,99.00%,Alina Bonsell,(Block Mamdani),9,AD 76,2026-11-04_12:16:53.08099
+ED    4,99.00%,WRITE-IN,&nbsp,0,AD 76,2026-11-04_12:16:53.08099
+ED    5,27.78%,Liz Krueger,(Democratic),420,AD 76,2026-11-04_12:16:53.08099
+ED    5,27.78%,Alina Bonsell,(Republican),144,AD 76,2026-11-04_12:16:53.08099
+ED    5,27.78%,Alina Bonsell,(Block Mamdani),11,AD 76,2026-11-04_12:16:53.08099
+ED    5,27.78%,WRITE-IN,&nbsp,0,AD 76,2026-11-04_12:16:53.08099
+ED    6,27.78%,Liz Krueger,(Democratic),395,AD 76,2026-11-04_12:16:53.08099
+ED    6,27.78%,Alina Bonsell,(Republican),145,AD 76,2026-11-04_12:16:53.08099
+ED    6,27.78%,Alina Bonsell,(Block Mamdani),6,AD 76,2026-11-04_12:16:53.08099
+ED    6,27.78%,WRITE-IN,&nbsp,0,AD 76,2026-11-04_12:16:53.08099
+ED    7,27.78%,Liz Krueger,(Democratic),380,AD 76,2026-11-04_12:16:53.08099
+ED    7,27.78%,Alina Bonsell,(Republican),131,AD 76,2026-11-04_12:16:53.08099
+ED    7,27.78%,Alina Bonsell,(Block Mamdani),4,AD 76,2026-11-04_12:16:53.08099
+ED    7,27.78%,WRITE-IN,&nbsp,0,AD 76,2026-11-04_12:16:53.08099
+ED    8,60.00%,Liz Krueger,(Democratic),264,AD 76,2026-11-04_12:16:53.08099
+ED    8,60.00%,Alina Bonsell,(Republican),66,AD 76,2026-11-04_12:16:53.08099
+ED    8,60.00%,Alina Bonsell,(Block Mamdani),5,AD 76,2026-11-04_12:16:53.08099
+ED    8,60.00%,WRITE-IN,&nbsp,0,AD 76,2026-11-04_12:16:53.08099
+ED    9,60.00%,Liz Krueger,(Democratic),453,AD 76,2026-11-04_12:16:53.08099
+ED    9,60.00%,Alina Bonsell,(Republican),176,AD 76,2026-11-04_12:16:53.08099
+ED    9,60.00%,Alina Bonsell,(Block Mamdani),6,AD 76,2026-11-04_12:16:53.08099
+ED    9,60.00%,WRITE-IN,&nbsp,0,AD 76,2026-11-04_12:16:53.08099
+ED   10,60.00%,Liz Krueger,(Democratic),363,AD 76,2026-11-04_12:16:53.08099
+ED   10,60.00%,Alina Bonsell,(Republican),59,AD 76,2026-11-04_12:16:53.08099
+ED   10,60.00%,Alina Bonsell,(Block Mamdani),1,AD 76,2026-11-04_12:16:53.08099
+ED   10,60.00%,WRITE-IN,&nbsp,0,AD 76,2026-11-04_12:16:53.08099
+ED   11,60.00%,Liz Krueger,(Democratic),341,AD 76,2026-11-04_12:16:53.08099
+ED   11,60.00%,Alina Bonsell,(Republican),117,AD 76,2026-11-04_12:16:53.08099
+ED   11,60.00%,Alina Bonsell,(Block Mamdani),9,AD 76,2026-11-04_12:16:53.08099
+ED   11,60.00%,WRITE-IN,&nbsp,0,AD 76,2026-11-04_12:16:53.08099
+ED   12,60.00%,Liz Krueger,(Democratic),366,AD 76,2026-11-04_12:16:53.08099
+ED   12,60.00%,Alina Bonsell,(Republican),98,AD 76,2026-11-04_12:16:53.08099
+ED   12,60.00%,Alina Bonsell,(Block Mamdani),3,AD 76,2026-11-04_12:16:53.08099
+ED   12,60.00%,WRITE-IN,&nbsp,1,AD 76,2026-11-04_12:16:53.08099
+ED   13,60.00%,Liz Krueger,(Democratic),378,AD 76,2026-11-04_12:16:53.08099
+ED   13,60.00%,Alina Bonsell,(Republican),143,AD 76,2026-11-04_12:16:53.08099
+ED   13,60.00%,Alina Bonsell,(Block Mamdani),2,AD 76,2026-11-04_12:16:53.08099
+ED   13,60.00%,WRITE-IN,&nbsp,0,AD 76,2026-11-04_12:16:53.08099
+ED   14,99.00%,Liz Krueger,(Democratic),585,AD 76,2026-11-04_12:16:53.08099
+ED   14,99.00%,Alina Bonsell,(Republican),207,AD 76,2026-11-04_12:16:53.08099
+ED   14,99.00%,Alina Bonsell,(Block Mamdani),8,AD 76,2026-11-04_12:16:53.08099
+ED   14,99.00%,WRITE-IN,&nbsp,1,AD 76,2026-11-04_12:16:53.08099
+ED   15,60.00%,Liz Krueger,(Democratic),385,AD 76,2026-11-04_12:16:53.08099
+ED   15,60.00%,Alina Bonsell,(Republican),119,AD 76,2026-11-04_12:16:53.08099
+ED   15,60.00%,Alina Bonsell,(Block Mamdani),5,AD 76,2026-11-04_12:16:53.08099
+ED   15,60.00%,WRITE-IN,&nbsp,0,AD 76,2026-11-04_12:16:53.08099
+ED   16,99.00%,Liz Krueger,(Democratic),410,AD 76,2026-11-04_12:16:53.08099
+ED   16,99.00%,Alina Bonsell,(Republican),103,AD 76,2026-11-04_12:16:53.08099
+ED   16,99.00%,Alina Bonsell,(Block Mamdani),10,AD 76,2026-11-04_12:16:53.08099
+ED   16,99.00%,WRITE-IN,&nbsp,0,AD 76,2026-11-04_12:16:53.08099
+ED   17,99.00%,Liz Krueger,(Democratic),507,AD 76,2026-11-04_12:16:53.08099
+ED   17,99.00%,Alina Bonsell,(Republican),155,AD 76,2026-11-04_12:16:53.08099
+ED   17,99.00%,Alina Bonsell,(Block Mamdani),10,AD 76,2026-11-04_12:16:53.08099
+ED   17,99.00%,WRITE-IN,&nbsp,0,AD 76,2026-11-04_12:16:53.08099
+ED   18,99.00%,Liz Krueger,(Democratic),436,AD 76,2026-11-04_12:16:53.08099
+ED   18,99.00%,Alina Bonsell,(Republican),213,AD 76,2026-11-04_12:16:53.08099
+ED   18,99.00%,Alina Bonsell,(Block Mamdani),11,AD 76,2026-11-04_12:16:53.08099
+ED   18,99.00%,WRITE-IN,&nbsp,0,AD 76,2026-11-04_12:16:53.08099
+ED   19,99.00%,Liz Krueger,(Democratic),675,AD 76,2026-11-04_12:16:53.08099
+ED   19,99.00%,Alina Bonsell,(Republican),317,AD 76,2026-11-04_12:16:53.08099
+ED   19,99.00%,Alina Bonsell,(Block Mamdani),22,AD 76,2026-11-04_12:16:53.08099
+ED   19,99.00%,WRITE-IN,&nbsp,1,AD 76,2026-11-04_12:16:53.08099
+ED   20,99.00%,Liz Krueger,(Democratic),604,AD 76,2026-11-04_12:16:53.08099
+ED   20,99.00%,Alina Bonsell,(Republican),234,AD 76,2026-11-04_12:16:53.08099
+ED   20,99.00%,Alina Bonsell,(Block Mamdani),6,AD 76,2026-11-04_12:16:53.08099
+ED   20,99.00%,WRITE-IN,&nbsp,0,AD 76,2026-11-04_12:16:53.08099
+ED   21,99.00%,Liz Krueger,(Democratic),617,AD 76,2026-11-04_12:16:53.08099
+ED   21,99.00%,Alina Bonsell,(Republican),223,AD 76,2026-11-04_12:16:53.08099
+ED   21,99.00%,Alina Bonsell,(Block Mamdani),5,AD 76,2026-11-04_12:16:53.08099
+ED   21,99.00%,WRITE-IN,&nbsp,1,AD 76,2026-11-04_12:16:53.08099
+ED   22,99.00%,Liz Krueger,(Democratic),564,AD 76,2026-11-04_12:16:53.08099
+ED   22,99.00%,Alina Bonsell,(Republican),203,AD 76,2026-11-04_12:16:53.08099
+ED   22,99.00%,Alina Bonsell,(Block Mamdani),7,AD 76,2026-11-04_12:16:53.08099
+ED   22,99.00%,WRITE-IN,&nbsp,0,AD 76,2026-11-04_12:16:53.08099
+ED   23,99.00%,Liz Krueger,(Democratic),492,AD 76,2026-11-04_12:16:53.08099
+ED   23,99.00%,Alina Bonsell,(Republican),177,AD 76,2026-11-04_12:16:53.08099
+ED   23,99.00%,Alina Bonsell,(Block Mamdani),14,AD 76,2026-11-04_12:16:53.08099
+ED   23,99.00%,WRITE-IN,&nbsp,0,AD 76,2026-11-04_12:16:53.08099
+ED   24,99.00%,Liz Krueger,(Democratic),752,AD 76,2026-11-04_12:16:53.08099
+ED   24,99.00%,Alina Bonsell,(Republican),220,AD 76,2026-11-04_12:16:53.08099
+ED   24,99.00%,Alina Bonsell,(Block Mamdani),8,AD 76,2026-11-04_12:16:53.08099
+ED   24,99.00%,WRITE-IN,&nbsp,0,AD 76,2026-11-04_12:16:53.08099
+ED   25,99.00%,Liz Krueger,(Democratic),531,AD 76,2026-11-04_12:16:53.08099
+ED   25,99.00%,Alina Bonsell,(Republican),147,AD 76,2026-11-04_12:16:53.08099
+ED   25,99.00%,Alina Bonsell,(Block Mamdani),4,AD 76,2026-11-04_12:16:53.08099
+ED   25,99.00%,WRITE-IN,&nbsp,0,AD 76,2026-11-04_12:16:53.08099
+ED   26,27.78%,Liz Krueger,(Democratic),318,AD 76,2026-11-04_12:16:53.08099
+ED   26,27.78%,Alina Bonsell,(Republican),174,AD 76,2026-11-04_12:16:53.08099
+ED   26,27.78%,Alina Bonsell,(Block Mamdani),3,AD 76,2026-11-04_12:16:53.08099
+ED   26,27.78%,WRITE-IN,&nbsp,0,AD 76,2026-11-04_12:16:53.08099
+ED   27,27.78%,Liz Krueger,(Democratic),358,AD 76,2026-11-04_12:16:53.08099
+ED   27,27.78%,Alina Bonsell,(Republican),142,AD 76,2026-11-04_12:16:53.08099
+ED   27,27.78%,Alina Bonsell,(Block Mamdani),5,AD 76,2026-11-04_12:16:53.08099
+ED   27,27.78%,WRITE-IN,&nbsp,2,AD 76,2026-11-04_12:16:53.08099
+ED   28,99.00%,Liz Krueger,(Democratic),717,AD 76,2026-11-04_12:16:53.08099
+ED   28,99.00%,Alina Bonsell,(Republican),145,AD 76,2026-11-04_12:16:53.08099
+ED   28,99.00%,Alina Bonsell,(Block Mamdani),5,AD 76,2026-11-04_12:16:53.08099
+ED   28,99.00%,WRITE-IN,&nbsp,1,AD 76,2026-11-04_12:16:53.08099
+ED   29,27.78%,Liz Krueger,(Democratic),296,AD 76,2026-11-04_12:16:53.08099
+ED   29,27.78%,Alina Bonsell,(Republican),92,AD 76,2026-11-04_12:16:53.08099
+ED   29,27.78%,Alina Bonsell,(Block Mamdani),2,AD 76,2026-11-04_12:16:53.08099
+ED   29,27.78%,WRITE-IN,&nbsp,1,AD 76,2026-11-04_12:16:53.08099
+ED   30,99.00%,Liz Krueger,(Democratic),634,AD 76,2026-11-04_12:16:53.08099
+ED   30,99.00%,Alina Bonsell,(Republican),250,AD 76,2026-11-04_12:16:53.08099
+ED   30,99.00%,Alina Bonsell,(Block Mamdani),13,AD 76,2026-11-04_12:16:53.08099
+ED   30,99.00%,WRITE-IN,&nbsp,1,AD 76,2026-11-04_12:16:53.08099
+ED   31,27.78%,Liz Krueger,(Democratic),437,AD 76,2026-11-04_12:16:53.08099
+ED   31,27.78%,Alina Bonsell,(Republican),160,AD 76,2026-11-04_12:16:53.08099
+ED   31,27.78%,Alina Bonsell,(Block Mamdani),5,AD 76,2026-11-04_12:16:53.08099
+ED   31,27.78%,WRITE-IN,&nbsp,2,AD 76,2026-11-04_12:16:53.08099
+ED   32,27.78%,Liz Krueger,(Democratic),431,AD 76,2026-11-04_12:16:53.08099
+ED   32,27.78%,Alina Bonsell,(Republican),175,AD 76,2026-11-04_12:16:53.08099
+ED   32,27.78%,Alina Bonsell,(Block Mamdani),9,AD 76,2026-11-04_12:16:53.08099
+ED   32,27.78%,WRITE-IN,&nbsp,2,AD 76,2026-11-04_12:16:53.08099
+ED   33,99.00%,Liz Krueger,(Democratic),513,AD 76,2026-11-04_12:16:53.08099
+ED   33,99.00%,Alina Bonsell,(Republican),126,AD 76,2026-11-04_12:16:53.08099
+ED   33,99.00%,Alina Bonsell,(Block Mamdani),4,AD 76,2026-11-04_12:16:53.08099
+ED   33,99.00%,WRITE-IN,&nbsp,2,AD 76,2026-11-04_12:16:53.08099
+ED   34,99.00%,Liz Krueger,(Democratic),712,AD 76,2026-11-04_12:16:53.08099
+ED   34,99.00%,Alina Bonsell,(Republican),259,AD 76,2026-11-04_12:16:53.08099
+ED   34,99.00%,Alina Bonsell,(Block Mamdani),3,AD 76,2026-11-04_12:16:53.08099
+ED   34,99.00%,WRITE-IN,&nbsp,0,AD 76,2026-11-04_12:16:53.08099
+ED   35,99.00%,Liz Krueger,(Democratic),702,AD 76,2026-11-04_12:16:53.08099
+ED   35,99.00%,Alina Bonsell,(Republican),177,AD 76,2026-11-04_12:16:53.08099
+ED   35,99.00%,Alina Bonsell,(Block Mamdani),11,AD 76,2026-11-04_12:16:53.08099
+ED   35,99.00%,WRITE-IN,&nbsp,0,AD 76,2026-11-04_12:16:53.08099
+ED   36,99.00%,Liz Krueger,(Democratic),470,AD 76,2026-11-04_12:16:53.08099
+ED   36,99.00%,Alina Bonsell,(Republican),140,AD 76,2026-11-04_12:16:53.08099
+ED   36,99.00%,Alina Bonsell,(Block Mamdani),5,AD 76,2026-11-04_12:16:53.08099
+ED   36,99.00%,WRITE-IN,&nbsp,0,AD 76,2026-11-04_12:16:53.08099
+ED   37,99.00%,Liz Krueger,(Democratic),797,AD 76,2026-11-04_12:16:53.08099
+ED   37,99.00%,Alina Bonsell,(Republican),187,AD 76,2026-11-04_12:16:53.08099
+ED   37,99.00%,Alina Bonsell,(Block Mamdani),17,AD 76,2026-11-04_12:16:53.08099
+ED   37,99.00%,WRITE-IN,&nbsp,0,AD 76,2026-11-04_12:16:53.08099
+ED   38,99.00%,Liz Krueger,(Democratic),491,AD 76,2026-11-04_12:16:53.08099
+ED   38,99.00%,Alina Bonsell,(Republican),77,AD 76,2026-11-04_12:16:53.08099
+ED   38,99.00%,Alina Bonsell,(Block Mamdani),8,AD 76,2026-11-04_12:16:53.08099
+ED   38,99.00%,WRITE-IN,&nbsp,0,AD 76,2026-11-04_12:16:53.08099
+ED   39,99.00%,Liz Krueger,(Democratic),673,AD 76,2026-11-04_12:16:53.08099
+ED   39,99.00%,Alina Bonsell,(Republican),219,AD 76,2026-11-04_12:16:53.08099
+ED   39,99.00%,Alina Bonsell,(Block Mamdani),14,AD 76,2026-11-04_12:16:53.08099
+ED   39,99.00%,WRITE-IN,&nbsp,1,AD 76,2026-11-04_12:16:53.08099
+ED   40,99.00%,Liz Krueger,(Democratic),637,AD 76,2026-11-04_12:16:53.08099
+ED   40,99.00%,Alina Bonsell,(Republican),246,AD 76,2026-11-04_12:16:53.08099
+ED   40,99.00%,Alina Bonsell,(Block Mamdani),9,AD 76,2026-11-04_12:16:53.08099
+ED   40,99.00%,WRITE-IN,&nbsp,1,AD 76,2026-11-04_12:16:53.08099
+ED   41,99.00%,Liz Krueger,(Democratic),630,AD 76,2026-11-04_12:16:53.08099
+ED   41,99.00%,Alina Bonsell,(Republican),243,AD 76,2026-11-04_12:16:53.08099
+ED   41,99.00%,Alina Bonsell,(Block Mamdani),11,AD 76,2026-11-04_12:16:53.08099
+ED   41,99.00%,WRITE-IN,&nbsp,0,AD 76,2026-11-04_12:16:53.08099
+ED   42,99.00%,Liz Krueger,(Democratic),743,AD 76,2026-11-04_12:16:53.08099
+ED   42,99.00%,Alina Bonsell,(Republican),215,AD 76,2026-11-04_12:16:53.08099
+ED   42,99.00%,Alina Bonsell,(Block Mamdani),9,AD 76,2026-11-04_12:16:53.08099
+ED   42,99.00%,WRITE-IN,&nbsp,1,AD 76,2026-11-04_12:16:53.08099
+ED   43,99.00%,Liz Krueger,(Democratic),713,AD 76,2026-11-04_12:16:53.08099
+ED   43,99.00%,Alina Bonsell,(Republican),259,AD 76,2026-11-04_12:16:53.08099
+ED   43,99.00%,Alina Bonsell,(Block Mamdani),12,AD 76,2026-11-04_12:16:53.08099
+ED   43,99.00%,WRITE-IN,&nbsp,0,AD 76,2026-11-04_12:16:53.08099
+ED   44,99.00%,Liz Krueger,(Democratic),719,AD 76,2026-11-04_12:16:53.08099
+ED   44,99.00%,Alina Bonsell,(Republican),241,AD 76,2026-11-04_12:16:53.08099
+ED   44,99.00%,Alina Bonsell,(Block Mamdani),9,AD 76,2026-11-04_12:16:53.08099
+ED   44,99.00%,WRITE-IN,&nbsp,3,AD 76,2026-11-04_12:16:53.08099
+ED   47,99.00%,Liz Krueger,(Democratic),540,AD 76,2026-11-04_12:16:53.08099
+ED   47,99.00%,Alina Bonsell,(Republican),103,AD 76,2026-11-04_12:16:53.08099
+ED   47,99.00%,Alina Bonsell,(Block Mamdani),10,AD 76,2026-11-04_12:16:53.08099
+ED   47,99.00%,WRITE-IN,&nbsp,0,AD 76,2026-11-04_12:16:53.08099
+ED   48,99.00%,Liz Krueger,(Democratic),553,AD 76,2026-11-04_12:16:53.08099
+ED   48,99.00%,Alina Bonsell,(Republican),253,AD 76,2026-11-04_12:16:53.08099
+ED   48,99.00%,Alina Bonsell,(Block Mamdani),7,AD 76,2026-11-04_12:16:53.08099
+ED   48,99.00%,WRITE-IN,&nbsp,0,AD 76,2026-11-04_12:16:53.08099
+ED   49,99.00%,Liz Krueger,(Democratic),607,AD 76,2026-11-04_12:16:53.08099
+ED   49,99.00%,Alina Bonsell,(Republican),197,AD 76,2026-11-04_12:16:53.08099
+ED   49,99.00%,Alina Bonsell,(Block Mamdani),8,AD 76,2026-11-04_12:16:53.08099
+ED   49,99.00%,WRITE-IN,&nbsp,1,AD 76,2026-11-04_12:16:53.08099
+ED   50,99.00%,Liz Krueger,(Democratic),737,AD 76,2026-11-04_12:16:53.08099
+ED   50,99.00%,Alina Bonsell,(Republican),203,AD 76,2026-11-04_12:16:53.08099
+ED   50,99.00%,Alina Bonsell,(Block Mamdani),15,AD 76,2026-11-04_12:16:53.08099
+ED   50,99.00%,WRITE-IN,&nbsp,0,AD 76,2026-11-04_12:16:53.08099
+ED   51,99.00%,Liz Krueger,(Democratic),535,AD 76,2026-11-04_12:16:53.08099
+ED   51,99.00%,Alina Bonsell,(Republican),220,AD 76,2026-11-04_12:16:53.08099
+ED   51,99.00%,Alina Bonsell,(Block Mamdani),8,AD 76,2026-11-04_12:16:53.08099
+ED   51,99.00%,WRITE-IN,&nbsp,2,AD 76,2026-11-04_12:16:53.08099
+ED   52,99.00%,Liz Krueger,(Democratic),697,AD 76,2026-11-04_12:16:53.08099
+ED   52,99.00%,Alina Bonsell,(Republican),206,AD 76,2026-11-04_12:16:53.08099
+ED   52,99.00%,Alina Bonsell,(Block Mamdani),16,AD 76,2026-11-04_12:16:53.08099
+ED   52,99.00%,WRITE-IN,&nbsp,2,AD 76,2026-11-04_12:16:53.08099
+ED   53,99.00%,Liz Krueger,(Democratic),700,AD 76,2026-11-04_12:16:53.08099
+ED   53,99.00%,Alina Bonsell,(Republican),169,AD 76,2026-11-04_12:16:53.08099
+ED   53,99.00%,Alina Bonsell,(Block Mamdani),7,AD 76,2026-11-04_12:16:53.08099
+ED   53,99.00%,WRITE-IN,&nbsp,0,AD 76,2026-11-04_12:16:53.08099
+ED   54,99.00%,Liz Krueger,(Democratic),705,AD 76,2026-11-04_12:16:53.08099
+ED   54,99.00%,Alina Bonsell,(Republican),222,AD 76,2026-11-04_12:16:53.08099
+ED   54,99.00%,Alina Bonsell,(Block Mamdani),13,AD 76,2026-11-04_12:16:53.08099
+ED   54,99.00%,WRITE-IN,&nbsp,0,AD 76,2026-11-04_12:16:53.08099
+ED   59,99.00%,Liz Krueger,(Democratic),541,AD 76,2026-11-04_12:16:53.08099
+ED   59,99.00%,Alina Bonsell,(Republican),80,AD 76,2026-11-04_12:16:53.08099
+ED   59,99.00%,Alina Bonsell,(Block Mamdani),4,AD 76,2026-11-04_12:16:53.08099
+ED   59,99.00%,WRITE-IN,&nbsp,1,AD 76,2026-11-04_12:16:53.08099
+ED   60,99.00%,Liz Krueger,(Democratic),545,AD 76,2026-11-04_12:16:53.08099
+ED   60,99.00%,Alina Bonsell,(Republican),72,AD 76,2026-11-04_12:16:53.08099
+ED   60,99.00%,Alina Bonsell,(Block Mamdani),12,AD 76,2026-11-04_12:16:53.08099
+ED   60,99.00%,WRITE-IN,&nbsp,0,AD 76,2026-11-04_12:16:53.08099
+ED   61,99.00%,Liz Krueger,(Democratic),449,AD 76,2026-11-04_12:16:53.08099
+ED   61,99.00%,Alina Bonsell,(Republican),75,AD 76,2026-11-04_12:16:53.08099
+ED   61,99.00%,Alina Bonsell,(Block Mamdani),8,AD 76,2026-11-04_12:16:53.08099
+ED   61,99.00%,WRITE-IN,&nbsp,0,AD 76,2026-11-04_12:16:53.08099
+ED   62,99.00%,Liz Krueger,(Democratic),679,AD 76,2026-11-04_12:16:53.08099
+ED   62,99.00%,Alina Bonsell,(Republican),117,AD 76,2026-11-04_12:16:53.08099
+ED   62,99.00%,Alina Bonsell,(Block Mamdani),14,AD 76,2026-11-04_12:16:53.08099
+ED   62,99.00%,WRITE-IN,&nbsp,3,AD 76,2026-11-04_12:16:53.08099
+ED   66,60.00%,Liz Krueger,(Democratic),0,AD 76,2026-11-04_12:16:53.08099
+ED   66,60.00%,Alina Bonsell,(Republican),0,AD 76,2026-11-04_12:16:53.08099
+ED   66,60.00%,Alina Bonsell,(Block Mamdani),0,AD 76,2026-11-04_12:16:53.08099
+ED   66,60.00%,WRITE-IN,&nbsp,0,AD 76,2026-11-04_12:16:53.08099
+ED   67,99.00%,Liz Krueger,(Democratic),0,AD 76,2026-11-04_12:16:53.08099
+ED   67,99.00%,Alina Bonsell,(Republican),0,AD 76,2026-11-04_12:16:53.08099
+ED   67,99.00%,Alina Bonsell,(Block Mamdani),0,AD 76,2026-11-04_12:16:53.08099
+ED   67,99.00%,WRITE-IN,&nbsp,0,AD 76,2026-11-04_12:16:53.08099
+ED   68,60.00%,Liz Krueger,(Democratic),0,AD 76,2026-11-04_12:16:53.08099
+ED   68,60.00%,Alina Bonsell,(Republican),0,AD 76,2026-11-04_12:16:53.08099
+ED   68,60.00%,Alina Bonsell,(Block Mamdani),0,AD 76,2026-11-04_12:16:53.08099
+ED   68,60.00%,WRITE-IN,&nbsp,0,AD 76,2026-11-04_12:16:53.08099
+Total,,Liz Krueger,(Democratic),29839,AD 76,2026-11-04_12:16:53.08099
+Total,,Alina Bonsell,(Republican),9883,AD 76,2026-11-04_12:16:53.08099
+Total,,Alina Bonsell,(Block Mamdani),465,AD 76,2026-11-04_12:16:53.08099
+Total,,WRITE-IN,&nbsp,32,AD 76,2026-11-04_12:16:53.08099

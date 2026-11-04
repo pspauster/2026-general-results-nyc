@@ -1,0 +1,499 @@
+ED_num,reported,candidate,party,votes,AD_num,scrape_time
+ED    1,99.00%,James Sanders Jr.,(Democratic),257,AD 23,2026-11-04_12:16:26.320401
+ED    1,99.00%,James Sanders Jr.,(Working Families),81,AD 23,2026-11-04_12:16:26.320401
+ED    1,99.00%,WRITE-IN,&nbsp,37,AD 23,2026-11-04_12:16:26.320401
+ED    2,99.00%,James Sanders Jr.,(Democratic),253,AD 23,2026-11-04_12:16:26.320401
+ED    2,99.00%,James Sanders Jr.,(Working Families),95,AD 23,2026-11-04_12:16:26.320401
+ED    2,99.00%,WRITE-IN,&nbsp,26,AD 23,2026-11-04_12:16:26.320401
+ED    3,99.00%,James Sanders Jr.,(Democratic),94,AD 23,2026-11-04_12:16:26.320401
+ED    3,99.00%,James Sanders Jr.,(Working Families),34,AD 23,2026-11-04_12:16:26.320401
+ED    3,99.00%,WRITE-IN,&nbsp,11,AD 23,2026-11-04_12:16:26.320401
+ED    4,99.00%,James Sanders Jr.,(Democratic),310,AD 23,2026-11-04_12:16:26.320401
+ED    4,99.00%,James Sanders Jr.,(Working Families),57,AD 23,2026-11-04_12:16:26.320401
+ED    4,99.00%,WRITE-IN,&nbsp,27,AD 23,2026-11-04_12:16:26.320401
+ED    5,99.00%,James Sanders Jr.,(Democratic),298,AD 23,2026-11-04_12:16:26.320401
+ED    5,99.00%,James Sanders Jr.,(Working Families),77,AD 23,2026-11-04_12:16:26.320401
+ED    5,99.00%,WRITE-IN,&nbsp,38,AD 23,2026-11-04_12:16:26.320401
+ED    6,99.00%,James Sanders Jr.,(Democratic),353,AD 23,2026-11-04_12:16:26.320401
+ED    6,99.00%,James Sanders Jr.,(Working Families),99,AD 23,2026-11-04_12:16:26.320401
+ED    6,99.00%,WRITE-IN,&nbsp,25,AD 23,2026-11-04_12:16:26.320401
+ED    7,99.00%,James Sanders Jr.,(Democratic),350,AD 23,2026-11-04_12:16:26.320401
+ED    7,99.00%,James Sanders Jr.,(Working Families),77,AD 23,2026-11-04_12:16:26.320401
+ED    7,99.00%,WRITE-IN,&nbsp,20,AD 23,2026-11-04_12:16:26.320401
+ED    8,99.00%,James Sanders Jr.,(Democratic),293,AD 23,2026-11-04_12:16:26.320401
+ED    8,99.00%,James Sanders Jr.,(Working Families),95,AD 23,2026-11-04_12:16:26.320401
+ED    8,99.00%,WRITE-IN,&nbsp,27,AD 23,2026-11-04_12:16:26.320401
+ED    9,99.00%,James Sanders Jr.,(Democratic),257,AD 23,2026-11-04_12:16:26.320401
+ED    9,99.00%,James Sanders Jr.,(Working Families),60,AD 23,2026-11-04_12:16:26.320401
+ED    9,99.00%,WRITE-IN,&nbsp,5,AD 23,2026-11-04_12:16:26.320401
+ED   10,99.00%,James Sanders Jr.,(Democratic),369,AD 23,2026-11-04_12:16:26.320401
+ED   10,99.00%,James Sanders Jr.,(Working Families),77,AD 23,2026-11-04_12:16:26.320401
+ED   10,99.00%,WRITE-IN,&nbsp,22,AD 23,2026-11-04_12:16:26.320401
+ED   11,99.00%,James Sanders Jr.,(Democratic),433,AD 23,2026-11-04_12:16:26.320401
+ED   11,99.00%,James Sanders Jr.,(Working Families),67,AD 23,2026-11-04_12:16:26.320401
+ED   11,99.00%,WRITE-IN,&nbsp,5,AD 23,2026-11-04_12:16:26.320401
+ED   12,99.00%,James Sanders Jr.,(Democratic),137,AD 23,2026-11-04_12:16:26.320401
+ED   12,99.00%,James Sanders Jr.,(Working Families),33,AD 23,2026-11-04_12:16:26.320401
+ED   12,99.00%,WRITE-IN,&nbsp,6,AD 23,2026-11-04_12:16:26.320401
+ED   13,99.00%,James Sanders Jr.,(Democratic),352,AD 23,2026-11-04_12:16:26.320401
+ED   13,99.00%,James Sanders Jr.,(Working Families),91,AD 23,2026-11-04_12:16:26.320401
+ED   13,99.00%,WRITE-IN,&nbsp,13,AD 23,2026-11-04_12:16:26.320401
+ED   14,99.00%,James Sanders Jr.,(Democratic),267,AD 23,2026-11-04_12:16:26.320401
+ED   14,99.00%,James Sanders Jr.,(Working Families),46,AD 23,2026-11-04_12:16:26.320401
+ED   14,99.00%,WRITE-IN,&nbsp,12,AD 23,2026-11-04_12:16:26.320401
+ED   15,99.00%,James Sanders Jr.,(Democratic),357,AD 23,2026-11-04_12:16:26.320401
+ED   15,99.00%,James Sanders Jr.,(Working Families),48,AD 23,2026-11-04_12:16:26.320401
+ED   15,99.00%,WRITE-IN,&nbsp,8,AD 23,2026-11-04_12:16:26.320401
+ED   16,99.00%,James Sanders Jr.,(Democratic),211,AD 23,2026-11-04_12:16:26.320401
+ED   16,99.00%,James Sanders Jr.,(Working Families),34,AD 23,2026-11-04_12:16:26.320401
+ED   16,99.00%,WRITE-IN,&nbsp,4,AD 23,2026-11-04_12:16:26.320401
+ED   17,99.00%,James Sanders Jr.,(Democratic),163,AD 23,2026-11-04_12:16:26.320401
+ED   17,99.00%,James Sanders Jr.,(Working Families),62,AD 23,2026-11-04_12:16:26.320401
+ED   17,99.00%,WRITE-IN,&nbsp,17,AD 23,2026-11-04_12:16:26.320401
+ED   18,99.00%,James Sanders Jr.,(Democratic),440,AD 23,2026-11-04_12:16:26.320401
+ED   18,99.00%,James Sanders Jr.,(Working Families),69,AD 23,2026-11-04_12:16:26.320401
+ED   18,99.00%,WRITE-IN,&nbsp,7,AD 23,2026-11-04_12:16:26.320401
+ED   19,99.00%,James Sanders Jr.,(Democratic),100,AD 23,2026-11-04_12:16:26.320401
+ED   19,99.00%,James Sanders Jr.,(Working Families),11,AD 23,2026-11-04_12:16:26.320401
+ED   19,99.00%,WRITE-IN,&nbsp,1,AD 23,2026-11-04_12:16:26.320401
+ED   20,99.00%,James Sanders Jr.,(Democratic),224,AD 23,2026-11-04_12:16:26.320401
+ED   20,99.00%,James Sanders Jr.,(Working Families),17,AD 23,2026-11-04_12:16:26.320401
+ED   20,99.00%,WRITE-IN,&nbsp,0,AD 23,2026-11-04_12:16:26.320401
+ED   21,85.71%,James Sanders Jr.,(Democratic),267,AD 23,2026-11-04_12:16:26.320401
+ED   21,85.71%,James Sanders Jr.,(Working Families),19,AD 23,2026-11-04_12:16:26.320401
+ED   21,85.71%,WRITE-IN,&nbsp,10,AD 23,2026-11-04_12:16:26.320401
+ED   22,99.00%,James Sanders Jr.,(Democratic),203,AD 23,2026-11-04_12:16:26.320401
+ED   22,99.00%,James Sanders Jr.,(Working Families),8,AD 23,2026-11-04_12:16:26.320401
+ED   22,99.00%,WRITE-IN,&nbsp,0,AD 23,2026-11-04_12:16:26.320401
+ED   23,99.00%,James Sanders Jr.,(Democratic),178,AD 23,2026-11-04_12:16:26.320401
+ED   23,99.00%,James Sanders Jr.,(Working Families),8,AD 23,2026-11-04_12:16:26.320401
+ED   23,99.00%,WRITE-IN,&nbsp,0,AD 23,2026-11-04_12:16:26.320401
+ED   24,99.00%,James Sanders Jr.,(Democratic),257,AD 23,2026-11-04_12:16:26.320401
+ED   24,99.00%,James Sanders Jr.,(Working Families),12,AD 23,2026-11-04_12:16:26.320401
+ED   24,99.00%,WRITE-IN,&nbsp,0,AD 23,2026-11-04_12:16:26.320401
+ED   25,99.00%,James Sanders Jr.,(Democratic),412,AD 23,2026-11-04_12:16:26.320401
+ED   25,99.00%,James Sanders Jr.,(Working Families),30,AD 23,2026-11-04_12:16:26.320401
+ED   25,99.00%,WRITE-IN,&nbsp,11,AD 23,2026-11-04_12:16:26.320401
+ED   26,99.00%,James Sanders Jr.,(Democratic),207,AD 23,2026-11-04_12:16:26.320401
+ED   26,99.00%,James Sanders Jr.,(Working Families),8,AD 23,2026-11-04_12:16:26.320401
+ED   26,99.00%,WRITE-IN,&nbsp,7,AD 23,2026-11-04_12:16:26.320401
+ED   27,99.00%,James Sanders Jr.,(Democratic),311,AD 23,2026-11-04_12:16:26.320401
+ED   27,99.00%,James Sanders Jr.,(Working Families),36,AD 23,2026-11-04_12:16:26.320401
+ED   27,99.00%,WRITE-IN,&nbsp,27,AD 23,2026-11-04_12:16:26.320401
+ED   28,83.33%,James Sanders Jr.,(Democratic),290,AD 23,2026-11-04_12:16:26.320401
+ED   28,83.33%,James Sanders Jr.,(Working Families),19,AD 23,2026-11-04_12:16:26.320401
+ED   28,83.33%,WRITE-IN,&nbsp,7,AD 23,2026-11-04_12:16:26.320401
+ED   29,99.00%,James Sanders Jr.,(Democratic),251,AD 23,2026-11-04_12:16:26.320401
+ED   29,99.00%,James Sanders Jr.,(Working Families),30,AD 23,2026-11-04_12:16:26.320401
+ED   29,99.00%,WRITE-IN,&nbsp,24,AD 23,2026-11-04_12:16:26.320401
+ED   30,83.33%,James Sanders Jr.,(Democratic),272,AD 23,2026-11-04_12:16:26.320401
+ED   30,83.33%,James Sanders Jr.,(Working Families),37,AD 23,2026-11-04_12:16:26.320401
+ED   30,83.33%,WRITE-IN,&nbsp,20,AD 23,2026-11-04_12:16:26.320401
+ED   31,99.00%,James Sanders Jr.,(Democratic),483,AD 23,2026-11-04_12:16:26.320401
+ED   31,99.00%,James Sanders Jr.,(Working Families),54,AD 23,2026-11-04_12:16:26.320401
+ED   31,99.00%,WRITE-IN,&nbsp,18,AD 23,2026-11-04_12:16:26.320401
+ED   32,99.00%,James Sanders Jr.,(Democratic),451,AD 23,2026-11-04_12:16:26.320401
+ED   32,99.00%,James Sanders Jr.,(Working Families),51,AD 23,2026-11-04_12:16:26.320401
+ED   32,99.00%,WRITE-IN,&nbsp,33,AD 23,2026-11-04_12:16:26.320401
+ED   36,99.00%,James Sanders Jr.,(Democratic),207,AD 23,2026-11-04_12:16:26.320401
+ED   36,99.00%,James Sanders Jr.,(Working Families),77,AD 23,2026-11-04_12:16:26.320401
+ED   36,99.00%,WRITE-IN,&nbsp,11,AD 23,2026-11-04_12:16:26.320401
+ED   37,99.00%,James Sanders Jr.,(Democratic),269,AD 23,2026-11-04_12:16:26.320401
+ED   37,99.00%,James Sanders Jr.,(Working Families),75,AD 23,2026-11-04_12:16:26.320401
+ED   37,99.00%,WRITE-IN,&nbsp,13,AD 23,2026-11-04_12:16:26.320401
+ED   38,99.00%,James Sanders Jr.,(Democratic),234,AD 23,2026-11-04_12:16:26.320401
+ED   38,99.00%,James Sanders Jr.,(Working Families),73,AD 23,2026-11-04_12:16:26.320401
+ED   38,99.00%,WRITE-IN,&nbsp,11,AD 23,2026-11-04_12:16:26.320401
+ED   39,99.00%,James Sanders Jr.,(Democratic),29,AD 23,2026-11-04_12:16:26.320401
+ED   39,99.00%,James Sanders Jr.,(Working Families),2,AD 23,2026-11-04_12:16:26.320401
+ED   39,99.00%,WRITE-IN,&nbsp,1,AD 23,2026-11-04_12:16:26.320401
+ED   40,99.00%,James Sanders Jr.,(Democratic),253,AD 23,2026-11-04_12:16:26.320401
+ED   40,99.00%,James Sanders Jr.,(Working Families),20,AD 23,2026-11-04_12:16:26.320401
+ED   40,99.00%,WRITE-IN,&nbsp,3,AD 23,2026-11-04_12:16:26.320401
+ED   41,99.00%,James Sanders Jr.,(Democratic),272,AD 23,2026-11-04_12:16:26.320401
+ED   41,99.00%,James Sanders Jr.,(Working Families),66,AD 23,2026-11-04_12:16:26.320401
+ED   41,99.00%,WRITE-IN,&nbsp,7,AD 23,2026-11-04_12:16:26.320401
+ED   45,99.00%,James Sanders Jr.,(Democratic),275,AD 23,2026-11-04_12:16:26.320401
+ED   45,99.00%,James Sanders Jr.,(Working Families),40,AD 23,2026-11-04_12:16:26.320401
+ED   45,99.00%,WRITE-IN,&nbsp,5,AD 23,2026-11-04_12:16:26.320401
+ED   58,99.00%,James Sanders Jr.,(Democratic),112,AD 23,2026-11-04_12:16:26.320401
+ED   58,99.00%,James Sanders Jr.,(Working Families),50,AD 23,2026-11-04_12:16:26.320401
+ED   58,99.00%,WRITE-IN,&nbsp,9,AD 23,2026-11-04_12:16:26.320401
+ED   59,99.00%,James Sanders Jr.,(Democratic),96,AD 23,2026-11-04_12:16:26.320401
+ED   59,99.00%,James Sanders Jr.,(Working Families),27,AD 23,2026-11-04_12:16:26.320401
+ED   59,99.00%,WRITE-IN,&nbsp,3,AD 23,2026-11-04_12:16:26.320401
+ED   65,99.00%,James Sanders Jr.,(Democratic),371,AD 23,2026-11-04_12:16:26.320401
+ED   65,99.00%,James Sanders Jr.,(Working Families),29,AD 23,2026-11-04_12:16:26.320401
+ED   65,99.00%,WRITE-IN,&nbsp,1,AD 23,2026-11-04_12:16:26.320401
+ED   66,99.00%,James Sanders Jr.,(Democratic),349,AD 23,2026-11-04_12:16:26.320401
+ED   66,99.00%,James Sanders Jr.,(Working Families),16,AD 23,2026-11-04_12:16:26.320401
+ED   66,99.00%,WRITE-IN,&nbsp,7,AD 23,2026-11-04_12:16:26.320401
+ED   69,99.00%,James Sanders Jr.,(Democratic),0,AD 23,2026-11-04_12:16:26.320401
+ED   69,99.00%,James Sanders Jr.,(Working Families),0,AD 23,2026-11-04_12:16:26.320401
+ED   69,99.00%,WRITE-IN,&nbsp,0,AD 23,2026-11-04_12:16:26.320401
+ED   70,60.00%,James Sanders Jr.,(Democratic),0,AD 23,2026-11-04_12:16:26.320401
+ED   70,60.00%,James Sanders Jr.,(Working Families),0,AD 23,2026-11-04_12:16:26.320401
+ED   70,60.00%,WRITE-IN,&nbsp,0,AD 23,2026-11-04_12:16:26.320401
+ED   71,99.00%,James Sanders Jr.,(Democratic),0,AD 23,2026-11-04_12:16:26.320401
+ED   71,99.00%,James Sanders Jr.,(Working Families),0,AD 23,2026-11-04_12:16:26.320401
+ED   71,99.00%,WRITE-IN,&nbsp,0,AD 23,2026-11-04_12:16:26.320401
+ED   72,99.00%,James Sanders Jr.,(Democratic),0,AD 23,2026-11-04_12:16:26.320401
+ED   72,99.00%,James Sanders Jr.,(Working Families),0,AD 23,2026-11-04_12:16:26.320401
+ED   72,99.00%,WRITE-IN,&nbsp,0,AD 23,2026-11-04_12:16:26.320401
+ED   73,99.00%,James Sanders Jr.,(Democratic),0,AD 23,2026-11-04_12:16:26.320401
+ED   73,99.00%,James Sanders Jr.,(Working Families),0,AD 23,2026-11-04_12:16:26.320401
+ED   73,99.00%,WRITE-IN,&nbsp,0,AD 23,2026-11-04_12:16:26.320401
+ED   74,99.00%,James Sanders Jr.,(Democratic),0,AD 23,2026-11-04_12:16:26.320401
+ED   74,99.00%,James Sanders Jr.,(Working Families),0,AD 23,2026-11-04_12:16:26.320401
+ED   74,99.00%,WRITE-IN,&nbsp,0,AD 23,2026-11-04_12:16:26.320401
+ED   75,99.00%,James Sanders Jr.,(Democratic),0,AD 23,2026-11-04_12:16:26.320401
+ED   75,99.00%,James Sanders Jr.,(Working Families),0,AD 23,2026-11-04_12:16:26.320401
+ED   75,99.00%,WRITE-IN,&nbsp,0,AD 23,2026-11-04_12:16:26.320401
+ED   76,99.00%,James Sanders Jr.,(Democratic),0,AD 23,2026-11-04_12:16:26.320401
+ED   76,99.00%,James Sanders Jr.,(Working Families),0,AD 23,2026-11-04_12:16:26.320401
+ED   76,99.00%,WRITE-IN,&nbsp,0,AD 23,2026-11-04_12:16:26.320401
+Total,,James Sanders Jr.,(Democratic),11567,AD 23,2026-11-04_12:16:26.320401
+Total,,James Sanders Jr.,(Working Families),2017,AD 23,2026-11-04_12:16:26.320401
+Total,,WRITE-IN,&nbsp,539,AD 23,2026-11-04_12:16:26.320401
+ED   10,99.00%,James Sanders Jr.,(Democratic),337,AD 24,2026-11-04_12:16:26.320401
+ED   10,99.00%,James Sanders Jr.,(Working Families),29,AD 24,2026-11-04_12:16:26.320401
+ED   10,99.00%,WRITE-IN,&nbsp,2,AD 24,2026-11-04_12:16:26.320401
+Total,,James Sanders Jr.,(Democratic),337,AD 24,2026-11-04_12:16:26.320401
+Total,,James Sanders Jr.,(Working Families),29,AD 24,2026-11-04_12:16:26.320401
+Total,,WRITE-IN,&nbsp,2,AD 24,2026-11-04_12:16:26.320401
+ED    1,90.00%,James Sanders Jr.,(Democratic),644,AD 29,2026-11-04_12:16:26.320401
+ED    1,90.00%,James Sanders Jr.,(Working Families),27,AD 29,2026-11-04_12:16:26.320401
+ED    1,90.00%,WRITE-IN,&nbsp,1,AD 29,2026-11-04_12:16:26.320401
+ED    2,90.00%,James Sanders Jr.,(Democratic),642,AD 29,2026-11-04_12:16:26.320401
+ED    2,90.00%,James Sanders Jr.,(Working Families),24,AD 29,2026-11-04_12:16:26.320401
+ED    2,90.00%,WRITE-IN,&nbsp,0,AD 29,2026-11-04_12:16:26.320401
+ED    3,90.00%,James Sanders Jr.,(Democratic),625,AD 29,2026-11-04_12:16:26.320401
+ED    3,90.00%,James Sanders Jr.,(Working Families),27,AD 29,2026-11-04_12:16:26.320401
+ED    3,90.00%,WRITE-IN,&nbsp,0,AD 29,2026-11-04_12:16:26.320401
+ED    4,99.00%,James Sanders Jr.,(Democratic),614,AD 29,2026-11-04_12:16:26.320401
+ED    4,99.00%,James Sanders Jr.,(Working Families),11,AD 29,2026-11-04_12:16:26.320401
+ED    4,99.00%,WRITE-IN,&nbsp,1,AD 29,2026-11-04_12:16:26.320401
+ED    5,99.00%,James Sanders Jr.,(Democratic),665,AD 29,2026-11-04_12:16:26.320401
+ED    5,99.00%,James Sanders Jr.,(Working Families),25,AD 29,2026-11-04_12:16:26.320401
+ED    5,99.00%,WRITE-IN,&nbsp,1,AD 29,2026-11-04_12:16:26.320401
+ED    6,99.00%,James Sanders Jr.,(Democratic),592,AD 29,2026-11-04_12:16:26.320401
+ED    6,99.00%,James Sanders Jr.,(Working Families),22,AD 29,2026-11-04_12:16:26.320401
+ED    6,99.00%,WRITE-IN,&nbsp,1,AD 29,2026-11-04_12:16:26.320401
+ED   16,85.71%,James Sanders Jr.,(Democratic),97,AD 29,2026-11-04_12:16:26.320401
+ED   16,85.71%,James Sanders Jr.,(Working Families),5,AD 29,2026-11-04_12:16:26.320401
+ED   16,85.71%,WRITE-IN,&nbsp,0,AD 29,2026-11-04_12:16:26.320401
+ED   17,99.00%,James Sanders Jr.,(Democratic),391,AD 29,2026-11-04_12:16:26.320401
+ED   17,99.00%,James Sanders Jr.,(Working Families),12,AD 29,2026-11-04_12:16:26.320401
+ED   17,99.00%,WRITE-IN,&nbsp,0,AD 29,2026-11-04_12:16:26.320401
+ED   33,99.00%,James Sanders Jr.,(Democratic),347,AD 29,2026-11-04_12:16:26.320401
+ED   33,99.00%,James Sanders Jr.,(Working Families),6,AD 29,2026-11-04_12:16:26.320401
+ED   33,99.00%,WRITE-IN,&nbsp,2,AD 29,2026-11-04_12:16:26.320401
+ED   62,99.00%,James Sanders Jr.,(Democratic),0,AD 29,2026-11-04_12:16:26.320401
+ED   62,99.00%,James Sanders Jr.,(Working Families),0,AD 29,2026-11-04_12:16:26.320401
+ED   62,99.00%,WRITE-IN,&nbsp,0,AD 29,2026-11-04_12:16:26.320401
+Total,,James Sanders Jr.,(Democratic),4617,AD 29,2026-11-04_12:16:26.320401
+Total,,James Sanders Jr.,(Working Families),159,AD 29,2026-11-04_12:16:26.320401
+Total,,WRITE-IN,&nbsp,6,AD 29,2026-11-04_12:16:26.320401
+ED    1,85.71%,James Sanders Jr.,(Democratic),450,AD 31,2026-11-04_12:16:26.320401
+ED    1,85.71%,James Sanders Jr.,(Working Families),30,AD 31,2026-11-04_12:16:26.320401
+ED    1,85.71%,WRITE-IN,&nbsp,1,AD 31,2026-11-04_12:16:26.320401
+ED    2,85.71%,James Sanders Jr.,(Democratic),327,AD 31,2026-11-04_12:16:26.320401
+ED    2,85.71%,James Sanders Jr.,(Working Families),15,AD 31,2026-11-04_12:16:26.320401
+ED    2,85.71%,WRITE-IN,&nbsp,1,AD 31,2026-11-04_12:16:26.320401
+ED    3,85.71%,James Sanders Jr.,(Democratic),272,AD 31,2026-11-04_12:16:26.320401
+ED    3,85.71%,James Sanders Jr.,(Working Families),20,AD 31,2026-11-04_12:16:26.320401
+ED    3,85.71%,WRITE-IN,&nbsp,0,AD 31,2026-11-04_12:16:26.320401
+ED    4,99.00%,James Sanders Jr.,(Democratic),375,AD 31,2026-11-04_12:16:26.320401
+ED    4,99.00%,James Sanders Jr.,(Working Families),28,AD 31,2026-11-04_12:16:26.320401
+ED    4,99.00%,WRITE-IN,&nbsp,4,AD 31,2026-11-04_12:16:26.320401
+ED    5,99.00%,James Sanders Jr.,(Democratic),408,AD 31,2026-11-04_12:16:26.320401
+ED    5,99.00%,James Sanders Jr.,(Working Families),11,AD 31,2026-11-04_12:16:26.320401
+ED    5,99.00%,WRITE-IN,&nbsp,1,AD 31,2026-11-04_12:16:26.320401
+ED    6,99.00%,James Sanders Jr.,(Democratic),258,AD 31,2026-11-04_12:16:26.320401
+ED    6,99.00%,James Sanders Jr.,(Working Families),4,AD 31,2026-11-04_12:16:26.320401
+ED    6,99.00%,WRITE-IN,&nbsp,0,AD 31,2026-11-04_12:16:26.320401
+ED    7,83.33%,James Sanders Jr.,(Democratic),212,AD 31,2026-11-04_12:16:26.320401
+ED    7,83.33%,James Sanders Jr.,(Working Families),20,AD 31,2026-11-04_12:16:26.320401
+ED    7,83.33%,WRITE-IN,&nbsp,1,AD 31,2026-11-04_12:16:26.320401
+ED    8,80.00%,James Sanders Jr.,(Democratic),280,AD 31,2026-11-04_12:16:26.320401
+ED    8,80.00%,James Sanders Jr.,(Working Families),16,AD 31,2026-11-04_12:16:26.320401
+ED    8,80.00%,WRITE-IN,&nbsp,2,AD 31,2026-11-04_12:16:26.320401
+ED    9,99.00%,James Sanders Jr.,(Democratic),229,AD 31,2026-11-04_12:16:26.320401
+ED    9,99.00%,James Sanders Jr.,(Working Families),25,AD 31,2026-11-04_12:16:26.320401
+ED    9,99.00%,WRITE-IN,&nbsp,1,AD 31,2026-11-04_12:16:26.320401
+ED   10,99.00%,James Sanders Jr.,(Democratic),245,AD 31,2026-11-04_12:16:26.320401
+ED   10,99.00%,James Sanders Jr.,(Working Families),15,AD 31,2026-11-04_12:16:26.320401
+ED   10,99.00%,WRITE-IN,&nbsp,1,AD 31,2026-11-04_12:16:26.320401
+ED   11,99.00%,James Sanders Jr.,(Democratic),296,AD 31,2026-11-04_12:16:26.320401
+ED   11,99.00%,James Sanders Jr.,(Working Families),21,AD 31,2026-11-04_12:16:26.320401
+ED   11,99.00%,WRITE-IN,&nbsp,1,AD 31,2026-11-04_12:16:26.320401
+ED   12,99.00%,James Sanders Jr.,(Democratic),407,AD 31,2026-11-04_12:16:26.320401
+ED   12,99.00%,James Sanders Jr.,(Working Families),19,AD 31,2026-11-04_12:16:26.320401
+ED   12,99.00%,WRITE-IN,&nbsp,0,AD 31,2026-11-04_12:16:26.320401
+ED   13,99.00%,James Sanders Jr.,(Democratic),173,AD 31,2026-11-04_12:16:26.320401
+ED   13,99.00%,James Sanders Jr.,(Working Families),22,AD 31,2026-11-04_12:16:26.320401
+ED   13,99.00%,WRITE-IN,&nbsp,1,AD 31,2026-11-04_12:16:26.320401
+ED   14,99.00%,James Sanders Jr.,(Democratic),303,AD 31,2026-11-04_12:16:26.320401
+ED   14,99.00%,James Sanders Jr.,(Working Families),22,AD 31,2026-11-04_12:16:26.320401
+ED   14,99.00%,WRITE-IN,&nbsp,2,AD 31,2026-11-04_12:16:26.320401
+ED   15,99.00%,James Sanders Jr.,(Democratic),408,AD 31,2026-11-04_12:16:26.320401
+ED   15,99.00%,James Sanders Jr.,(Working Families),27,AD 31,2026-11-04_12:16:26.320401
+ED   15,99.00%,WRITE-IN,&nbsp,4,AD 31,2026-11-04_12:16:26.320401
+ED   16,60.00%,James Sanders Jr.,(Democratic),194,AD 31,2026-11-04_12:16:26.320401
+ED   16,60.00%,James Sanders Jr.,(Working Families),26,AD 31,2026-11-04_12:16:26.320401
+ED   16,60.00%,WRITE-IN,&nbsp,3,AD 31,2026-11-04_12:16:26.320401
+ED   17,99.00%,James Sanders Jr.,(Democratic),8,AD 31,2026-11-04_12:16:26.320401
+ED   17,99.00%,James Sanders Jr.,(Working Families),0,AD 31,2026-11-04_12:16:26.320401
+ED   17,99.00%,WRITE-IN,&nbsp,0,AD 31,2026-11-04_12:16:26.320401
+ED   18,99.00%,James Sanders Jr.,(Democratic),201,AD 31,2026-11-04_12:16:26.320401
+ED   18,99.00%,James Sanders Jr.,(Working Families),18,AD 31,2026-11-04_12:16:26.320401
+ED   18,99.00%,WRITE-IN,&nbsp,0,AD 31,2026-11-04_12:16:26.320401
+ED   19,99.00%,James Sanders Jr.,(Democratic),11,AD 31,2026-11-04_12:16:26.320401
+ED   19,99.00%,James Sanders Jr.,(Working Families),2,AD 31,2026-11-04_12:16:26.320401
+ED   19,99.00%,WRITE-IN,&nbsp,0,AD 31,2026-11-04_12:16:26.320401
+ED   20,99.00%,James Sanders Jr.,(Democratic),408,AD 31,2026-11-04_12:16:26.320401
+ED   20,99.00%,James Sanders Jr.,(Working Families),38,AD 31,2026-11-04_12:16:26.320401
+ED   20,99.00%,WRITE-IN,&nbsp,4,AD 31,2026-11-04_12:16:26.320401
+ED   21,99.00%,James Sanders Jr.,(Democratic),303,AD 31,2026-11-04_12:16:26.320401
+ED   21,99.00%,James Sanders Jr.,(Working Families),35,AD 31,2026-11-04_12:16:26.320401
+ED   21,99.00%,WRITE-IN,&nbsp,9,AD 31,2026-11-04_12:16:26.320401
+ED   22,87.50%,James Sanders Jr.,(Democratic),436,AD 31,2026-11-04_12:16:26.320401
+ED   22,87.50%,James Sanders Jr.,(Working Families),17,AD 31,2026-11-04_12:16:26.320401
+ED   22,87.50%,WRITE-IN,&nbsp,1,AD 31,2026-11-04_12:16:26.320401
+ED   23,90.00%,James Sanders Jr.,(Democratic),592,AD 31,2026-11-04_12:16:26.320401
+ED   23,90.00%,James Sanders Jr.,(Working Families),19,AD 31,2026-11-04_12:16:26.320401
+ED   23,90.00%,WRITE-IN,&nbsp,2,AD 31,2026-11-04_12:16:26.320401
+ED   24,90.00%,James Sanders Jr.,(Democratic),192,AD 31,2026-11-04_12:16:26.320401
+ED   24,90.00%,James Sanders Jr.,(Working Families),16,AD 31,2026-11-04_12:16:26.320401
+ED   24,90.00%,WRITE-IN,&nbsp,0,AD 31,2026-11-04_12:16:26.320401
+ED   25,99.00%,James Sanders Jr.,(Democratic),522,AD 31,2026-11-04_12:16:26.320401
+ED   25,99.00%,James Sanders Jr.,(Working Families),25,AD 31,2026-11-04_12:16:26.320401
+ED   25,99.00%,WRITE-IN,&nbsp,1,AD 31,2026-11-04_12:16:26.320401
+ED   26,87.50%,James Sanders Jr.,(Democratic),531,AD 31,2026-11-04_12:16:26.320401
+ED   26,87.50%,James Sanders Jr.,(Working Families),25,AD 31,2026-11-04_12:16:26.320401
+ED   26,87.50%,WRITE-IN,&nbsp,1,AD 31,2026-11-04_12:16:26.320401
+ED   27,87.50%,James Sanders Jr.,(Democratic),598,AD 31,2026-11-04_12:16:26.320401
+ED   27,87.50%,James Sanders Jr.,(Working Families),16,AD 31,2026-11-04_12:16:26.320401
+ED   27,87.50%,WRITE-IN,&nbsp,3,AD 31,2026-11-04_12:16:26.320401
+ED   28,87.50%,James Sanders Jr.,(Democratic),513,AD 31,2026-11-04_12:16:26.320401
+ED   28,87.50%,James Sanders Jr.,(Working Families),14,AD 31,2026-11-04_12:16:26.320401
+ED   28,87.50%,WRITE-IN,&nbsp,2,AD 31,2026-11-04_12:16:26.320401
+ED   29,87.50%,James Sanders Jr.,(Democratic),448,AD 31,2026-11-04_12:16:26.320401
+ED   29,87.50%,James Sanders Jr.,(Working Families),21,AD 31,2026-11-04_12:16:26.320401
+ED   29,87.50%,WRITE-IN,&nbsp,0,AD 31,2026-11-04_12:16:26.320401
+ED   30,87.50%,James Sanders Jr.,(Democratic),247,AD 31,2026-11-04_12:16:26.320401
+ED   30,87.50%,James Sanders Jr.,(Working Families),10,AD 31,2026-11-04_12:16:26.320401
+ED   30,87.50%,WRITE-IN,&nbsp,0,AD 31,2026-11-04_12:16:26.320401
+ED   31,99.00%,James Sanders Jr.,(Democratic),338,AD 31,2026-11-04_12:16:26.320401
+ED   31,99.00%,James Sanders Jr.,(Working Families),6,AD 31,2026-11-04_12:16:26.320401
+ED   31,99.00%,WRITE-IN,&nbsp,0,AD 31,2026-11-04_12:16:26.320401
+ED   32,99.00%,James Sanders Jr.,(Democratic),540,AD 31,2026-11-04_12:16:26.320401
+ED   32,99.00%,James Sanders Jr.,(Working Families),28,AD 31,2026-11-04_12:16:26.320401
+ED   32,99.00%,WRITE-IN,&nbsp,0,AD 31,2026-11-04_12:16:26.320401
+ED   33,99.00%,James Sanders Jr.,(Democratic),127,AD 31,2026-11-04_12:16:26.320401
+ED   33,99.00%,James Sanders Jr.,(Working Families),7,AD 31,2026-11-04_12:16:26.320401
+ED   33,99.00%,WRITE-IN,&nbsp,0,AD 31,2026-11-04_12:16:26.320401
+ED   34,99.00%,James Sanders Jr.,(Democratic),496,AD 31,2026-11-04_12:16:26.320401
+ED   34,99.00%,James Sanders Jr.,(Working Families),27,AD 31,2026-11-04_12:16:26.320401
+ED   34,99.00%,WRITE-IN,&nbsp,1,AD 31,2026-11-04_12:16:26.320401
+ED   35,99.00%,James Sanders Jr.,(Democratic),392,AD 31,2026-11-04_12:16:26.320401
+ED   35,99.00%,James Sanders Jr.,(Working Families),16,AD 31,2026-11-04_12:16:26.320401
+ED   35,99.00%,WRITE-IN,&nbsp,0,AD 31,2026-11-04_12:16:26.320401
+ED   36,99.00%,James Sanders Jr.,(Democratic),110,AD 31,2026-11-04_12:16:26.320401
+ED   36,99.00%,James Sanders Jr.,(Working Families),5,AD 31,2026-11-04_12:16:26.320401
+ED   36,99.00%,WRITE-IN,&nbsp,0,AD 31,2026-11-04_12:16:26.320401
+ED   37,99.00%,James Sanders Jr.,(Democratic),445,AD 31,2026-11-04_12:16:26.320401
+ED   37,99.00%,James Sanders Jr.,(Working Families),25,AD 31,2026-11-04_12:16:26.320401
+ED   37,99.00%,WRITE-IN,&nbsp,0,AD 31,2026-11-04_12:16:26.320401
+ED   38,99.00%,James Sanders Jr.,(Democratic),371,AD 31,2026-11-04_12:16:26.320401
+ED   38,99.00%,James Sanders Jr.,(Working Families),34,AD 31,2026-11-04_12:16:26.320401
+ED   38,99.00%,WRITE-IN,&nbsp,2,AD 31,2026-11-04_12:16:26.320401
+ED   39,99.00%,James Sanders Jr.,(Democratic),399,AD 31,2026-11-04_12:16:26.320401
+ED   39,99.00%,James Sanders Jr.,(Working Families),26,AD 31,2026-11-04_12:16:26.320401
+ED   39,99.00%,WRITE-IN,&nbsp,3,AD 31,2026-11-04_12:16:26.320401
+ED   40,99.00%,James Sanders Jr.,(Democratic),310,AD 31,2026-11-04_12:16:26.320401
+ED   40,99.00%,James Sanders Jr.,(Working Families),36,AD 31,2026-11-04_12:16:26.320401
+ED   40,99.00%,WRITE-IN,&nbsp,8,AD 31,2026-11-04_12:16:26.320401
+ED   41,99.00%,James Sanders Jr.,(Democratic),378,AD 31,2026-11-04_12:16:26.320401
+ED   41,99.00%,James Sanders Jr.,(Working Families),33,AD 31,2026-11-04_12:16:26.320401
+ED   41,99.00%,WRITE-IN,&nbsp,5,AD 31,2026-11-04_12:16:26.320401
+ED   42,99.00%,James Sanders Jr.,(Democratic),112,AD 31,2026-11-04_12:16:26.320401
+ED   42,99.00%,James Sanders Jr.,(Working Families),10,AD 31,2026-11-04_12:16:26.320401
+ED   42,99.00%,WRITE-IN,&nbsp,0,AD 31,2026-11-04_12:16:26.320401
+ED   43,99.00%,James Sanders Jr.,(Democratic),283,AD 31,2026-11-04_12:16:26.320401
+ED   43,99.00%,James Sanders Jr.,(Working Families),32,AD 31,2026-11-04_12:16:26.320401
+ED   43,99.00%,WRITE-IN,&nbsp,3,AD 31,2026-11-04_12:16:26.320401
+ED   44,99.00%,James Sanders Jr.,(Democratic),340,AD 31,2026-11-04_12:16:26.320401
+ED   44,99.00%,James Sanders Jr.,(Working Families),28,AD 31,2026-11-04_12:16:26.320401
+ED   44,99.00%,WRITE-IN,&nbsp,1,AD 31,2026-11-04_12:16:26.320401
+ED   45,99.00%,James Sanders Jr.,(Democratic),312,AD 31,2026-11-04_12:16:26.320401
+ED   45,99.00%,James Sanders Jr.,(Working Families),32,AD 31,2026-11-04_12:16:26.320401
+ED   45,99.00%,WRITE-IN,&nbsp,8,AD 31,2026-11-04_12:16:26.320401
+ED   46,99.00%,James Sanders Jr.,(Democratic),393,AD 31,2026-11-04_12:16:26.320401
+ED   46,99.00%,James Sanders Jr.,(Working Families),31,AD 31,2026-11-04_12:16:26.320401
+ED   46,99.00%,WRITE-IN,&nbsp,1,AD 31,2026-11-04_12:16:26.320401
+ED   47,99.00%,James Sanders Jr.,(Democratic),159,AD 31,2026-11-04_12:16:26.320401
+ED   47,99.00%,James Sanders Jr.,(Working Families),8,AD 31,2026-11-04_12:16:26.320401
+ED   47,99.00%,WRITE-IN,&nbsp,1,AD 31,2026-11-04_12:16:26.320401
+ED   49,99.00%,James Sanders Jr.,(Democratic),297,AD 31,2026-11-04_12:16:26.320401
+ED   49,99.00%,James Sanders Jr.,(Working Families),31,AD 31,2026-11-04_12:16:26.320401
+ED   49,99.00%,WRITE-IN,&nbsp,12,AD 31,2026-11-04_12:16:26.320401
+ED   53,99.00%,James Sanders Jr.,(Democratic),227,AD 31,2026-11-04_12:16:26.320401
+ED   53,99.00%,James Sanders Jr.,(Working Families),40,AD 31,2026-11-04_12:16:26.320401
+ED   53,99.00%,WRITE-IN,&nbsp,1,AD 31,2026-11-04_12:16:26.320401
+ED   54,99.00%,James Sanders Jr.,(Democratic),357,AD 31,2026-11-04_12:16:26.320401
+ED   54,99.00%,James Sanders Jr.,(Working Families),16,AD 31,2026-11-04_12:16:26.320401
+ED   54,99.00%,WRITE-IN,&nbsp,2,AD 31,2026-11-04_12:16:26.320401
+ED   55,99.00%,James Sanders Jr.,(Democratic),306,AD 31,2026-11-04_12:16:26.320401
+ED   55,99.00%,James Sanders Jr.,(Working Families),29,AD 31,2026-11-04_12:16:26.320401
+ED   55,99.00%,WRITE-IN,&nbsp,0,AD 31,2026-11-04_12:16:26.320401
+ED   56,99.00%,James Sanders Jr.,(Democratic),328,AD 31,2026-11-04_12:16:26.320401
+ED   56,99.00%,James Sanders Jr.,(Working Families),26,AD 31,2026-11-04_12:16:26.320401
+ED   56,99.00%,WRITE-IN,&nbsp,2,AD 31,2026-11-04_12:16:26.320401
+ED   57,99.00%,James Sanders Jr.,(Democratic),0,AD 31,2026-11-04_12:16:26.320401
+ED   57,99.00%,James Sanders Jr.,(Working Families),0,AD 31,2026-11-04_12:16:26.320401
+ED   57,99.00%,WRITE-IN,&nbsp,0,AD 31,2026-11-04_12:16:26.320401
+ED   58,87.50%,James Sanders Jr.,(Democratic),0,AD 31,2026-11-04_12:16:26.320401
+ED   58,87.50%,James Sanders Jr.,(Working Families),0,AD 31,2026-11-04_12:16:26.320401
+ED   58,87.50%,WRITE-IN,&nbsp,0,AD 31,2026-11-04_12:16:26.320401
+ED   60,99.00%,James Sanders Jr.,(Democratic),0,AD 31,2026-11-04_12:16:26.320401
+ED   60,99.00%,James Sanders Jr.,(Working Families),0,AD 31,2026-11-04_12:16:26.320401
+ED   60,99.00%,WRITE-IN,&nbsp,0,AD 31,2026-11-04_12:16:26.320401
+ED   61,99.00%,James Sanders Jr.,(Democratic),0,AD 31,2026-11-04_12:16:26.320401
+ED   61,99.00%,James Sanders Jr.,(Working Families),0,AD 31,2026-11-04_12:16:26.320401
+ED   61,99.00%,WRITE-IN,&nbsp,0,AD 31,2026-11-04_12:16:26.320401
+ED   62,99.00%,James Sanders Jr.,(Democratic),0,AD 31,2026-11-04_12:16:26.320401
+ED   62,99.00%,James Sanders Jr.,(Working Families),0,AD 31,2026-11-04_12:16:26.320401
+ED   62,99.00%,WRITE-IN,&nbsp,0,AD 31,2026-11-04_12:16:26.320401
+Total,,James Sanders Jr.,(Democratic),16867,AD 31,2026-11-04_12:16:26.320401
+Total,,James Sanders Jr.,(Working Families),1103,AD 31,2026-11-04_12:16:26.320401
+Total,,WRITE-IN,&nbsp,96,AD 31,2026-11-04_12:16:26.320401
+ED    2,99.00%,James Sanders Jr.,(Democratic),57,AD 32,2026-11-04_12:16:26.320401
+ED    2,99.00%,James Sanders Jr.,(Working Families),3,AD 32,2026-11-04_12:16:26.320401
+ED    2,99.00%,WRITE-IN,&nbsp,0,AD 32,2026-11-04_12:16:26.320401
+ED   13,85.71%,James Sanders Jr.,(Democratic),23,AD 32,2026-11-04_12:16:26.320401
+ED   13,85.71%,James Sanders Jr.,(Working Families),0,AD 32,2026-11-04_12:16:26.320401
+ED   13,85.71%,WRITE-IN,&nbsp,0,AD 32,2026-11-04_12:16:26.320401
+ED   14,99.00%,James Sanders Jr.,(Democratic),322,AD 32,2026-11-04_12:16:26.320401
+ED   14,99.00%,James Sanders Jr.,(Working Families),21,AD 32,2026-11-04_12:16:26.320401
+ED   14,99.00%,WRITE-IN,&nbsp,0,AD 32,2026-11-04_12:16:26.320401
+ED   17,99.00%,James Sanders Jr.,(Democratic),321,AD 32,2026-11-04_12:16:26.320401
+ED   17,99.00%,James Sanders Jr.,(Working Families),13,AD 32,2026-11-04_12:16:26.320401
+ED   17,99.00%,WRITE-IN,&nbsp,2,AD 32,2026-11-04_12:16:26.320401
+ED   19,99.00%,James Sanders Jr.,(Democratic),325,AD 32,2026-11-04_12:16:26.320401
+ED   19,99.00%,James Sanders Jr.,(Working Families),21,AD 32,2026-11-04_12:16:26.320401
+ED   19,99.00%,WRITE-IN,&nbsp,2,AD 32,2026-11-04_12:16:26.320401
+ED   20,99.00%,James Sanders Jr.,(Democratic),313,AD 32,2026-11-04_12:16:26.320401
+ED   20,99.00%,James Sanders Jr.,(Working Families),18,AD 32,2026-11-04_12:16:26.320401
+ED   20,99.00%,WRITE-IN,&nbsp,0,AD 32,2026-11-04_12:16:26.320401
+ED   21,99.00%,James Sanders Jr.,(Democratic),307,AD 32,2026-11-04_12:16:26.320401
+ED   21,99.00%,James Sanders Jr.,(Working Families),16,AD 32,2026-11-04_12:16:26.320401
+ED   21,99.00%,WRITE-IN,&nbsp,0,AD 32,2026-11-04_12:16:26.320401
+ED   22,99.00%,James Sanders Jr.,(Democratic),501,AD 32,2026-11-04_12:16:26.320401
+ED   22,99.00%,James Sanders Jr.,(Working Families),24,AD 32,2026-11-04_12:16:26.320401
+ED   22,99.00%,WRITE-IN,&nbsp,1,AD 32,2026-11-04_12:16:26.320401
+ED   23,99.00%,James Sanders Jr.,(Democratic),374,AD 32,2026-11-04_12:16:26.320401
+ED   23,99.00%,James Sanders Jr.,(Working Families),21,AD 32,2026-11-04_12:16:26.320401
+ED   23,99.00%,WRITE-IN,&nbsp,2,AD 32,2026-11-04_12:16:26.320401
+ED   24,99.00%,James Sanders Jr.,(Democratic),317,AD 32,2026-11-04_12:16:26.320401
+ED   24,99.00%,James Sanders Jr.,(Working Families),19,AD 32,2026-11-04_12:16:26.320401
+ED   24,99.00%,WRITE-IN,&nbsp,0,AD 32,2026-11-04_12:16:26.320401
+ED   25,99.00%,James Sanders Jr.,(Democratic),363,AD 32,2026-11-04_12:16:26.320401
+ED   25,99.00%,James Sanders Jr.,(Working Families),12,AD 32,2026-11-04_12:16:26.320401
+ED   25,99.00%,WRITE-IN,&nbsp,1,AD 32,2026-11-04_12:16:26.320401
+ED   26,99.00%,James Sanders Jr.,(Democratic),452,AD 32,2026-11-04_12:16:26.320401
+ED   26,99.00%,James Sanders Jr.,(Working Families),23,AD 32,2026-11-04_12:16:26.320401
+ED   26,99.00%,WRITE-IN,&nbsp,0,AD 32,2026-11-04_12:16:26.320401
+ED   27,99.00%,James Sanders Jr.,(Democratic),461,AD 32,2026-11-04_12:16:26.320401
+ED   27,99.00%,James Sanders Jr.,(Working Families),20,AD 32,2026-11-04_12:16:26.320401
+ED   27,99.00%,WRITE-IN,&nbsp,0,AD 32,2026-11-04_12:16:26.320401
+ED   28,99.00%,James Sanders Jr.,(Democratic),388,AD 32,2026-11-04_12:16:26.320401
+ED   28,99.00%,James Sanders Jr.,(Working Families),10,AD 32,2026-11-04_12:16:26.320401
+ED   28,99.00%,WRITE-IN,&nbsp,1,AD 32,2026-11-04_12:16:26.320401
+ED   29,99.00%,James Sanders Jr.,(Democratic),275,AD 32,2026-11-04_12:16:26.320401
+ED   29,99.00%,James Sanders Jr.,(Working Families),10,AD 32,2026-11-04_12:16:26.320401
+ED   29,99.00%,WRITE-IN,&nbsp,3,AD 32,2026-11-04_12:16:26.320401
+ED   30,99.00%,James Sanders Jr.,(Democratic),319,AD 32,2026-11-04_12:16:26.320401
+ED   30,99.00%,James Sanders Jr.,(Working Families),21,AD 32,2026-11-04_12:16:26.320401
+ED   30,99.00%,WRITE-IN,&nbsp,2,AD 32,2026-11-04_12:16:26.320401
+ED   31,99.00%,James Sanders Jr.,(Democratic),326,AD 32,2026-11-04_12:16:26.320401
+ED   31,99.00%,James Sanders Jr.,(Working Families),6,AD 32,2026-11-04_12:16:26.320401
+ED   31,99.00%,WRITE-IN,&nbsp,0,AD 32,2026-11-04_12:16:26.320401
+ED   32,99.00%,James Sanders Jr.,(Democratic),432,AD 32,2026-11-04_12:16:26.320401
+ED   32,99.00%,James Sanders Jr.,(Working Families),22,AD 32,2026-11-04_12:16:26.320401
+ED   32,99.00%,WRITE-IN,&nbsp,1,AD 32,2026-11-04_12:16:26.320401
+ED   33,99.00%,James Sanders Jr.,(Democratic),145,AD 32,2026-11-04_12:16:26.320401
+ED   33,99.00%,James Sanders Jr.,(Working Families),5,AD 32,2026-11-04_12:16:26.320401
+ED   33,99.00%,WRITE-IN,&nbsp,1,AD 32,2026-11-04_12:16:26.320401
+ED   34,99.00%,James Sanders Jr.,(Democratic),530,AD 32,2026-11-04_12:16:26.320401
+ED   34,99.00%,James Sanders Jr.,(Working Families),32,AD 32,2026-11-04_12:16:26.320401
+ED   34,99.00%,WRITE-IN,&nbsp,1,AD 32,2026-11-04_12:16:26.320401
+ED   43,99.00%,James Sanders Jr.,(Democratic),351,AD 32,2026-11-04_12:16:26.320401
+ED   43,99.00%,James Sanders Jr.,(Working Families),13,AD 32,2026-11-04_12:16:26.320401
+ED   43,99.00%,WRITE-IN,&nbsp,2,AD 32,2026-11-04_12:16:26.320401
+ED   46,99.00%,James Sanders Jr.,(Democratic),406,AD 32,2026-11-04_12:16:26.320401
+ED   46,99.00%,James Sanders Jr.,(Working Families),11,AD 32,2026-11-04_12:16:26.320401
+ED   46,99.00%,WRITE-IN,&nbsp,0,AD 32,2026-11-04_12:16:26.320401
+ED   47,99.00%,James Sanders Jr.,(Democratic),407,AD 32,2026-11-04_12:16:26.320401
+ED   47,99.00%,James Sanders Jr.,(Working Families),13,AD 32,2026-11-04_12:16:26.320401
+ED   47,99.00%,WRITE-IN,&nbsp,2,AD 32,2026-11-04_12:16:26.320401
+ED   48,99.00%,James Sanders Jr.,(Democratic),554,AD 32,2026-11-04_12:16:26.320401
+ED   48,99.00%,James Sanders Jr.,(Working Families),11,AD 32,2026-11-04_12:16:26.320401
+ED   48,99.00%,WRITE-IN,&nbsp,0,AD 32,2026-11-04_12:16:26.320401
+ED   49,85.71%,James Sanders Jr.,(Democratic),297,AD 32,2026-11-04_12:16:26.320401
+ED   49,85.71%,James Sanders Jr.,(Working Families),9,AD 32,2026-11-04_12:16:26.320401
+ED   49,85.71%,WRITE-IN,&nbsp,0,AD 32,2026-11-04_12:16:26.320401
+ED   50,99.00%,James Sanders Jr.,(Democratic),551,AD 32,2026-11-04_12:16:26.320401
+ED   50,99.00%,James Sanders Jr.,(Working Families),31,AD 32,2026-11-04_12:16:26.320401
+ED   50,99.00%,WRITE-IN,&nbsp,1,AD 32,2026-11-04_12:16:26.320401
+ED   51,99.00%,James Sanders Jr.,(Democratic),522,AD 32,2026-11-04_12:16:26.320401
+ED   51,99.00%,James Sanders Jr.,(Working Families),22,AD 32,2026-11-04_12:16:26.320401
+ED   51,99.00%,WRITE-IN,&nbsp,1,AD 32,2026-11-04_12:16:26.320401
+ED   52,99.00%,James Sanders Jr.,(Democratic),409,AD 32,2026-11-04_12:16:26.320401
+ED   52,99.00%,James Sanders Jr.,(Working Families),22,AD 32,2026-11-04_12:16:26.320401
+ED   52,99.00%,WRITE-IN,&nbsp,1,AD 32,2026-11-04_12:16:26.320401
+ED   53,99.00%,James Sanders Jr.,(Democratic),704,AD 32,2026-11-04_12:16:26.320401
+ED   53,99.00%,James Sanders Jr.,(Working Families),28,AD 32,2026-11-04_12:16:26.320401
+ED   53,99.00%,WRITE-IN,&nbsp,2,AD 32,2026-11-04_12:16:26.320401
+ED   54,99.00%,James Sanders Jr.,(Democratic),622,AD 32,2026-11-04_12:16:26.320401
+ED   54,99.00%,James Sanders Jr.,(Working Families),12,AD 32,2026-11-04_12:16:26.320401
+ED   54,99.00%,WRITE-IN,&nbsp,2,AD 32,2026-11-04_12:16:26.320401
+ED   55,99.00%,James Sanders Jr.,(Democratic),431,AD 32,2026-11-04_12:16:26.320401
+ED   55,99.00%,James Sanders Jr.,(Working Families),13,AD 32,2026-11-04_12:16:26.320401
+ED   55,99.00%,WRITE-IN,&nbsp,0,AD 32,2026-11-04_12:16:26.320401
+ED   56,99.00%,James Sanders Jr.,(Democratic),421,AD 32,2026-11-04_12:16:26.320401
+ED   56,99.00%,James Sanders Jr.,(Working Families),17,AD 32,2026-11-04_12:16:26.320401
+ED   56,99.00%,WRITE-IN,&nbsp,0,AD 32,2026-11-04_12:16:26.320401
+ED   57,99.00%,James Sanders Jr.,(Democratic),456,AD 32,2026-11-04_12:16:26.320401
+ED   57,99.00%,James Sanders Jr.,(Working Families),11,AD 32,2026-11-04_12:16:26.320401
+ED   57,99.00%,WRITE-IN,&nbsp,0,AD 32,2026-11-04_12:16:26.320401
+ED   58,99.00%,James Sanders Jr.,(Democratic),421,AD 32,2026-11-04_12:16:26.320401
+ED   58,99.00%,James Sanders Jr.,(Working Families),25,AD 32,2026-11-04_12:16:26.320401
+ED   58,99.00%,WRITE-IN,&nbsp,0,AD 32,2026-11-04_12:16:26.320401
+ED   59,99.00%,James Sanders Jr.,(Democratic),410,AD 32,2026-11-04_12:16:26.320401
+ED   59,99.00%,James Sanders Jr.,(Working Families),18,AD 32,2026-11-04_12:16:26.320401
+ED   59,99.00%,WRITE-IN,&nbsp,0,AD 32,2026-11-04_12:16:26.320401
+ED   60,99.00%,James Sanders Jr.,(Democratic),459,AD 32,2026-11-04_12:16:26.320401
+ED   60,99.00%,James Sanders Jr.,(Working Families),10,AD 32,2026-11-04_12:16:26.320401
+ED   60,99.00%,WRITE-IN,&nbsp,1,AD 32,2026-11-04_12:16:26.320401
+ED   61,99.00%,James Sanders Jr.,(Democratic),432,AD 32,2026-11-04_12:16:26.320401
+ED   61,99.00%,James Sanders Jr.,(Working Families),16,AD 32,2026-11-04_12:16:26.320401
+ED   61,99.00%,WRITE-IN,&nbsp,0,AD 32,2026-11-04_12:16:26.320401
+ED   62,99.00%,James Sanders Jr.,(Democratic),421,AD 32,2026-11-04_12:16:26.320401
+ED   62,99.00%,James Sanders Jr.,(Working Families),10,AD 32,2026-11-04_12:16:26.320401
+ED   62,99.00%,WRITE-IN,&nbsp,1,AD 32,2026-11-04_12:16:26.320401
+ED   63,99.00%,James Sanders Jr.,(Democratic),340,AD 32,2026-11-04_12:16:26.320401
+ED   63,99.00%,James Sanders Jr.,(Working Families),10,AD 32,2026-11-04_12:16:26.320401
+ED   63,99.00%,WRITE-IN,&nbsp,0,AD 32,2026-11-04_12:16:26.320401
+ED   64,99.00%,James Sanders Jr.,(Democratic),352,AD 32,2026-11-04_12:16:26.320401
+ED   64,99.00%,James Sanders Jr.,(Working Families),7,AD 32,2026-11-04_12:16:26.320401
+ED   64,99.00%,WRITE-IN,&nbsp,1,AD 32,2026-11-04_12:16:26.320401
+ED   65,99.00%,James Sanders Jr.,(Democratic),428,AD 32,2026-11-04_12:16:26.320401
+ED   65,99.00%,James Sanders Jr.,(Working Families),5,AD 32,2026-11-04_12:16:26.320401
+ED   65,99.00%,WRITE-IN,&nbsp,0,AD 32,2026-11-04_12:16:26.320401
+ED   66,99.00%,James Sanders Jr.,(Democratic),410,AD 32,2026-11-04_12:16:26.320401
+ED   66,99.00%,James Sanders Jr.,(Working Families),23,AD 32,2026-11-04_12:16:26.320401
+ED   66,99.00%,WRITE-IN,&nbsp,0,AD 32,2026-11-04_12:16:26.320401
+Total,,James Sanders Jr.,(Democratic),16355,AD 32,2026-11-04_12:16:26.320401
+Total,,James Sanders Jr.,(Working Families),654,AD 32,2026-11-04_12:16:26.320401
+Total,,WRITE-IN,&nbsp,31,AD 32,2026-11-04_12:16:26.320401

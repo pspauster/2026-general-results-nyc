@@ -1,0 +1,366 @@
+ED_num,reported,candidate,party,votes,AD_num,scrape_time
+ED    1,99.00%,Tony Simone,(Democratic),600,AD 75,2026-11-04_12:17:52.973999
+ED    1,99.00%,Cristina Fontanelli,(Republican),123,AD 75,2026-11-04_12:17:52.973999
+ED    1,99.00%,Tony Simone,(Working Families),90,AD 75,2026-11-04_12:17:52.973999
+ED    1,99.00%,Cristina Fontanelli,(Save NYC),3,AD 75,2026-11-04_12:17:52.973999
+ED    1,99.00%,WRITE-IN,&nbsp,1,AD 75,2026-11-04_12:17:52.973999
+ED    2,99.00%,Tony Simone,(Democratic),755,AD 75,2026-11-04_12:17:52.973999
+ED    2,99.00%,Cristina Fontanelli,(Republican),197,AD 75,2026-11-04_12:17:52.973999
+ED    2,99.00%,Tony Simone,(Working Families),59,AD 75,2026-11-04_12:17:52.973999
+ED    2,99.00%,Cristina Fontanelli,(Save NYC),9,AD 75,2026-11-04_12:17:52.973999
+ED    2,99.00%,WRITE-IN,&nbsp,1,AD 75,2026-11-04_12:17:52.973999
+ED    3,99.00%,Tony Simone,(Democratic),662,AD 75,2026-11-04_12:17:52.973999
+ED    3,99.00%,Cristina Fontanelli,(Republican),194,AD 75,2026-11-04_12:17:52.973999
+ED    3,99.00%,Tony Simone,(Working Families),63,AD 75,2026-11-04_12:17:52.973999
+ED    3,99.00%,Cristina Fontanelli,(Save NYC),6,AD 75,2026-11-04_12:17:52.973999
+ED    3,99.00%,WRITE-IN,&nbsp,1,AD 75,2026-11-04_12:17:52.973999
+ED    4,99.00%,Tony Simone,(Democratic),265,AD 75,2026-11-04_12:17:52.973999
+ED    4,99.00%,Cristina Fontanelli,(Republican),121,AD 75,2026-11-04_12:17:52.973999
+ED    4,99.00%,Tony Simone,(Working Families),23,AD 75,2026-11-04_12:17:52.973999
+ED    4,99.00%,Cristina Fontanelli,(Save NYC),5,AD 75,2026-11-04_12:17:52.973999
+ED    4,99.00%,WRITE-IN,&nbsp,0,AD 75,2026-11-04_12:17:52.973999
+ED    5,99.00%,Tony Simone,(Democratic),523,AD 75,2026-11-04_12:17:52.973999
+ED    5,99.00%,Cristina Fontanelli,(Republican),188,AD 75,2026-11-04_12:17:52.973999
+ED    5,99.00%,Tony Simone,(Working Families),37,AD 75,2026-11-04_12:17:52.973999
+ED    5,99.00%,Cristina Fontanelli,(Save NYC),3,AD 75,2026-11-04_12:17:52.973999
+ED    5,99.00%,WRITE-IN,&nbsp,2,AD 75,2026-11-04_12:17:52.973999
+ED    6,99.00%,Tony Simone,(Democratic),607,AD 75,2026-11-04_12:17:52.973999
+ED    6,99.00%,Cristina Fontanelli,(Republican),173,AD 75,2026-11-04_12:17:52.973999
+ED    6,99.00%,Tony Simone,(Working Families),64,AD 75,2026-11-04_12:17:52.973999
+ED    6,99.00%,Cristina Fontanelli,(Save NYC),5,AD 75,2026-11-04_12:17:52.973999
+ED    6,99.00%,WRITE-IN,&nbsp,0,AD 75,2026-11-04_12:17:52.973999
+ED    7,99.00%,Tony Simone,(Democratic),411,AD 75,2026-11-04_12:17:52.973999
+ED    7,99.00%,Cristina Fontanelli,(Republican),104,AD 75,2026-11-04_12:17:52.973999
+ED    7,99.00%,Tony Simone,(Working Families),50,AD 75,2026-11-04_12:17:52.973999
+ED    7,99.00%,Cristina Fontanelli,(Save NYC),5,AD 75,2026-11-04_12:17:52.973999
+ED    7,99.00%,WRITE-IN,&nbsp,0,AD 75,2026-11-04_12:17:52.973999
+ED    8,99.00%,Tony Simone,(Democratic),378,AD 75,2026-11-04_12:17:52.973999
+ED    8,99.00%,Cristina Fontanelli,(Republican),67,AD 75,2026-11-04_12:17:52.973999
+ED    8,99.00%,Tony Simone,(Working Families),76,AD 75,2026-11-04_12:17:52.973999
+ED    8,99.00%,Cristina Fontanelli,(Save NYC),3,AD 75,2026-11-04_12:17:52.973999
+ED    8,99.00%,WRITE-IN,&nbsp,0,AD 75,2026-11-04_12:17:52.973999
+ED    9,99.00%,Tony Simone,(Democratic),151,AD 75,2026-11-04_12:17:52.973999
+ED    9,99.00%,Cristina Fontanelli,(Republican),22,AD 75,2026-11-04_12:17:52.973999
+ED    9,99.00%,Tony Simone,(Working Families),31,AD 75,2026-11-04_12:17:52.973999
+ED    9,99.00%,Cristina Fontanelli,(Save NYC),2,AD 75,2026-11-04_12:17:52.973999
+ED    9,99.00%,WRITE-IN,&nbsp,0,AD 75,2026-11-04_12:17:52.973999
+ED   10,99.00%,Tony Simone,(Democratic),642,AD 75,2026-11-04_12:17:52.973999
+ED   10,99.00%,Cristina Fontanelli,(Republican),200,AD 75,2026-11-04_12:17:52.973999
+ED   10,99.00%,Tony Simone,(Working Families),53,AD 75,2026-11-04_12:17:52.973999
+ED   10,99.00%,Cristina Fontanelli,(Save NYC),6,AD 75,2026-11-04_12:17:52.973999
+ED   10,99.00%,WRITE-IN,&nbsp,3,AD 75,2026-11-04_12:17:52.973999
+ED   11,99.00%,Tony Simone,(Democratic),300,AD 75,2026-11-04_12:17:52.973999
+ED   11,99.00%,Cristina Fontanelli,(Republican),143,AD 75,2026-11-04_12:17:52.973999
+ED   11,99.00%,Tony Simone,(Working Families),21,AD 75,2026-11-04_12:17:52.973999
+ED   11,99.00%,Cristina Fontanelli,(Save NYC),10,AD 75,2026-11-04_12:17:52.973999
+ED   11,99.00%,WRITE-IN,&nbsp,0,AD 75,2026-11-04_12:17:52.973999
+ED   12,99.00%,Tony Simone,(Democratic),429,AD 75,2026-11-04_12:17:52.973999
+ED   12,99.00%,Cristina Fontanelli,(Republican),126,AD 75,2026-11-04_12:17:52.973999
+ED   12,99.00%,Tony Simone,(Working Families),46,AD 75,2026-11-04_12:17:52.973999
+ED   12,99.00%,Cristina Fontanelli,(Save NYC),4,AD 75,2026-11-04_12:17:52.973999
+ED   12,99.00%,WRITE-IN,&nbsp,1,AD 75,2026-11-04_12:17:52.973999
+ED   13,99.00%,Tony Simone,(Democratic),518,AD 75,2026-11-04_12:17:52.973999
+ED   13,99.00%,Cristina Fontanelli,(Republican),235,AD 75,2026-11-04_12:17:52.973999
+ED   13,99.00%,Tony Simone,(Working Families),60,AD 75,2026-11-04_12:17:52.973999
+ED   13,99.00%,Cristina Fontanelli,(Save NYC),6,AD 75,2026-11-04_12:17:52.973999
+ED   13,99.00%,WRITE-IN,&nbsp,3,AD 75,2026-11-04_12:17:52.973999
+ED   14,99.00%,Tony Simone,(Democratic),186,AD 75,2026-11-04_12:17:52.973999
+ED   14,99.00%,Cristina Fontanelli,(Republican),69,AD 75,2026-11-04_12:17:52.973999
+ED   14,99.00%,Tony Simone,(Working Families),20,AD 75,2026-11-04_12:17:52.973999
+ED   14,99.00%,Cristina Fontanelli,(Save NYC),1,AD 75,2026-11-04_12:17:52.973999
+ED   14,99.00%,WRITE-IN,&nbsp,0,AD 75,2026-11-04_12:17:52.973999
+ED   15,99.00%,Tony Simone,(Democratic),314,AD 75,2026-11-04_12:17:52.973999
+ED   15,99.00%,Cristina Fontanelli,(Republican),88,AD 75,2026-11-04_12:17:52.973999
+ED   15,99.00%,Tony Simone,(Working Families),37,AD 75,2026-11-04_12:17:52.973999
+ED   15,99.00%,Cristina Fontanelli,(Save NYC),3,AD 75,2026-11-04_12:17:52.973999
+ED   15,99.00%,WRITE-IN,&nbsp,0,AD 75,2026-11-04_12:17:52.973999
+ED   16,99.00%,Tony Simone,(Democratic),145,AD 75,2026-11-04_12:17:52.973999
+ED   16,99.00%,Cristina Fontanelli,(Republican),40,AD 75,2026-11-04_12:17:52.973999
+ED   16,99.00%,Tony Simone,(Working Families),16,AD 75,2026-11-04_12:17:52.973999
+ED   16,99.00%,Cristina Fontanelli,(Save NYC),1,AD 75,2026-11-04_12:17:52.973999
+ED   16,99.00%,WRITE-IN,&nbsp,1,AD 75,2026-11-04_12:17:52.973999
+ED   17,87.50%,Tony Simone,(Democratic),278,AD 75,2026-11-04_12:17:52.973999
+ED   17,87.50%,Cristina Fontanelli,(Republican),86,AD 75,2026-11-04_12:17:52.973999
+ED   17,87.50%,Tony Simone,(Working Families),53,AD 75,2026-11-04_12:17:52.973999
+ED   17,87.50%,Cristina Fontanelli,(Save NYC),5,AD 75,2026-11-04_12:17:52.973999
+ED   17,87.50%,WRITE-IN,&nbsp,0,AD 75,2026-11-04_12:17:52.973999
+ED   18,99.00%,Tony Simone,(Democratic),169,AD 75,2026-11-04_12:17:52.973999
+ED   18,99.00%,Cristina Fontanelli,(Republican),68,AD 75,2026-11-04_12:17:52.973999
+ED   18,99.00%,Tony Simone,(Working Families),15,AD 75,2026-11-04_12:17:52.973999
+ED   18,99.00%,Cristina Fontanelli,(Save NYC),0,AD 75,2026-11-04_12:17:52.973999
+ED   18,99.00%,WRITE-IN,&nbsp,0,AD 75,2026-11-04_12:17:52.973999
+ED   19,99.00%,Tony Simone,(Democratic),370,AD 75,2026-11-04_12:17:52.973999
+ED   19,99.00%,Cristina Fontanelli,(Republican),122,AD 75,2026-11-04_12:17:52.973999
+ED   19,99.00%,Tony Simone,(Working Families),40,AD 75,2026-11-04_12:17:52.973999
+ED   19,99.00%,Cristina Fontanelli,(Save NYC),7,AD 75,2026-11-04_12:17:52.973999
+ED   19,99.00%,WRITE-IN,&nbsp,2,AD 75,2026-11-04_12:17:52.973999
+ED   20,99.00%,Tony Simone,(Democratic),282,AD 75,2026-11-04_12:17:52.973999
+ED   20,99.00%,Cristina Fontanelli,(Republican),100,AD 75,2026-11-04_12:17:52.973999
+ED   20,99.00%,Tony Simone,(Working Families),28,AD 75,2026-11-04_12:17:52.973999
+ED   20,99.00%,Cristina Fontanelli,(Save NYC),8,AD 75,2026-11-04_12:17:52.973999
+ED   20,99.00%,WRITE-IN,&nbsp,0,AD 75,2026-11-04_12:17:52.973999
+ED   21,99.00%,Tony Simone,(Democratic),180,AD 75,2026-11-04_12:17:52.973999
+ED   21,99.00%,Cristina Fontanelli,(Republican),55,AD 75,2026-11-04_12:17:52.973999
+ED   21,99.00%,Tony Simone,(Working Families),21,AD 75,2026-11-04_12:17:52.973999
+ED   21,99.00%,Cristina Fontanelli,(Save NYC),3,AD 75,2026-11-04_12:17:52.973999
+ED   21,99.00%,WRITE-IN,&nbsp,0,AD 75,2026-11-04_12:17:52.973999
+ED   22,99.00%,Tony Simone,(Democratic),409,AD 75,2026-11-04_12:17:52.973999
+ED   22,99.00%,Cristina Fontanelli,(Republican),146,AD 75,2026-11-04_12:17:52.973999
+ED   22,99.00%,Tony Simone,(Working Families),33,AD 75,2026-11-04_12:17:52.973999
+ED   22,99.00%,Cristina Fontanelli,(Save NYC),7,AD 75,2026-11-04_12:17:52.973999
+ED   22,99.00%,WRITE-IN,&nbsp,2,AD 75,2026-11-04_12:17:52.973999
+ED   23,99.00%,Tony Simone,(Democratic),361,AD 75,2026-11-04_12:17:52.973999
+ED   23,99.00%,Cristina Fontanelli,(Republican),86,AD 75,2026-11-04_12:17:52.973999
+ED   23,99.00%,Tony Simone,(Working Families),41,AD 75,2026-11-04_12:17:52.973999
+ED   23,99.00%,Cristina Fontanelli,(Save NYC),4,AD 75,2026-11-04_12:17:52.973999
+ED   23,99.00%,WRITE-IN,&nbsp,1,AD 75,2026-11-04_12:17:52.973999
+ED   24,99.00%,Tony Simone,(Democratic),453,AD 75,2026-11-04_12:17:52.973999
+ED   24,99.00%,Cristina Fontanelli,(Republican),122,AD 75,2026-11-04_12:17:52.973999
+ED   24,99.00%,Tony Simone,(Working Families),44,AD 75,2026-11-04_12:17:52.973999
+ED   24,99.00%,Cristina Fontanelli,(Save NYC),8,AD 75,2026-11-04_12:17:52.973999
+ED   24,99.00%,WRITE-IN,&nbsp,1,AD 75,2026-11-04_12:17:52.973999
+ED   25,99.00%,Tony Simone,(Democratic),264,AD 75,2026-11-04_12:17:52.973999
+ED   25,99.00%,Cristina Fontanelli,(Republican),46,AD 75,2026-11-04_12:17:52.973999
+ED   25,99.00%,Tony Simone,(Working Families),28,AD 75,2026-11-04_12:17:52.973999
+ED   25,99.00%,Cristina Fontanelli,(Save NYC),1,AD 75,2026-11-04_12:17:52.973999
+ED   25,99.00%,WRITE-IN,&nbsp,1,AD 75,2026-11-04_12:17:52.973999
+ED   26,99.00%,Tony Simone,(Democratic),565,AD 75,2026-11-04_12:17:52.973999
+ED   26,99.00%,Cristina Fontanelli,(Republican),139,AD 75,2026-11-04_12:17:52.973999
+ED   26,99.00%,Tony Simone,(Working Families),47,AD 75,2026-11-04_12:17:52.973999
+ED   26,99.00%,Cristina Fontanelli,(Save NYC),3,AD 75,2026-11-04_12:17:52.973999
+ED   26,99.00%,WRITE-IN,&nbsp,4,AD 75,2026-11-04_12:17:52.973999
+ED   27,99.00%,Tony Simone,(Democratic),407,AD 75,2026-11-04_12:17:52.973999
+ED   27,99.00%,Cristina Fontanelli,(Republican),126,AD 75,2026-11-04_12:17:52.973999
+ED   27,99.00%,Tony Simone,(Working Families),29,AD 75,2026-11-04_12:17:52.973999
+ED   27,99.00%,Cristina Fontanelli,(Save NYC),4,AD 75,2026-11-04_12:17:52.973999
+ED   27,99.00%,WRITE-IN,&nbsp,1,AD 75,2026-11-04_12:17:52.973999
+ED   28,85.71%,Tony Simone,(Democratic),533,AD 75,2026-11-04_12:17:52.973999
+ED   28,85.71%,Cristina Fontanelli,(Republican),116,AD 75,2026-11-04_12:17:52.973999
+ED   28,85.71%,Tony Simone,(Working Families),62,AD 75,2026-11-04_12:17:52.973999
+ED   28,85.71%,Cristina Fontanelli,(Save NYC),4,AD 75,2026-11-04_12:17:52.973999
+ED   28,85.71%,WRITE-IN,&nbsp,1,AD 75,2026-11-04_12:17:52.973999
+ED   29,99.00%,Tony Simone,(Democratic),476,AD 75,2026-11-04_12:17:52.973999
+ED   29,99.00%,Cristina Fontanelli,(Republican),72,AD 75,2026-11-04_12:17:52.973999
+ED   29,99.00%,Tony Simone,(Working Families),84,AD 75,2026-11-04_12:17:52.973999
+ED   29,99.00%,Cristina Fontanelli,(Save NYC),4,AD 75,2026-11-04_12:17:52.973999
+ED   29,99.00%,WRITE-IN,&nbsp,2,AD 75,2026-11-04_12:17:52.973999
+ED   30,99.00%,Tony Simone,(Democratic),348,AD 75,2026-11-04_12:17:52.973999
+ED   30,99.00%,Cristina Fontanelli,(Republican),105,AD 75,2026-11-04_12:17:52.973999
+ED   30,99.00%,Tony Simone,(Working Families),39,AD 75,2026-11-04_12:17:52.973999
+ED   30,99.00%,Cristina Fontanelli,(Save NYC),6,AD 75,2026-11-04_12:17:52.973999
+ED   30,99.00%,WRITE-IN,&nbsp,0,AD 75,2026-11-04_12:17:52.973999
+ED   31,99.00%,Tony Simone,(Democratic),556,AD 75,2026-11-04_12:17:52.973999
+ED   31,99.00%,Cristina Fontanelli,(Republican),80,AD 75,2026-11-04_12:17:52.973999
+ED   31,99.00%,Tony Simone,(Working Families),116,AD 75,2026-11-04_12:17:52.973999
+ED   31,99.00%,Cristina Fontanelli,(Save NYC),3,AD 75,2026-11-04_12:17:52.973999
+ED   31,99.00%,WRITE-IN,&nbsp,4,AD 75,2026-11-04_12:17:52.973999
+ED   32,99.00%,Tony Simone,(Democratic),446,AD 75,2026-11-04_12:17:52.973999
+ED   32,99.00%,Cristina Fontanelli,(Republican),60,AD 75,2026-11-04_12:17:52.973999
+ED   32,99.00%,Tony Simone,(Working Families),75,AD 75,2026-11-04_12:17:52.973999
+ED   32,99.00%,Cristina Fontanelli,(Save NYC),6,AD 75,2026-11-04_12:17:52.973999
+ED   32,99.00%,WRITE-IN,&nbsp,0,AD 75,2026-11-04_12:17:52.973999
+ED   33,99.00%,Tony Simone,(Democratic),403,AD 75,2026-11-04_12:17:52.973999
+ED   33,99.00%,Cristina Fontanelli,(Republican),77,AD 75,2026-11-04_12:17:52.973999
+ED   33,99.00%,Tony Simone,(Working Families),56,AD 75,2026-11-04_12:17:52.973999
+ED   33,99.00%,Cristina Fontanelli,(Save NYC),4,AD 75,2026-11-04_12:17:52.973999
+ED   33,99.00%,WRITE-IN,&nbsp,3,AD 75,2026-11-04_12:17:52.973999
+ED   34,99.00%,Tony Simone,(Democratic),380,AD 75,2026-11-04_12:17:52.973999
+ED   34,99.00%,Cristina Fontanelli,(Republican),71,AD 75,2026-11-04_12:17:52.973999
+ED   34,99.00%,Tony Simone,(Working Families),68,AD 75,2026-11-04_12:17:52.973999
+ED   34,99.00%,Cristina Fontanelli,(Save NYC),4,AD 75,2026-11-04_12:17:52.973999
+ED   34,99.00%,WRITE-IN,&nbsp,0,AD 75,2026-11-04_12:17:52.973999
+ED   35,99.00%,Tony Simone,(Democratic),289,AD 75,2026-11-04_12:17:52.973999
+ED   35,99.00%,Cristina Fontanelli,(Republican),46,AD 75,2026-11-04_12:17:52.973999
+ED   35,99.00%,Tony Simone,(Working Families),41,AD 75,2026-11-04_12:17:52.973999
+ED   35,99.00%,Cristina Fontanelli,(Save NYC),7,AD 75,2026-11-04_12:17:52.973999
+ED   35,99.00%,WRITE-IN,&nbsp,1,AD 75,2026-11-04_12:17:52.973999
+ED   36,99.00%,Tony Simone,(Democratic),115,AD 75,2026-11-04_12:17:52.973999
+ED   36,99.00%,Cristina Fontanelli,(Republican),39,AD 75,2026-11-04_12:17:52.973999
+ED   36,99.00%,Tony Simone,(Working Families),20,AD 75,2026-11-04_12:17:52.973999
+ED   36,99.00%,Cristina Fontanelli,(Save NYC),4,AD 75,2026-11-04_12:17:52.973999
+ED   36,99.00%,WRITE-IN,&nbsp,0,AD 75,2026-11-04_12:17:52.973999
+ED   37,99.00%,Tony Simone,(Democratic),434,AD 75,2026-11-04_12:17:52.973999
+ED   37,99.00%,Cristina Fontanelli,(Republican),89,AD 75,2026-11-04_12:17:52.973999
+ED   37,99.00%,Tony Simone,(Working Families),89,AD 75,2026-11-04_12:17:52.973999
+ED   37,99.00%,Cristina Fontanelli,(Save NYC),6,AD 75,2026-11-04_12:17:52.973999
+ED   37,99.00%,WRITE-IN,&nbsp,1,AD 75,2026-11-04_12:17:52.973999
+ED   38,99.00%,Tony Simone,(Democratic),467,AD 75,2026-11-04_12:17:52.973999
+ED   38,99.00%,Cristina Fontanelli,(Republican),87,AD 75,2026-11-04_12:17:52.973999
+ED   38,99.00%,Tony Simone,(Working Families),124,AD 75,2026-11-04_12:17:52.973999
+ED   38,99.00%,Cristina Fontanelli,(Save NYC),13,AD 75,2026-11-04_12:17:52.973999
+ED   38,99.00%,WRITE-IN,&nbsp,2,AD 75,2026-11-04_12:17:52.973999
+ED   39,99.00%,Tony Simone,(Democratic),456,AD 75,2026-11-04_12:17:52.973999
+ED   39,99.00%,Cristina Fontanelli,(Republican),109,AD 75,2026-11-04_12:17:52.973999
+ED   39,99.00%,Tony Simone,(Working Families),115,AD 75,2026-11-04_12:17:52.973999
+ED   39,99.00%,Cristina Fontanelli,(Save NYC),17,AD 75,2026-11-04_12:17:52.973999
+ED   39,99.00%,WRITE-IN,&nbsp,2,AD 75,2026-11-04_12:17:52.973999
+ED   40,99.00%,Tony Simone,(Democratic),440,AD 75,2026-11-04_12:17:52.973999
+ED   40,99.00%,Cristina Fontanelli,(Republican),58,AD 75,2026-11-04_12:17:52.973999
+ED   40,99.00%,Tony Simone,(Working Families),62,AD 75,2026-11-04_12:17:52.973999
+ED   40,99.00%,Cristina Fontanelli,(Save NYC),5,AD 75,2026-11-04_12:17:52.973999
+ED   40,99.00%,WRITE-IN,&nbsp,1,AD 75,2026-11-04_12:17:52.973999
+ED   41,99.00%,Tony Simone,(Democratic),530,AD 75,2026-11-04_12:17:52.973999
+ED   41,99.00%,Cristina Fontanelli,(Republican),137,AD 75,2026-11-04_12:17:52.973999
+ED   41,99.00%,Tony Simone,(Working Families),65,AD 75,2026-11-04_12:17:52.973999
+ED   41,99.00%,Cristina Fontanelli,(Save NYC),3,AD 75,2026-11-04_12:17:52.973999
+ED   41,99.00%,WRITE-IN,&nbsp,1,AD 75,2026-11-04_12:17:52.973999
+ED   42,99.00%,Tony Simone,(Democratic),523,AD 75,2026-11-04_12:17:52.973999
+ED   42,99.00%,Cristina Fontanelli,(Republican),87,AD 75,2026-11-04_12:17:52.973999
+ED   42,99.00%,Tony Simone,(Working Families),62,AD 75,2026-11-04_12:17:52.973999
+ED   42,99.00%,Cristina Fontanelli,(Save NYC),3,AD 75,2026-11-04_12:17:52.973999
+ED   42,99.00%,WRITE-IN,&nbsp,2,AD 75,2026-11-04_12:17:52.973999
+ED   43,99.00%,Tony Simone,(Democratic),625,AD 75,2026-11-04_12:17:52.973999
+ED   43,99.00%,Cristina Fontanelli,(Republican),180,AD 75,2026-11-04_12:17:52.973999
+ED   43,99.00%,Tony Simone,(Working Families),160,AD 75,2026-11-04_12:17:52.973999
+ED   43,99.00%,Cristina Fontanelli,(Save NYC),18,AD 75,2026-11-04_12:17:52.973999
+ED   43,99.00%,WRITE-IN,&nbsp,5,AD 75,2026-11-04_12:17:52.973999
+ED   44,87.50%,Tony Simone,(Democratic),532,AD 75,2026-11-04_12:17:52.973999
+ED   44,87.50%,Cristina Fontanelli,(Republican),76,AD 75,2026-11-04_12:17:52.973999
+ED   44,87.50%,Tony Simone,(Working Families),84,AD 75,2026-11-04_12:17:52.973999
+ED   44,87.50%,Cristina Fontanelli,(Save NYC),7,AD 75,2026-11-04_12:17:52.973999
+ED   44,87.50%,WRITE-IN,&nbsp,0,AD 75,2026-11-04_12:17:52.973999
+ED   45,87.50%,Tony Simone,(Democratic),398,AD 75,2026-11-04_12:17:52.973999
+ED   45,87.50%,Cristina Fontanelli,(Republican),57,AD 75,2026-11-04_12:17:52.973999
+ED   45,87.50%,Tony Simone,(Working Families),73,AD 75,2026-11-04_12:17:52.973999
+ED   45,87.50%,Cristina Fontanelli,(Save NYC),2,AD 75,2026-11-04_12:17:52.973999
+ED   45,87.50%,WRITE-IN,&nbsp,2,AD 75,2026-11-04_12:17:52.973999
+ED   46,99.00%,Tony Simone,(Democratic),499,AD 75,2026-11-04_12:17:52.973999
+ED   46,99.00%,Cristina Fontanelli,(Republican),85,AD 75,2026-11-04_12:17:52.973999
+ED   46,99.00%,Tony Simone,(Working Families),97,AD 75,2026-11-04_12:17:52.973999
+ED   46,99.00%,Cristina Fontanelli,(Save NYC),2,AD 75,2026-11-04_12:17:52.973999
+ED   46,99.00%,WRITE-IN,&nbsp,1,AD 75,2026-11-04_12:17:52.973999
+ED   47,83.33%,Tony Simone,(Democratic),400,AD 75,2026-11-04_12:17:52.973999
+ED   47,83.33%,Cristina Fontanelli,(Republican),76,AD 75,2026-11-04_12:17:52.973999
+ED   47,83.33%,Tony Simone,(Working Families),47,AD 75,2026-11-04_12:17:52.973999
+ED   47,83.33%,Cristina Fontanelli,(Save NYC),5,AD 75,2026-11-04_12:17:52.973999
+ED   47,83.33%,WRITE-IN,&nbsp,1,AD 75,2026-11-04_12:17:52.973999
+ED   48,83.33%,Tony Simone,(Democratic),266,AD 75,2026-11-04_12:17:52.973999
+ED   48,83.33%,Cristina Fontanelli,(Republican),51,AD 75,2026-11-04_12:17:52.973999
+ED   48,83.33%,Tony Simone,(Working Families),43,AD 75,2026-11-04_12:17:52.973999
+ED   48,83.33%,Cristina Fontanelli,(Save NYC),4,AD 75,2026-11-04_12:17:52.973999
+ED   48,83.33%,WRITE-IN,&nbsp,0,AD 75,2026-11-04_12:17:52.973999
+ED   49,99.00%,Tony Simone,(Democratic),597,AD 75,2026-11-04_12:17:52.973999
+ED   49,99.00%,Cristina Fontanelli,(Republican),67,AD 75,2026-11-04_12:17:52.973999
+ED   49,99.00%,Tony Simone,(Working Families),126,AD 75,2026-11-04_12:17:52.973999
+ED   49,99.00%,Cristina Fontanelli,(Save NYC),6,AD 75,2026-11-04_12:17:52.973999
+ED   49,99.00%,WRITE-IN,&nbsp,1,AD 75,2026-11-04_12:17:52.973999
+ED   50,99.00%,Tony Simone,(Democratic),384,AD 75,2026-11-04_12:17:52.973999
+ED   50,99.00%,Cristina Fontanelli,(Republican),46,AD 75,2026-11-04_12:17:52.973999
+ED   50,99.00%,Tony Simone,(Working Families),85,AD 75,2026-11-04_12:17:52.973999
+ED   50,99.00%,Cristina Fontanelli,(Save NYC),2,AD 75,2026-11-04_12:17:52.973999
+ED   50,99.00%,WRITE-IN,&nbsp,0,AD 75,2026-11-04_12:17:52.973999
+ED   51,88.89%,Tony Simone,(Democratic),573,AD 75,2026-11-04_12:17:52.973999
+ED   51,88.89%,Cristina Fontanelli,(Republican),71,AD 75,2026-11-04_12:17:52.973999
+ED   51,88.89%,Tony Simone,(Working Families),141,AD 75,2026-11-04_12:17:52.973999
+ED   51,88.89%,Cristina Fontanelli,(Save NYC),7,AD 75,2026-11-04_12:17:52.973999
+ED   51,88.89%,WRITE-IN,&nbsp,0,AD 75,2026-11-04_12:17:52.973999
+ED   52,99.00%,Tony Simone,(Democratic),627,AD 75,2026-11-04_12:17:52.973999
+ED   52,99.00%,Cristina Fontanelli,(Republican),78,AD 75,2026-11-04_12:17:52.973999
+ED   52,99.00%,Tony Simone,(Working Families),81,AD 75,2026-11-04_12:17:52.973999
+ED   52,99.00%,Cristina Fontanelli,(Save NYC),21,AD 75,2026-11-04_12:17:52.973999
+ED   52,99.00%,WRITE-IN,&nbsp,1,AD 75,2026-11-04_12:17:52.973999
+ED   53,99.00%,Tony Simone,(Democratic),602,AD 75,2026-11-04_12:17:52.973999
+ED   53,99.00%,Cristina Fontanelli,(Republican),75,AD 75,2026-11-04_12:17:52.973999
+ED   53,99.00%,Tony Simone,(Working Families),96,AD 75,2026-11-04_12:17:52.973999
+ED   53,99.00%,Cristina Fontanelli,(Save NYC),12,AD 75,2026-11-04_12:17:52.973999
+ED   53,99.00%,WRITE-IN,&nbsp,3,AD 75,2026-11-04_12:17:52.973999
+ED   54,99.00%,Tony Simone,(Democratic),303,AD 75,2026-11-04_12:17:52.973999
+ED   54,99.00%,Cristina Fontanelli,(Republican),60,AD 75,2026-11-04_12:17:52.973999
+ED   54,99.00%,Tony Simone,(Working Families),46,AD 75,2026-11-04_12:17:52.973999
+ED   54,99.00%,Cristina Fontanelli,(Save NYC),2,AD 75,2026-11-04_12:17:52.973999
+ED   54,99.00%,WRITE-IN,&nbsp,4,AD 75,2026-11-04_12:17:52.973999
+ED   55,88.89%,Tony Simone,(Democratic),266,AD 75,2026-11-04_12:17:52.973999
+ED   55,88.89%,Cristina Fontanelli,(Republican),62,AD 75,2026-11-04_12:17:52.973999
+ED   55,88.89%,Tony Simone,(Working Families),26,AD 75,2026-11-04_12:17:52.973999
+ED   55,88.89%,Cristina Fontanelli,(Save NYC),6,AD 75,2026-11-04_12:17:52.973999
+ED   55,88.89%,WRITE-IN,&nbsp,0,AD 75,2026-11-04_12:17:52.973999
+ED   56,99.00%,Tony Simone,(Democratic),354,AD 75,2026-11-04_12:17:52.973999
+ED   56,99.00%,Cristina Fontanelli,(Republican),66,AD 75,2026-11-04_12:17:52.973999
+ED   56,99.00%,Tony Simone,(Working Families),64,AD 75,2026-11-04_12:17:52.973999
+ED   56,99.00%,Cristina Fontanelli,(Save NYC),5,AD 75,2026-11-04_12:17:52.973999
+ED   56,99.00%,WRITE-IN,&nbsp,0,AD 75,2026-11-04_12:17:52.973999
+ED   57,99.00%,Tony Simone,(Democratic),351,AD 75,2026-11-04_12:17:52.973999
+ED   57,99.00%,Cristina Fontanelli,(Republican),78,AD 75,2026-11-04_12:17:52.973999
+ED   57,99.00%,Tony Simone,(Working Families),60,AD 75,2026-11-04_12:17:52.973999
+ED   57,99.00%,Cristina Fontanelli,(Save NYC),7,AD 75,2026-11-04_12:17:52.973999
+ED   57,99.00%,WRITE-IN,&nbsp,2,AD 75,2026-11-04_12:17:52.973999
+ED   58,99.00%,Tony Simone,(Democratic),433,AD 75,2026-11-04_12:17:52.973999
+ED   58,99.00%,Cristina Fontanelli,(Republican),87,AD 75,2026-11-04_12:17:52.973999
+ED   58,99.00%,Tony Simone,(Working Families),65,AD 75,2026-11-04_12:17:52.973999
+ED   58,99.00%,Cristina Fontanelli,(Save NYC),8,AD 75,2026-11-04_12:17:52.973999
+ED   58,99.00%,WRITE-IN,&nbsp,1,AD 75,2026-11-04_12:17:52.973999
+ED   59,99.00%,Tony Simone,(Democratic),393,AD 75,2026-11-04_12:17:52.973999
+ED   59,99.00%,Cristina Fontanelli,(Republican),94,AD 75,2026-11-04_12:17:52.973999
+ED   59,99.00%,Tony Simone,(Working Families),63,AD 75,2026-11-04_12:17:52.973999
+ED   59,99.00%,Cristina Fontanelli,(Save NYC),6,AD 75,2026-11-04_12:17:52.973999
+ED   59,99.00%,WRITE-IN,&nbsp,0,AD 75,2026-11-04_12:17:52.973999
+ED   60,99.00%,Tony Simone,(Democratic),479,AD 75,2026-11-04_12:17:52.973999
+ED   60,99.00%,Cristina Fontanelli,(Republican),118,AD 75,2026-11-04_12:17:52.973999
+ED   60,99.00%,Tony Simone,(Working Families),45,AD 75,2026-11-04_12:17:52.973999
+ED   60,99.00%,Cristina Fontanelli,(Save NYC),5,AD 75,2026-11-04_12:17:52.973999
+ED   60,99.00%,WRITE-IN,&nbsp,1,AD 75,2026-11-04_12:17:52.973999
+ED   61,99.00%,Tony Simone,(Democratic),180,AD 75,2026-11-04_12:17:52.973999
+ED   61,99.00%,Cristina Fontanelli,(Republican),36,AD 75,2026-11-04_12:17:52.973999
+ED   61,99.00%,Tony Simone,(Working Families),10,AD 75,2026-11-04_12:17:52.973999
+ED   61,99.00%,Cristina Fontanelli,(Save NYC),6,AD 75,2026-11-04_12:17:52.973999
+ED   61,99.00%,WRITE-IN,&nbsp,5,AD 75,2026-11-04_12:17:52.973999
+ED   62,99.00%,Tony Simone,(Democratic),509,AD 75,2026-11-04_12:17:52.973999
+ED   62,99.00%,Cristina Fontanelli,(Republican),95,AD 75,2026-11-04_12:17:52.973999
+ED   62,99.00%,Tony Simone,(Working Families),51,AD 75,2026-11-04_12:17:52.973999
+ED   62,99.00%,Cristina Fontanelli,(Save NYC),7,AD 75,2026-11-04_12:17:52.973999
+ED   62,99.00%,WRITE-IN,&nbsp,3,AD 75,2026-11-04_12:17:52.973999
+ED   63,99.00%,Tony Simone,(Democratic),804,AD 75,2026-11-04_12:17:52.973999
+ED   63,99.00%,Cristina Fontanelli,(Republican),95,AD 75,2026-11-04_12:17:52.973999
+ED   63,99.00%,Tony Simone,(Working Families),94,AD 75,2026-11-04_12:17:52.973999
+ED   63,99.00%,Cristina Fontanelli,(Save NYC),4,AD 75,2026-11-04_12:17:52.973999
+ED   63,99.00%,WRITE-IN,&nbsp,1,AD 75,2026-11-04_12:17:52.973999
+ED   64,87.50%,Tony Simone,(Democratic),477,AD 75,2026-11-04_12:17:52.973999
+ED   64,87.50%,Cristina Fontanelli,(Republican),63,AD 75,2026-11-04_12:17:52.973999
+ED   64,87.50%,Tony Simone,(Working Families),67,AD 75,2026-11-04_12:17:52.973999
+ED   64,87.50%,Cristina Fontanelli,(Save NYC),0,AD 75,2026-11-04_12:17:52.973999
+ED   64,87.50%,WRITE-IN,&nbsp,3,AD 75,2026-11-04_12:17:52.973999
+ED   65,87.50%,Tony Simone,(Democratic),346,AD 75,2026-11-04_12:17:52.973999
+ED   65,87.50%,Cristina Fontanelli,(Republican),109,AD 75,2026-11-04_12:17:52.973999
+ED   65,87.50%,Tony Simone,(Working Families),30,AD 75,2026-11-04_12:17:52.973999
+ED   65,87.50%,Cristina Fontanelli,(Save NYC),6,AD 75,2026-11-04_12:17:52.973999
+ED   65,87.50%,WRITE-IN,&nbsp,2,AD 75,2026-11-04_12:17:52.973999
+ED   66,87.50%,Tony Simone,(Democratic),293,AD 75,2026-11-04_12:17:52.973999
+ED   66,87.50%,Cristina Fontanelli,(Republican),96,AD 75,2026-11-04_12:17:52.973999
+ED   66,87.50%,Tony Simone,(Working Families),23,AD 75,2026-11-04_12:17:52.973999
+ED   66,87.50%,Cristina Fontanelli,(Save NYC),5,AD 75,2026-11-04_12:17:52.973999
+ED   66,87.50%,WRITE-IN,&nbsp,1,AD 75,2026-11-04_12:17:52.973999
+ED   67,99.00%,Tony Simone,(Democratic),5,AD 75,2026-11-04_12:17:52.973999
+ED   67,99.00%,Cristina Fontanelli,(Republican),0,AD 75,2026-11-04_12:17:52.973999
+ED   67,99.00%,Tony Simone,(Working Families),1,AD 75,2026-11-04_12:17:52.973999
+ED   67,99.00%,Cristina Fontanelli,(Save NYC),0,AD 75,2026-11-04_12:17:52.973999
+ED   67,99.00%,WRITE-IN,&nbsp,0,AD 75,2026-11-04_12:17:52.973999
+ED   68,99.00%,Tony Simone,(Democratic),352,AD 75,2026-11-04_12:17:52.973999
+ED   68,99.00%,Cristina Fontanelli,(Republican),114,AD 75,2026-11-04_12:17:52.973999
+ED   68,99.00%,Tony Simone,(Working Families),33,AD 75,2026-11-04_12:17:52.973999
+ED   68,99.00%,Cristina Fontanelli,(Save NYC),2,AD 75,2026-11-04_12:17:52.973999
+ED   68,99.00%,WRITE-IN,&nbsp,1,AD 75,2026-11-04_12:17:52.973999
+ED   69,99.00%,Tony Simone,(Democratic),0,AD 75,2026-11-04_12:17:52.973999
+ED   69,99.00%,Cristina Fontanelli,(Republican),0,AD 75,2026-11-04_12:17:52.973999
+ED   69,99.00%,Tony Simone,(Working Families),0,AD 75,2026-11-04_12:17:52.973999
+ED   69,99.00%,Cristina Fontanelli,(Save NYC),0,AD 75,2026-11-04_12:17:52.973999
+ED   69,99.00%,WRITE-IN,&nbsp,0,AD 75,2026-11-04_12:17:52.973999
+ED   70,99.00%,Tony Simone,(Democratic),0,AD 75,2026-11-04_12:17:52.973999
+ED   70,99.00%,Cristina Fontanelli,(Republican),0,AD 75,2026-11-04_12:17:52.973999
+ED   70,99.00%,Tony Simone,(Working Families),0,AD 75,2026-11-04_12:17:52.973999
+ED   70,99.00%,Cristina Fontanelli,(Save NYC),0,AD 75,2026-11-04_12:17:52.973999
+ED   70,99.00%,WRITE-IN,&nbsp,0,AD 75,2026-11-04_12:17:52.973999
+ED   71,99.00%,Tony Simone,(Democratic),0,AD 75,2026-11-04_12:17:52.973999
+ED   71,99.00%,Cristina Fontanelli,(Republican),0,AD 75,2026-11-04_12:17:52.973999
+ED   71,99.00%,Tony Simone,(Working Families),0,AD 75,2026-11-04_12:17:52.973999
+ED   71,99.00%,Cristina Fontanelli,(Save NYC),0,AD 75,2026-11-04_12:17:52.973999
+ED   71,99.00%,WRITE-IN,&nbsp,0,AD 75,2026-11-04_12:17:52.973999
+ED   72,99.00%,Tony Simone,(Democratic),0,AD 75,2026-11-04_12:17:52.973999
+ED   72,99.00%,Cristina Fontanelli,(Republican),0,AD 75,2026-11-04_12:17:52.973999
+ED   72,99.00%,Tony Simone,(Working Families),0,AD 75,2026-11-04_12:17:52.973999
+ED   72,99.00%,Cristina Fontanelli,(Save NYC),0,AD 75,2026-11-04_12:17:52.973999
+ED   72,99.00%,WRITE-IN,&nbsp,0,AD 75,2026-11-04_12:17:52.973999
+Total,,Tony Simone,(Democratic),28068,AD 75,2026-11-04_12:17:52.973999
+Total,,Cristina Fontanelli,(Republican),6454,AD 75,2026-11-04_12:17:52.973999
+Total,,Tony Simone,(Working Families),3914,AD 75,2026-11-04_12:17:52.973999
+Total,,Cristina Fontanelli,(Save NYC),366,AD 75,2026-11-04_12:17:52.973999
+Total,,WRITE-IN,&nbsp,83,AD 75,2026-11-04_12:17:52.973999
